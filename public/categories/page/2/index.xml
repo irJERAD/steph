@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories - Palaver</title>
+    <link>http://example.org/categories/</link>
+    <description>Recent content in Categories on Palaver</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Jun 2019 05:15:35 -0800</lastBuildDate>
+    
+        <atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>golang</title>
+      <link>http://example.org/categories/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/golang/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
