@@ -1,0 +1,48 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aether - Palaver</title>
+    <link>http://example.org/</link>
+    <description>Recent content in aether on Palaver</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 27 Apr 2018 09:46:15 -0400</lastBuildDate>
+    
+        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hypno Science</title>
+      <link>http://example.org/post/hynopsyche/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/hynopsyche/</guid>
+      <description>neuro linguistic programming and hypnotech</description>
+    </item><item>
+      <title></title>
+      <link>http://example.org/post/asoflate/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/asoflate/</guid>
+      <description>detangled narratives</description>
+    </item><item>
+      <title>One Foot</title>
+      <link>http://example.org/post/onefoot/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/onefoot/</guid>
+      <description>tales from the other side</description>
+    </item><item>
+      <title>Living to Die</title>
+      <link>http://example.org/post/livingtodie/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/livingtodie/</guid>
+      <description></description>
+    </item><item>
+      <title>Self Propagate</title>
+      <link>http://example.org/post/selfpropagate/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/selfpropagate/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
