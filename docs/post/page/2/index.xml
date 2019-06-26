@@ -4,11 +4,18 @@
     <link>http://palaver.jerad.xyz/post/</link>
     <description>Recent content in Posts on Palaver</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2019 02:42:00 -0800</lastBuildDate>
     
         <atom:link href="http://palaver.jerad.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Self Propagate</title>
+      <link>http://palaver.jerad.xyz/post/selfpropagate/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/selfpropagate/</guid>
+      <description></description>
+    </item><item>
       <title>Sera Sera</title>
       <link>http://palaver.jerad.xyz/post/serasera/</link>
       <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
@@ -22,13 +29,6 @@
       
       <guid>http://palaver.jerad.xyz/post/usalways/</guid>
       <description></description>
-    </item><item>
-      <title>Aether Features</title>
-      <link>http://palaver.jerad.xyz/post/aether-features/</link>
-      <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/aether-features/</guid>
-      <description>Hugo combined with the Aether theme turns easy to write markdown into powerful web pages.  KaTeX, Highlight.js, and Hugo provides the ability to create mathmatical symobols, equations, highlighted code, tables, lists, and much more.</description>
     </item><item>
       <title>Aether: A Clean Theme for Hugo</title>
       <link>http://palaver.jerad.xyz/post/aether-theme/</link>

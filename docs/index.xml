@@ -9,6 +9,13 @@
         <atom:link href="http://palaver.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Tossing Out Unwrapped Halloween Candy</title>
+      <link>http://palaver.jerad.xyz/post/unwappedcandy/</link>
+      <pubDate>Wed, 26 Jun 2019 02:42:00 -0800</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/unwappedcandy/</guid>
+      <description>How it feels after three decades of </description>
+    </item><item>
       <title>Hypno Science</title>
       <link>http://palaver.jerad.xyz/post/hynopsyche/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
@@ -35,13 +42,6 @@
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>http://palaver.jerad.xyz/post/livingtodie/</guid>
-      <description></description>
-    </item><item>
-      <title>Self Propagate</title>
-      <link>http://palaver.jerad.xyz/post/selfpropagate/</link>
-      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/selfpropagate/</guid>
       <description></description>
     </item>
   </channel>
