@@ -3,175 +3,175 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/post/hynopsyche/</loc>
+    <loc>http://palaver.jerad.xyz/post/hynopsyche/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>http://palaver.jerad.xyz/post/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/asoflate/</loc>
+    <loc>http://palaver.jerad.xyz/post/asoflate/</loc>
     <lastmod>2019-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/onefoot/</loc>
+    <loc>http://palaver.jerad.xyz/post/onefoot/</loc>
     <lastmod>2019-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/livingtodie/</loc>
+    <loc>http://palaver.jerad.xyz/post/livingtodie/</loc>
     <lastmod>2019-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/selfpropagate/</loc>
+    <loc>http://palaver.jerad.xyz/post/selfpropagate/</loc>
     <lastmod>2019-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://palaver.jerad.xyz/categories/</loc>
     <lastmod>2019-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/serasera/</loc>
+    <loc>http://palaver.jerad.xyz/post/serasera/</loc>
     <lastmod>2019-02-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/love/</loc>
+    <loc>http://palaver.jerad.xyz/categories/love/</loc>
     <lastmod>2019-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/usalways/</loc>
+    <loc>http://palaver.jerad.xyz/post/usalways/</loc>
     <lastmod>2019-01-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/aether-features/</loc>
+    <loc>http://palaver.jerad.xyz/post/aether-features/</loc>
     <lastmod>2018-12-19T10:35:35-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/features/</loc>
+    <loc>http://palaver.jerad.xyz/categories/features/</loc>
     <lastmod>2018-12-19T10:35:35-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/aether-theme/</loc>
+    <loc>http://palaver.jerad.xyz/post/aether-theme/</loc>
     <lastmod>2018-05-02T14:33:42-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/web/</loc>
+    <loc>http://palaver.jerad.xyz/categories/web/</loc>
     <lastmod>2018-05-02T14:33:42-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://palaver.jerad.xyz/</loc>
     <lastmod>2018-04-27T09:46:15-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/creating-a-new-theme/</loc>
+    <loc>http://palaver.jerad.xyz/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://palaver.jerad.xyz/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/goisforlovers/</loc>
+    <loc>http://palaver.jerad.xyz/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://palaver.jerad.xyz/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/development/</loc>
+    <loc>http://palaver.jerad.xyz/post/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/go/</loc>
+    <loc>http://palaver.jerad.xyz/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/golang/</loc>
+    <loc>http://palaver.jerad.xyz/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/golang/</loc>
+    <loc>http://palaver.jerad.xyz/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/hugo/</loc>
+    <loc>http://palaver.jerad.xyz/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/templates/</loc>
+    <loc>http://palaver.jerad.xyz/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/themes/</loc>
+    <loc>http://palaver.jerad.xyz/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/migrate-from-jekyll/</loc>
+    <loc>http://palaver.jerad.xyz/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/poisonleaf/</loc>
+    <loc>http://palaver.jerad.xyz/post/poisonleaf/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/silkwormscraddle/</loc>
+    <loc>http://palaver.jerad.xyz/post/silkwormscraddle/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/post/asongagame/</loc>
+    <loc>http://palaver.jerad.xyz/post/asongagame/</loc>
   </url>
   
 </urlset>

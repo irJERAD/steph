@@ -1,5 +1,5 @@
 # aether theme
-baseurl = "http://example.org"
+baseurl = "http://palaver.jerad.xyz"
 title = "Palaver"
 author = "Jerad Acosta"
 canonifyurls = true
