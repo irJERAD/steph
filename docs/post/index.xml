@@ -1,85 +1,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts - Pavaler</title>
-    <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on Pavaler</description>
+    <title>Posts - Palaver</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on Palaver</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hypno Science</title>
-      <link>http://localhost:1313/post/hynopsyche/</link>
+      <link>http://example.org/post/hynopsyche/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/hynopsyche/</guid>
+      <guid>http://example.org/post/hynopsyche/</guid>
       <description>neuro linguistic programming and hypnotech</description>
     </item><item>
       <title></title>
-      <link>http://localhost:1313/post/asoflate/</link>
+      <link>http://example.org/post/asoflate/</link>
       <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/asoflate/</guid>
+      <guid>http://example.org/post/asoflate/</guid>
       <description>detangled narratives</description>
     </item><item>
       <title>One Foot</title>
-      <link>http://localhost:1313/post/onefoot/</link>
+      <link>http://example.org/post/onefoot/</link>
       <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/onefoot/</guid>
+      <guid>http://example.org/post/onefoot/</guid>
       <description>tales from the other side</description>
     </item><item>
       <title>Living to Die</title>
-      <link>http://localhost:1313/post/livingtodie/</link>
+      <link>http://example.org/post/livingtodie/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/livingtodie/</guid>
+      <guid>http://example.org/post/livingtodie/</guid>
       <description></description>
     </item><item>
       <title>Self Propagate</title>
-      <link>http://localhost:1313/post/selfpropagate/</link>
+      <link>http://example.org/post/selfpropagate/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/selfpropagate/</guid>
+      <guid>http://example.org/post/selfpropagate/</guid>
       <description></description>
-    </item><item>
-      <title>Sera Sera</title>
-      <link>http://localhost:1313/post/serasera/</link>
-      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/serasera/</guid>
-      <description>Let it be, this love of ours</description>
-    </item><item>
-      <title>Us Always: Meglow</title>
-      <link>http://localhost:1313/post/usalways/</link>
-      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/usalways/</guid>
-      <description></description>
-    </item><item>
-      <title>Aether Features</title>
-      <link>http://localhost:1313/post/aether-features/</link>
-      <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
-      
-      <guid>http://localhost:1313/post/aether-features/</guid>
-      <description>Hugo combined with the Aether theme turns easy to write markdown into powerful web pages.  KaTeX, Highlight.js, and Hugo provides the ability to create mathmatical symobols, equations, highlighted code, tables, lists, and much more.</description>
-    </item><item>
-      <title>Aether: A Clean Theme for Hugo</title>
-      <link>http://localhost:1313/post/aether-theme/</link>
-      <pubDate>Wed, 02 May 2018 14:33:42 -0400</pubDate>
-      
-      <guid>http://localhost:1313/post/aether-theme/</guid>
-      <description> Aether is new theme for Hugo that emphasizes motion, material, and depth as design elements. Distracting styling and page elements are forgone to focus on the content.</description>
-    </item><item>
-      <title>Creating a New Theme</title>
-      <link>http://localhost:1313/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
   </channel>
 </rss>

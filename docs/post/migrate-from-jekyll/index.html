@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en-us" dir="ltr">
+<html lang="" dir="ltr">
   <head>
   <meta charset="utf-8" />
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Migrate to Hugo from Jekyll &middot; Pavaler</title>
+  <title>Migrate to Hugo from Jekyll &middot; Palaver</title>
   <meta name="description" content="" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
@@ -12,23 +12,27 @@
   
   
   
-  <link href="http://localhost:1313/css/concated.min.css" rel="stylesheet">
+  <link href="http://example.org/css/concated.min.css" rel="stylesheet">
   
-  
+  <style>
+    body {
+      background: #ecedef url("http://example.org/img/ignasi_pattern_s.png") repeat;
+    }
+  </style>
 </head>
 
   <body class="single-body">
     <nav class="nav-bar side-padding">
-  <h1 class="nav-header"><a href="http://localhost:1313/" class="nav-text">Pavaler</a></h1>
+  <h1 class="nav-header"><a href="http://example.org" class="nav-text">Storytelling</a></h1>
   <div class="hamburger-menu">
     <button onclick="hamburgerMenuPressed.call(this)" aria-haspopup="true" aria-expanded="false" aria-controls="menu" aria-label="Menu">
       <span></span>
       <span></span>
     </button>
     <ul id="menu" class="hamburger-menu-overlay">
-      <li><a href="http://localhost:1313/" class="hamburger-menu-overlay-link">Home</a></li>
-      <li><a href="http://localhost:1313/about/" class="hamburger-menu-overlay-link">About Hugo</a></li>
-      <li><a href="http://localhost:1313/categories/development" class="hamburger-menu-overlay-link">Development</a></li><li><a href="http://localhost:1313/categories/features" class="hamburger-menu-overlay-link">Features</a></li><li><a href="http://localhost:1313/categories/golang" class="hamburger-menu-overlay-link">Golang</a></li><li><a href="http://localhost:1313/categories/love" class="hamburger-menu-overlay-link">Love</a></li><li><a href="http://localhost:1313/categories/web" class="hamburger-menu-overlay-link">Web</a></li>
+      <li><a href="http://example.org" class="hamburger-menu-overlay-link">Home</a></li>
+      <li><a href="http://example.org/about/" class="hamburger-menu-overlay-link">About Hugo</a></li>
+      <li><a href="http://example.org/categories/development" class="hamburger-menu-overlay-link">Development</a></li><li><a href="http://example.org/categories/features" class="hamburger-menu-overlay-link">Features</a></li><li><a href="http://example.org/categories/golang" class="hamburger-menu-overlay-link">Golang</a></li><li><a href="http://example.org/categories/love" class="hamburger-menu-overlay-link">Love</a></li><li><a href="http://example.org/categories/web" class="hamburger-menu-overlay-link">Web</a></li>
     </ul>
   </div>
 </nav>
@@ -41,8 +45,8 @@
         
         <picture class="post-figure">
             
-            <source srcset="http://localhost:1313/img/yan-ots-257617-unsplash.jpg">
-          <img src="http://localhost:1313/img/yan-ots-257617-unsplash.jpg" >
+            <source srcset="http://example.org/img/yan-ots-257617-unsplash.jpg">
+          <img src="http://example.org/img/yan-ots-257617-unsplash.jpg" >
         </picture>
         
         
@@ -69,7 +73,7 @@ With Jekyll, something that looked like</p>
 
 <h2 id="create-your-hugo-configuration-file">Create your Hugo configuration file</h2>
 
-<p>Hugo can read your configuration as JSON, YAML or TOML. Hugo supports parameters custom configuration too. Refer to the <a href="/overview/configuration/">Hugo configuration documentation</a> for details.</p>
+<p>Hugo can read your configuration as JSON, YAML or TOML. Hugo supports parameters custom configuration too. Refer to the <a href="http://example.org/overview/configuration/">Hugo configuration documentation</a> for details.</p>
 
 <h2 id="set-your-configuration-publish-folder-to-site">Set your configuration publish folder to <code>_site</code></h2>
 
@@ -95,13 +99,13 @@ git submodule add -b gh-pages git@github.com:your-username/your-repo.git public
 
 <h2 id="convert-jekyll-templates-to-hugo-templates">Convert Jekyll templates to Hugo templates</h2>
 
-<p>That&rsquo;s the bulk of the work right here. The documentation is your friend. You should refer to <a href="http://jekyllrb.com/docs/templates/">Jekyll&rsquo;s template documentation</a> if you need to refresh your memory on how you built your blog and <a href="/layout/templates/">Hugo&rsquo;s template</a> to learn Hugo&rsquo;s way.</p>
+<p>That&rsquo;s the bulk of the work right here. The documentation is your friend. You should refer to <a href="http://jekyllrb.com/docs/templates/">Jekyll&rsquo;s template documentation</a> if you need to refresh your memory on how you built your blog and <a href="http://example.org/layout/templates/">Hugo&rsquo;s template</a> to learn Hugo&rsquo;s way.</p>
 
 <p>As a single reference data point, converting my templates for <a href="http://heyitsalex.net/">heyitsalex.net</a> took me no more than a few hours.</p>
 
 <h2 id="convert-jekyll-plugins-to-hugo-shortcodes">Convert Jekyll plugins to Hugo shortcodes</h2>
 
-<p>Jekyll has <a href="http://jekyllrb.com/docs/plugins/">plugins</a>; Hugo has <a href="/doc/shortcodes/">shortcodes</a>. It&rsquo;s fairly trivial to do a port.</p>
+<p>Jekyll has <a href="http://jekyllrb.com/docs/plugins/">plugins</a>; Hugo has <a href="http://example.org/doc/shortcodes/">shortcodes</a>. It&rsquo;s fairly trivial to do a port.</p>
 
 <h3 id="implementation">Implementation</h3>
 
@@ -220,7 +224,7 @@ Liquid::Template.register_tag('image', Jekyll::ImageTag)
     <nav class="end-nav side-padding">
       
       <a ontouchstart="cardPressed.call(this)" ontouchend="cardReleased.call(this)" ontouchmove="cardReleased.call(this)" 
-  href="http://localhost:1313/post/poisonleaf/" class="card blog-card" rel="bookmark" >
+  href="http://example.org/post/poisonleaf/" class="card blog-card" rel="bookmark" >
     
   <article class="card-body">
     <h2 class="card-title"></h2>
@@ -233,7 +237,7 @@ Liquid::Template.register_tag('image', Jekyll::ImageTag)
 </a>
       
       <a ontouchstart="cardPressed.call(this)" ontouchend="cardReleased.call(this)" ontouchmove="cardReleased.call(this)" 
-  href="http://localhost:1313/" class="card home-card" style="background-image: url( http://localhost:1313/img/grey-cloud.jpg )" rel="bookmark" >
+  href="http://example.org" class="card home-card" style="background-image: url( http://example.org/img/grey-cloud.jpg )" rel="bookmark" >
   Home
 </a>
     </nav>
@@ -242,7 +246,7 @@ Liquid::Template.register_tag('image', Jekyll::ImageTag)
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/contrib/auto-render.min.js" integrity="sha384-kmZOZB5ObwgQnS/DuDg6TScgOiWWBiVt0plIRkZCmE6rDZGrEOQeHM5PcHi+nyqe" crossorigin="anonymous"
     onload="renderMathInElement(document.body);"></script>
   
-  <script src="http://localhost:1313/js/core.min.js"></script>
+  <script src="http://example.org/js/core.min.js"></script>
 <script>
   hljs.initHighlightingOnLoad();
 </script>

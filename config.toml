@@ -6,6 +6,8 @@ canonifyurls = true
 paginate = 5
 theme = "aether"
 
+publishDir = "docs"
+
 [params]
 brand = "Storytelling"
 description = "Creatively Shared Storytelling"
