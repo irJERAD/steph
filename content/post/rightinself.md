@@ -1,5 +1,5 @@
 ---
-title: "Self Propagate"
+title: "Rightous In Self"
 date: "2019-06-26"
 description: "Let go of inhibition to sample what may be possible, then decide how much effort your willing to put into your faith."
 categories: []

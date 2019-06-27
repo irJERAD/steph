@@ -1,0 +1,23 @@
+---
+title: "MindShare Manifesto"
+date: "2019-06-27"
+description: "A call to propogate what we have all been feeling, an awakening."
+categories: []
+featuredImage: "img/paper/bananafan.png"
+featuredImageDescription: "Split Intent"
+dropCap: true
+displayInMenu: false
+displayInList: true
+draft: false
+---
+
+We are eager to take our interaction with technology and each other to the next level.  
+Screens changed the way we consume information.  
+The keyboard expidited the speed at which we could input data.  
+With the mouse and GUI's human interaction with our computers entered the skeuomorphic era.  
+Here we have leveraged rich contextual and cultural ...  
+
+Now we can propose to complete releave ourselves of the tangible constraints to our processing platforms we just recently prized (throws mouse over shoulder: the two-axis mouse limits us to up, down and side to side inputs with our screen to navigate to a file. If I wanted to interact with that file through time - say forawrd and backward - we had no way to do so).  
+
+
+### The Network  
