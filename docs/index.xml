@@ -9,6 +9,13 @@
         <atom:link href="http://palaver.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>De Ja Notes</title>
+      <link>http://palaver.jerad.xyz/post/dejanotes/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/dejanotes/</guid>
+      <description>Strange occurances</description>
+    </item><item>
       <title>Metas 4 Neuro</title>
       <link>http://palaver.jerad.xyz/post/metas4neuro/</link>
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
@@ -35,13 +42,6 @@
       <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>http://palaver.jerad.xyz/post/rightinself/</guid>
-      <description>Let go of inhibition to sample what may be possible, then decide how much effort your willing to put into your faith.</description>
-    </item><item>
-      <title>Self Propagate</title>
-      <link>http://palaver.jerad.xyz/post/selfpropagate/</link>
-      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/selfpropagate/</guid>
       <description>Let go of inhibition to sample what may be possible, then decide how much effort your willing to put into your faith.</description>
     </item>
   </channel>
