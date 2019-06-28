@@ -91,6 +91,11 @@
   </url>
   
   <url>
+    <loc>http://palaver.jerad.xyz/myparasight/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://palaver.jerad.xyz/post/poisonleaf/</loc>
     <priority>0</priority>
   </url>
