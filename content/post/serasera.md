@@ -3,14 +3,14 @@ title: "Sera Sera"
 date: 2019-02-12
 description: "Let it be, this love of ours"
 categories: ["love"]
-featuredImage: "img/paper/loveisnotlove.png"
+image: "img/paper/loveisnotlove.png"
 featuredImageDescription: ""
 dropCap: true
 displayInMenu: false
 displayInList: true
 draft: false
 ---
-
+<pre>
 - Who What When Where Why?
 	- [We are suppose, Designed] to be an indomitable force
 		- From two [individuals]: Jerad & Steph, came one Casper.
@@ -45,3 +45,4 @@ etch a picture perfect image of the battle map
 		- Stoic in the face of this perpetual flat, inalienable problems regenerated at strictly untrue rates.
 		Distributed in the toxic waste that landed ahead of their journey.
 		Currently at end, next to the beginning.
+</pre>

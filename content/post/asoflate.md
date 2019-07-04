@@ -4,10 +4,10 @@ date: 2019-06-22
 description: "detangled narratives"
 displayInList: true
 displayInMenu: false
-draft: false
+draft: true
 dropCap: true
-featuredImage: "img/paper/tent.png"
+image: "img/paper/tent.png"
 featuredImageDescription: ""
 ---
 
-Pain of imposed virtue.
+Pain of imposed virtue.  

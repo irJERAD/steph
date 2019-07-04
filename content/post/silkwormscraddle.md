@@ -3,7 +3,7 @@ title: "Silk Worms Craddle"
 date: "June 2019"
 description: ""
 categories: []
-featuredImage: ""
+image: ""
 featuredImageDescription: ""
 dropCap: true
 displayInMenu: false

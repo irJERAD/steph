@@ -3,7 +3,7 @@ title: "Us Always: Meglow"
 date: 2019-01-19
 description: ""
 categories: ["love"]
-featuredImage: "img/paper/heartshapedbox.png"
+image: "img/paper/heartshapedbox.png"
 featuredImageDescription: ""
 dropCap: true
 displayInMenu: false

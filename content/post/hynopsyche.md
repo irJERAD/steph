@@ -3,23 +3,22 @@ title: "Hypno Science"
 date: 2019-06-23
 description: "NLP and other hypnotech"
 categories: []
-featuredImage: ""
+image: ""
 featuredImageDescription: ""
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: false
+draft: true
 ---
 
 
-Goal: Encourage specific emotional state; such as happy, sad, angry. 
+Goal: Encourage specific emotional state; such as happy, sad, angry.  
 
 Nouns:  
 - Repeater: tall tape deck like machine, played with while first learning about lip and mind reading  
-- Kid from the 4th dimension youtube video  
+- Kid from the 4th dimension YouTube video  
 - "life is but a dream, Beyonce 2015"  
 
 Ideas:  
 - Embedded / Embodied Cognition  
-- Imagine If; Suspended Belief  
-- 
+- Imagine If; Suspended Belief   

@@ -1,3 +1,17 @@
+---
+title: "Poison Leaf"
+date: 2019-06-22
+description: "Reactionary tale"
+categories: []
+image: "img/paper/door.png"
+featuredImageDescription: "one foot on the other side"
+dropCap: true
+displayInMenu: false
+displayInList: true
+draft: false
+---
+
+<pre>
 Topic
 - I am what I am
 	- I am’s what I says I am’s
@@ -27,3 +41,4 @@ Not Trusting is VERY dangerous
 * Actor’s Dress
 - 
 * Spilt Eggs
+</pre>
