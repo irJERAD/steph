@@ -18,7 +18,7 @@ draft: false
 - Little white friend appeared in middle at the end  
 
 
-**Friday June 21:** (2:00am - 4:30am)  
+**Friday June 21:** (Panama Earthquake 2:00am - 4:30am)  
 - Missed flight someone sat  
 - Felt like you peed your pants  
 - Felt organs soften. bulge in belly left side.  
