@@ -34,6 +34,6 @@ draft: true
 - Felt and mentioned "even making the floor shake" (different from the table)  
 
 **July 1** (4:28pm):  
-- Falling traffic light spotted while driving to gondola with grandma  
+- Falling traffic light spotted while driving to Gondola with grandma  
 - Radio lady was on listening and talking  
 - Fell down over the ocean between Long Beach and Catalina Island  

@@ -22,4 +22,12 @@ Lessons learned in time:
 Park the car in the drive way when playing to protect the house  
 
 With this home as my chapel, radio my staff, herding of the sheeple.  
-Press on for the next key, blow up any and all meek  
+Press on for the next key, blow up any and all meek.  
+
+
+Why do we play?  
+'I want to win!'  
+'I play to leave'
+Most of us want out, none of us seem to get there.  
+The best are sent up to play on the real stage.  
+Or is it a distraction why our leaders cower in tunnels below - trying to out wait prophesied -
