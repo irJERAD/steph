@@ -3,6 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://palaver.jerad.xyz/post/</loc>
+    <lastmod>2019-07-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/turntspun/</loc>
+    <lastmod>2019-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://palaver.jerad.xyz/post/metas4neuro/</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
   </url>
@@ -10,12 +21,6 @@
   <url>
     <loc>http://palaver.jerad.xyz/post/mindsharemanifesto/</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/post/</loc>
-    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -71,8 +76,28 @@
   </url>
   
   <url>
+    <loc>http://palaver.jerad.xyz/post/disposal/</loc>
+    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/mywill/</loc>
+    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/connectedeve/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://palaver.jerad.xyz/post/farcesidetale/</loc>
     <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/dejanotes/</loc>
+    <lastmod>2018-06-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
