@@ -3,8 +3,8 @@ title: "De Ja Notes"
 date: "2018-06-27"
 description: "Strange occurances"
 categories: []
-image: "img/paper/bananafan.png"
-featuredImageDescription: "Split Intent"
+featuredImage: "img/paper/bananafan.png"
+imageDescription: "Split Intent"
 dropCap: true
 displayInMenu: false
 displayInList: true

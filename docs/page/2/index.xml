@@ -4,81 +4,45 @@
     <link>http://palaver.jerad.xyz/</link>
     <description>Recent content on Palaver</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Fri, 27 Apr 2018 09:46:15 -0400</lastBuildDate>
     
         <atom:link href="http://palaver.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Us Always: Meglow</title>
-      <link>http://palaver.jerad.xyz/post/usalways/</link>
-      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Self Propagate</title>
+      <link>http://palaver.jerad.xyz/post/selfpropagate/</link>
+      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/post/usalways/</guid>
+      <guid>http://palaver.jerad.xyz/post/selfpropagate/</guid>
+      <description>Let go of inhibition to sample what may be possible, then decide how much effort your willing to put into your faith.</description>
+    </item><item>
+      <title>One Foot</title>
+      <link>http://palaver.jerad.xyz/post/onefoot/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/onefoot/</guid>
+      <description>tales from the other side</description>
+    </item><item>
+      <title>Poison Leaf</title>
+      <link>http://palaver.jerad.xyz/post/poisonleaf/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/poisonleaf/</guid>
+      <description>Reactionary tale</description>
+    </item><item>
+      <title>Living to Die</title>
+      <link>http://palaver.jerad.xyz/post/livingtodie/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/livingtodie/</guid>
       <description></description>
     </item><item>
-      <title>Disposal</title>
-      <link>http://palaver.jerad.xyz/post/disposal/</link>
-      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Sera Sera</title>
+      <link>http://palaver.jerad.xyz/post/serasera/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/post/disposal/</guid>
-      <description>Lose your stuff and reload</description>
-    </item><item>
-      <title>Last Will and Testament</title>
-      <link>http://palaver.jerad.xyz/post/mywill/</link>
-      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/mywill/</guid>
-      <description>Whatever it is they want, give it towards something better</description>
-    </item><item>
-      <title>Connected Evolution</title>
-      <link>http://palaver.jerad.xyz/post/connectedeve/</link>
-      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/connectedeve/</guid>
-      <description>Connected with the cure</description>
-    </item><item>
-      <title>Tale from the Farce-side</title>
-      <link>http://palaver.jerad.xyz/post/farcesidetale/</link>
-      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/farcesidetale/</guid>
-      <description>The math does not add up</description>
-    </item><item>
-      <title>De Ja Notes</title>
-      <link>http://palaver.jerad.xyz/post/dejanotes/</link>
-      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/dejanotes/</guid>
-      <description>Strange occurances</description>
-    </item><item>
-      <title>Eye Spy</title>
-      <link>http://palaver.jerad.xyz/tour/eyespy/</link>
-      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/tour/eyespy/</guid>
-      <description>Specialized Information Retrieval</description>
-    </item><item>
-      <title>Folicle</title>
-      <link>http://palaver.jerad.xyz/tour/folicle/</link>
-      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/tour/folicle/</guid>
-      <description>Faux Thread The Needle</description>
-    </item><item>
-      <title></title>
-      <link>http://palaver.jerad.xyz/myparasight/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/myparasight/</guid>
-      <description>&#39;; } else if (theme == &#34;collapse-image-dark-theme&#34;) { document.getElementById(ioWedge).className=&#39;expand-image-dark-theme&#39;; document.getElementById(ioWedge).title=&#39;collapse&#39;; document.getElementById(ioWedge).alt=&#39;V&#39;; } } } } function ioSwitch(ioNode,fully) { if (document.getElementById &amp;&amp; document.getElementById(ioNode) != null) { nodeState = document.getElementById(ioNode).className; } if (nodeState == &#39;collapsed&#39;) { if (fully) { expandAll(); } else { expand(ioNode); } } else { if (fully) { collapseAll(); } else { collapse(ioNode); } } updateRowBackgroundColors(); } function expandAll() { if (document.getElementsByTagName) { nodeList = document.getElementsByTagName(&#39;div&#39;); for (var i = 0; i .</description>
-    </item><item>
-      <title></title>
-      <link>http://palaver.jerad.xyz/cdap/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/cdap/</guid>
-      <description>&#39;; } else if (theme == &#34;collapse-image-dark-theme&#34;) { document.getElementById(ioWedge).className=&#39;expand-image-dark-theme&#39;; document.getElementById(ioWedge).title=&#39;collapse&#39;; document.getElementById(ioWedge).alt=&#39;V&#39;; } } } } function ioSwitch(ioNode,fully) { if (document.getElementById &amp;&amp; document.getElementById(ioNode) != null) { nodeState = document.getElementById(ioNode).className; } if (nodeState == &#39;collapsed&#39;) { if (fully) { expandAll(); } else { expand(ioNode); } } else { if (fully) { collapseAll(); } else { collapse(ioNode); } } updateRowBackgroundColors(); } function expandAll() { if (document.getElementsByTagName) { nodeList = document.getElementsByTagName(&#39;div&#39;); for (var i = 0; i .</description>
+      <guid>http://palaver.jerad.xyz/post/serasera/</guid>
+      <description>Let it be, this love of ours</description>
     </item>
   </channel>
 </rss>

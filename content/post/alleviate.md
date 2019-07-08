@@ -3,8 +3,8 @@ title: "Alleviate"
 date: 2019-1-11
 description: "Lift this opiate to the masses"
 categories: []
-image: "img/paper/beamplanet.png"
-featuredImageDescription: "micro-dosing to alleviate pressure"
+featuredImage: "img/paper/beamplanet.png"
+imageDescription: "micro-dosing to alleviate pressure"
 dropCap: true
 displayInMenu: false
 displayInList: true

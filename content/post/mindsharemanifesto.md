@@ -3,8 +3,8 @@ title: "MindShare Manifesto"
 date: "2019-06-27"
 description: "A call to propogate what we have all been feeling, an awakening."
 categories: []
-image: "img/paper/bananafan.png"
-featuredImageDescription: "Split Intent"
+featuredImage: "img/paper/bananafan.png"
+imageDescription: "Split Intent"
 dropCap: true
 displayInMenu: false
 displayInList: true

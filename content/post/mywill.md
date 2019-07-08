@@ -3,8 +3,8 @@ title: "Last Will and Testament"
 date: "2018-07-06"
 description: "Whatever it is they want, give it towards something better"
 categories: []
-image: "img/paper/bananafan.png"
-featuredImageDescription: "Killing for a Castle"
+featuredImage: "img/paper/bananafan.png"
+imageDescription: "Killing for a Castle"
 dropCap: true
 displayInMenu: true
 displayInList: true

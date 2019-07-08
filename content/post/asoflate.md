@@ -6,8 +6,8 @@ displayInList: true
 displayInMenu: false
 draft: true
 dropCap: true
-image: "img/paper/tent.png"
-featuredImageDescription: ""
+featuredImage: "img/paper/tent.png"
+imageDescription: ""
 ---
 
 Pain of imposed virtue.  

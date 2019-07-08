@@ -3,8 +3,8 @@ title: "Poison Leaf"
 date: 2019-06-22
 description: "Reactionary tale"
 categories: []
-image: "img/paper/door.png"
-featuredImageDescription: "one foot on the other side"
+featuredImage: "img/paper/door.png"
+imageDescription: "one foot on the other side"
 dropCap: true
 displayInMenu: false
 displayInList: true

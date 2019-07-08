@@ -3,8 +3,8 @@ title: "Tale from the Farce-side"
 date: "2018-07-05"
 description: "The math does not add up"
 categories: []
-image: "img/paper/bananafan.png"
-featuredImageDescription: "Split Intent"
+featuredImage: "img/paper/bananafan.png"
+imageDescription: "Split Intent"
 dropCap: true
 displayInMenu: false
 displayInList: true

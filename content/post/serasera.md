@@ -3,8 +3,8 @@ title: "Sera Sera"
 date: 2019-02-12
 description: "Let it be, this love of ours"
 categories: ["love"]
-image: "img/paper/loveisnotlove.png"
-featuredImageDescription: ""
+featuredImage: "img/paper/loveisnotlove.png"
+imageDescription: ""
 dropCap: true
 displayInMenu: false
 displayInList: true
@@ -28,9 +28,9 @@ draft: false
 	- As Individuals we brandish the innate skills granted to us by The Godly Force
 		- Creativity in and about Problem Solving Jerad is capable of seeing THE solution.
 			- In an Utter his command crashes
-		- Steph’s Soul Shinning Charisma can etch a picture perfect image of the battle map
+		- Steph’s Soul Shinning Charisma can etch a picture perfect featuredImage of the battle map
 			Steph: “Cast Soul Shinning Charisma”
-etch a picture perfect image of the battle map
+etch a picture perfect featuredImage of the battle map
 		- Memory sharp enough to recall creases accurate beyond sensible measure
 			- Detail finer than senses can employ the moment they are collected
 	- Together, We are One

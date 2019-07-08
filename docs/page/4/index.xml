@@ -1,0 +1,41 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Palaver</title>
+    <link>http://palaver.jerad.xyz/</link>
+    <description>Recent content on Palaver</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 27 Apr 2018 09:46:15 -0400</lastBuildDate>
+    
+        <atom:link href="http://palaver.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>De Ja Notes</title>
+      <link>http://palaver.jerad.xyz/post/dejanotes/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/dejanotes/</guid>
+      <description>Strange occurances</description>
+    </item><item>
+      <title></title>
+      <link>http://palaver.jerad.xyz/myparasight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/myparasight/</guid>
+      <description>&#39;; } else if (theme == &#34;collapse-image-dark-theme&#34;) { document.getElementById(ioWedge).className=&#39;expand-image-dark-theme&#39;; document.getElementById(ioWedge).title=&#39;collapse&#39;; document.getElementById(ioWedge).alt=&#39;V&#39;; } } } } function ioSwitch(ioNode,fully) { if (document.getElementById &amp;&amp; document.getElementById(ioNode) != null) { nodeState = document.getElementById(ioNode).className; } if (nodeState == &#39;collapsed&#39;) { if (fully) { expandAll(); } else { expand(ioNode); } } else { if (fully) { collapseAll(); } else { collapse(ioNode); } } updateRowBackgroundColors(); } function expandAll() { if (document.getElementsByTagName) { nodeList = document.getElementsByTagName(&#39;div&#39;); for (var i = 0; i .</description>
+    </item><item>
+      <title>Silk Worms Craddle</title>
+      <link>http://palaver.jerad.xyz/post/silkwormscraddle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/silkwormscraddle/</guid>
+      <description></description>
+    </item><item>
+      <title>a Song a Game</title>
+      <link>http://palaver.jerad.xyz/post/asongagame/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/asongagame/</guid>
+      <description>A melody of melancholy madness</description>
+    </item>
+  </channel>
+</rss>

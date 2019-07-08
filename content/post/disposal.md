@@ -3,8 +3,8 @@ title: "Disposal"
 date: "2018-07-06"
 description: "Lose your stuff and reload"
 categories: []
-image: "img/paper/bananafan.png"
-featuredImageDescription: "Killing for name"
+featuredImage: "img/paper/bananafan.png"
+imageDescription: "Killing for name"
 dropCap: true
 displayInMenu: false
 displayInList: true

@@ -1,32 +1,14 @@
-languageCode = "en-us"
+# aether theme
+baseurl = "http://palaver.jerad.xyz"
 title = "Palaver"
-baseURL = "http://palaver.jerad.xyz"
-theme = "massively"
-googleanalytics = "UA-91420291-1"
-disqusShortname = "irJERAD"
+author = "Jerad Acosta"
+canonifyurls = true
+paginate = 5
+theme = "aether"
 
 publishDir = "docs"
 
- [params]
-  # set below parameter to define a favicon
-   favicon = "favicon.png"
-  # set to change date format
-  # dateFormat = "2.1.2006"
-
-# Below parameters can be set to override default post settings
-# [params.posts]
-#     folderName = "post"
-#     pageSize = "6"
-#     featuredPost = "true"
-#     paginationPages = 2
-#     showFirstLast = false
- 
-# [languages]
-# [languages.en]
-#   languageName = "English"
-# [languages.es]
-#   languageName = "Español"
-#   title = "Massively - Versión Español"
-# [languages.fr]
-#   languageName = "Français"
-#   title = "Massively - Version Française"
+[params]
+brand = "Storytelling"
+description = "Creatively Shared Storytelling"
+bgimg = "img/paper/opendoorhills.png"
