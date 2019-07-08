@@ -1,27 +1,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tours - Palaver</title>
-    <link>http://localhost:1313/tour/</link>
+    <link>http://palaver.jerad.xyz/tour/</link>
     <description>Recent content in Tours on Palaver</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/tour/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://palaver.jerad.xyz/tour/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Eye Spy</title>
-      <link>http://localhost:1313/tour/eyespy/</link>
+      <link>http://palaver.jerad.xyz/tour/eyespy/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tour/eyespy/</guid>
+      <guid>http://palaver.jerad.xyz/tour/eyespy/</guid>
       <description>Specialized Information Retrieval</description>
     </item><item>
       <title>Folicle</title>
-      <link>http://localhost:1313/tour/folicle/</link>
+      <link>http://palaver.jerad.xyz/tour/folicle/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tour/folicle/</guid>
+      <guid>http://palaver.jerad.xyz/tour/folicle/</guid>
       <description>Faux Thread The Needle</description>
     </item>
   </channel>

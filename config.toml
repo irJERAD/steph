@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Palaver"
-baseURL = "http://localhost:1313/"
+baseURL = "http://palaver.jerad.xyz"
 theme = "massively"
 googleanalytics = "UA-91420291-1"
 disqusShortname = "irJERAD"
@@ -21,12 +21,12 @@ publishDir = "docs"
 #     paginationPages = 2
 #     showFirstLast = false
  
-[languages]
-[languages.en]
-  languageName = "English"
-[languages.es]
-  languageName = "Español"
-  title = "Massively - Versión Español"
-[languages.fr]
-  languageName = "Français"
-  title = "Massively - Version Française"
+# [languages]
+# [languages.en]
+#   languageName = "English"
+# [languages.es]
+#   languageName = "Español"
+#   title = "Massively - Versión Español"
+# [languages.fr]
+#   languageName = "Français"
+#   title = "Massively - Version Française"
