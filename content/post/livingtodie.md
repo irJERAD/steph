@@ -3,8 +3,8 @@ title: "Living to Die"
 date: "2019-06-20"
 description: ""
 categories: []
-image: ""
-featuredImageDescription: ""
+image: "img/paper/satalife.png"
+featuredImageDescription: "img/paper/satalife.png"
 dropCap: true
 displayInMenu: false
 displayInList: true

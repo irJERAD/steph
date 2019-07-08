@@ -1,48 +1,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Palaver</title>
-    <link>http://palaver.jerad.xyz/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Palaver</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Fri, 27 Apr 2018 09:46:15 -0400</lastBuildDate>
     
-        <atom:link href="http://palaver.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Self Propagate</title>
-      <link>http://palaver.jerad.xyz/post/selfpropagate/</link>
-      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+      <title>Folicle</title>
+      <link>http://localhost:1313/tour/folicle/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/post/selfpropagate/</guid>
-      <description>Let go of inhibition to sample what may be possible, then decide how much effort your willing to put into your faith.</description>
+      <guid>http://localhost:1313/tour/folicle/</guid>
+      <description>Faux Thread The Needle</description>
     </item><item>
-      <title>One Foot</title>
-      <link>http://palaver.jerad.xyz/post/onefoot/</link>
-      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>http://localhost:1313/myparasight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/post/onefoot/</guid>
-      <description>tales from the other side</description>
+      <guid>http://localhost:1313/myparasight/</guid>
+      <description>&#39;; } else if (theme == &#34;collapse-image-dark-theme&#34;) { document.getElementById(ioWedge).className=&#39;expand-image-dark-theme&#39;; document.getElementById(ioWedge).title=&#39;collapse&#39;; document.getElementById(ioWedge).alt=&#39;V&#39;; } } } } function ioSwitch(ioNode,fully) { if (document.getElementById &amp;&amp; document.getElementById(ioNode) != null) { nodeState = document.getElementById(ioNode).className; } if (nodeState == &#39;collapsed&#39;) { if (fully) { expandAll(); } else { expand(ioNode); } } else { if (fully) { collapseAll(); } else { collapse(ioNode); } } updateRowBackgroundColors(); } function expandAll() { if (document.getElementsByTagName) { nodeList = document.getElementsByTagName(&#39;div&#39;); for (var i = 0; i .</description>
     </item><item>
-      <title>Poison Leaf</title>
-      <link>http://palaver.jerad.xyz/post/poisonleaf/</link>
-      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>http://localhost:1313/cdap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/post/poisonleaf/</guid>
-      <description>Reactionary tale</description>
+      <guid>http://localhost:1313/cdap/</guid>
+      <description>&#39;; } else if (theme == &#34;collapse-image-dark-theme&#34;) { document.getElementById(ioWedge).className=&#39;expand-image-dark-theme&#39;; document.getElementById(ioWedge).title=&#39;collapse&#39;; document.getElementById(ioWedge).alt=&#39;V&#39;; } } } } function ioSwitch(ioNode,fully) { if (document.getElementById &amp;&amp; document.getElementById(ioNode) != null) { nodeState = document.getElementById(ioNode).className; } if (nodeState == &#39;collapsed&#39;) { if (fully) { expandAll(); } else { expand(ioNode); } } else { if (fully) { collapseAll(); } else { collapse(ioNode); } } updateRowBackgroundColors(); } function expandAll() { if (document.getElementsByTagName) { nodeList = document.getElementsByTagName(&#39;div&#39;); for (var i = 0; i .</description>
     </item><item>
-      <title>Living to Die</title>
-      <link>http://palaver.jerad.xyz/post/livingtodie/</link>
-      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>http://localhost:1313/notgame/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/post/livingtodie/</guid>
+      <guid>http://localhost:1313/notgame/</guid>
+      <description>&#39;; } else if (theme == &#34;collapse-image-dark-theme&#34;) { document.getElementById(ioWedge).className=&#39;expand-image-dark-theme&#39;; document.getElementById(ioWedge).title=&#39;collapse&#39;; document.getElementById(ioWedge).alt=&#39;V&#39;; } } } } function ioSwitch(ioNode,fully) { if (document.getElementById &amp;&amp; document.getElementById(ioNode) != null) { nodeState = document.getElementById(ioNode).className; } if (nodeState == &#39;collapsed&#39;) { if (fully) { expandAll(); } else { expand(ioNode); } } else { if (fully) { collapseAll(); } else { collapse(ioNode); } } updateRowBackgroundColors(); } function expandAll() { if (document.getElementsByTagName) { nodeList = document.getElementsByTagName(&#39;div&#39;); for (var i = 0; i .</description>
+    </item><item>
+      <title></title>
+      <link>http://localhost:1313/post/poisonleaf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/poisonleaf/</guid>
+      <description>Topic - I am what I am - I am’s what I says I am’s - Not a woman, not a man - Not a Stranger, [thought] strange - In pursuit to understand - [Fail plan] - Take - Under took - Mistaken Mistake Mistook Misunderstanding - Mistakenly Undertook - Mind Read - If you don’t Mind, Read More of what you want to be - Of your own Mind, Red White, Black not, Blew.</description>
+    </item><item>
+      <title>Silk Worms Craddle</title>
+      <link>http://localhost:1313/post/silkwormscraddle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/silkwormscraddle/</guid>
       <description></description>
     </item><item>
-      <title>Sera Sera</title>
-      <link>http://palaver.jerad.xyz/post/serasera/</link>
-      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      <title>a Song a Game</title>
+      <link>http://localhost:1313/post/asongagame/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/post/serasera/</guid>
-      <description>Let it be, this love of ours</description>
+      <guid>http://localhost:1313/post/asongagame/</guid>
+      <description>A melody of melancholy madness</description>
     </item>
   </channel>
 </rss>

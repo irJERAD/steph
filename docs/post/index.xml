@@ -1,48 +1,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts - Palaver</title>
-    <link>http://palaver.jerad.xyz/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on Palaver</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://palaver.jerad.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Turnt and Spun</title>
-      <link>http://palaver.jerad.xyz/post/turntspun/</link>
-      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/turntspun/</guid>
-      <description>The web that brought it back to pieces</description>
-    </item><item>
       <title>Metas 4 Neuro</title>
-      <link>http://palaver.jerad.xyz/post/metas4neuro/</link>
+      <link>http://localhost:1313/post/metas4neuro/</link>
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/post/metas4neuro/</guid>
+      <guid>http://localhost:1313/post/metas4neuro/</guid>
       <description>Models Frameworks Idioms Happenstances Goofystances Phrases and all sorts of Way is gunna make seeing mine brain insane - to remember</description>
     </item><item>
       <title>MindShare Manifesto</title>
-      <link>http://palaver.jerad.xyz/post/mindsharemanifesto/</link>
+      <link>http://localhost:1313/post/mindsharemanifesto/</link>
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/post/mindsharemanifesto/</guid>
+      <guid>http://localhost:1313/post/mindsharemanifesto/</guid>
       <description>A call to propogate what we have all been feeling, an awakening.</description>
     </item><item>
       <title>Tossing Out Unwrapped Halloween Candy</title>
-      <link>http://palaver.jerad.xyz/post/unwappedcandy/</link>
+      <link>http://localhost:1313/post/unwappedcandy/</link>
       <pubDate>Wed, 26 Jun 2019 02:42:00 -0800</pubDate>
       
-      <guid>http://palaver.jerad.xyz/post/unwappedcandy/</guid>
+      <guid>http://localhost:1313/post/unwappedcandy/</guid>
       <description>How it feels after three decades of being gifted so much from life and everyone in it, to feeling somethings amiss just because everyone doesn&#39;t love me.</description>
     </item><item>
       <title>Rightous In Self</title>
-      <link>http://palaver.jerad.xyz/post/rightinself/</link>
+      <link>http://localhost:1313/post/rightinself/</link>
       <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/post/rightinself/</guid>
+      <guid>http://localhost:1313/post/rightinself/</guid>
       <description>Let go of inhibition to sample what may be possible, then decide how much effort your willing to put into your faith.</description>
+    </item><item>
+      <title>Self Propagate</title>
+      <link>http://localhost:1313/post/selfpropagate/</link>
+      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/selfpropagate/</guid>
+      <description>Let go of inhibition to sample what may be possible, then decide how much effort your willing to put into your faith.</description>
+    </item><item>
+      <title>One Foot</title>
+      <link>http://localhost:1313/post/onefoot/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/onefoot/</guid>
+      <description>tales from the other side</description>
+    </item><item>
+      <title>Living to Die</title>
+      <link>http://localhost:1313/post/livingtodie/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/livingtodie/</guid>
+      <description></description>
+    </item><item>
+      <title>Sera Sera</title>
+      <link>http://localhost:1313/post/serasera/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/serasera/</guid>
+      <description>Let it be, this love of ours</description>
+    </item><item>
+      <title>Us Always: Meglow</title>
+      <link>http://localhost:1313/post/usalways/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/usalways/</guid>
+      <description></description>
+    </item><item>
+      <title></title>
+      <link>http://localhost:1313/post/poisonleaf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/poisonleaf/</guid>
+      <description>Topic - I am what I am - I am’s what I says I am’s - Not a woman, not a man - Not a Stranger, [thought] strange - In pursuit to understand - [Fail plan] - Take - Under took - Mistaken Mistake Mistook Misunderstanding - Mistakenly Undertook - Mind Read - If you don’t Mind, Read More of what you want to be - Of your own Mind, Red White, Black not, Blew.</description>
     </item>
   </channel>
 </rss>
