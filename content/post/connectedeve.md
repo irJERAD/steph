@@ -22,3 +22,8 @@ Imagine:
 
 Examples:  
 - A body with the cold is producing white blood cells equipped with the proper tool set to battle the cold.  With two connected bodies, the healthy one still produces cells capable of fighting the illness.  
+
+Improved:  
+- Cloud computing changed our technical capacity exponentially through the power of networking.  Now a common computer is capable of accomplishing tasks that previously required a world power's intelligence systems to compute.  
+- A Network of people with a connected nervous system could work as a similar amplifier to the minds potential.  Access to a collective set of memories, experiences and knowledge elevates the platform on which our minds work from.  
+- Connection to the peripheral nervous system provides auxiliary capacities for resolution
