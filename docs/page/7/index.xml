@@ -9,6 +9,13 @@
         <atom:link href="http://palaver.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Her Work and Devotion 8</title>
+      <link>http://palaver.jerad.xyz/work4day8/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/work4day8/</guid>
+      <description>The things she does and I still ask questions</description>
+    </item><item>
       <title>Her Work and Devotion 9</title>
       <link>http://palaver.jerad.xyz/work4day9/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
@@ -36,13 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/connectedeve/</guid>
       <description>Connected with the cure</description>
-    </item><item>
-      <title>Tale from the Farce-side</title>
-      <link>http://palaver.jerad.xyz/post/farcesidetale/</link>
-      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/farcesidetale/</guid>
-      <description>The math does not add up</description>
     </item>
   </channel>
 </rss>
