@@ -9,40 +9,40 @@
         <atom:link href="http://palaver.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Disposal</title>
-      <link>http://palaver.jerad.xyz/post/disposal/</link>
-      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Us Always: Meglow</title>
+      <link>http://palaver.jerad.xyz/post/usalways/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/post/disposal/</guid>
-      <description>Lose your stuff and reload</description>
+      <guid>http://palaver.jerad.xyz/post/usalways/</guid>
+      <description></description>
     </item><item>
-      <title>Last Will and Testament</title>
-      <link>http://palaver.jerad.xyz/post/mywill/</link>
-      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Her Work and Devotion</title>
+      <link>http://palaver.jerad.xyz/work4day/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/post/mywill/</guid>
-      <description>Whatever it is they want, give it towards something better</description>
+      <guid>http://palaver.jerad.xyz/work4day/</guid>
+      <description>The things she does and I still ask questions</description>
     </item><item>
-      <title>Connected Evolution</title>
-      <link>http://palaver.jerad.xyz/post/connectedeve/</link>
-      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Her Work and Devotion</title>
+      <link>http://palaver.jerad.xyz/work4day1/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/post/connectedeve/</guid>
-      <description>Connected with the cure</description>
+      <guid>http://palaver.jerad.xyz/work4day1/</guid>
+      <description>The things she does and I still ask questions</description>
     </item><item>
-      <title>Tale from the Farce-side</title>
-      <link>http://palaver.jerad.xyz/post/farcesidetale/</link>
-      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Her Work and Devotion 10</title>
+      <link>http://palaver.jerad.xyz/work4day10/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/post/farcesidetale/</guid>
-      <description>The math does not add up</description>
+      <guid>http://palaver.jerad.xyz/work4day10/</guid>
+      <description>The things she does and I still ask questions</description>
     </item><item>
-      <title>De Ja Notes</title>
-      <link>http://palaver.jerad.xyz/post/dejanotes/</link>
-      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      <title>Her Work and Devotion 11</title>
+      <link>http://palaver.jerad.xyz/work4day11/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/post/dejanotes/</guid>
-      <description>Strange occurances</description>
+      <guid>http://palaver.jerad.xyz/work4day11/</guid>
+      <description>The things she does and I still ask questions</description>
     </item>
   </channel>
 </rss>

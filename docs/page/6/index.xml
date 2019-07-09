@@ -1,0 +1,48 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Palaver</title>
+    <link>http://palaver.jerad.xyz/</link>
+    <description>Recent content on Palaver</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 27 Apr 2018 09:46:15 -0400</lastBuildDate>
+    
+        <atom:link href="http://palaver.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Her Work and Devotion 4</title>
+      <link>http://palaver.jerad.xyz/work4day4/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/work4day4/</guid>
+      <description>The things she does and I still ask questions</description>
+    </item><item>
+      <title>Her Work and Devotion 5</title>
+      <link>http://palaver.jerad.xyz/work4day5/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/work4day5/</guid>
+      <description>The things she does and I still ask questions</description>
+    </item><item>
+      <title>Her Work and Devotion 6</title>
+      <link>http://palaver.jerad.xyz/work4day6/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/work4day6/</guid>
+      <description>The things she does and I still ask questions</description>
+    </item><item>
+      <title>Her Work and Devotion 7</title>
+      <link>http://palaver.jerad.xyz/work4day7/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/work4day7/</guid>
+      <description>The things she does and I still ask questions</description>
+    </item><item>
+      <title>Her Work and Devotion 8</title>
+      <link>http://palaver.jerad.xyz/work4day8/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/work4day8/</guid>
+      <description>The things she does and I still ask questions</description>
+    </item>
+  </channel>
+</rss>
