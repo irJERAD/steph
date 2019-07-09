@@ -4,11 +4,18 @@
     <link>http://palaver.jerad.xyz/post/</link>
     <description>Recent content in Posts on Palaver</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://palaver.jerad.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Poison Leaf</title>
+      <link>http://palaver.jerad.xyz/post/poisonleaf/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/poisonleaf/</guid>
+      <description>Reactionary tale</description>
+    </item><item>
       <title>Thought I already one</title>
       <link>http://palaver.jerad.xyz/post/asoflate/</link>
       <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
@@ -36,13 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/usalways/</guid>
       <description></description>
-    </item><item>
-      <title>Disposal</title>
-      <link>http://palaver.jerad.xyz/post/disposal/</link>
-      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/disposal/</guid>
-      <description>Lose your stuff and reload</description>
     </item>
   </channel>
 </rss>
