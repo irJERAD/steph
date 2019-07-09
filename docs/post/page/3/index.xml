@@ -9,6 +9,27 @@
         <atom:link href="http://palaver.jerad.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Thought I already one</title>
+      <link>http://palaver.jerad.xyz/post/asoflate/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/asoflate/</guid>
+      <description>detangled narratives</description>
+    </item><item>
+      <title>Living to Die</title>
+      <link>http://palaver.jerad.xyz/post/livingtodie/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/livingtodie/</guid>
+      <description></description>
+    </item><item>
+      <title>Sera Sera</title>
+      <link>http://palaver.jerad.xyz/post/serasera/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/serasera/</guid>
+      <description>Let it be, this love of ours</description>
+    </item><item>
       <title>Us Always: Meglow</title>
       <link>http://palaver.jerad.xyz/post/usalways/</link>
       <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
@@ -22,27 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/disposal/</guid>
       <description>Lose your stuff and reload</description>
-    </item><item>
-      <title>Last Will and Testament</title>
-      <link>http://palaver.jerad.xyz/post/mywill/</link>
-      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/mywill/</guid>
-      <description>Whatever it is they want, give it towards something better</description>
-    </item><item>
-      <title>Connected Evolution</title>
-      <link>http://palaver.jerad.xyz/post/connectedeve/</link>
-      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/connectedeve/</guid>
-      <description>Connected with the cure</description>
-    </item><item>
-      <title>Tale from the Farce-side</title>
-      <link>http://palaver.jerad.xyz/post/farcesidetale/</link>
-      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/farcesidetale/</guid>
-      <description>The math does not add up</description>
     </item>
   </channel>
 </rss>

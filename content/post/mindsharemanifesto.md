@@ -6,7 +6,7 @@ categories: []
 featuredImage: "img/paper/bananafan.png"
 imageDescription: "Split Intent"
 dropCap: true
-displayInMenu: false
+displayInMenu: true
 displayInList: true
 draft: false
 ---

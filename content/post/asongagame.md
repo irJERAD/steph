@@ -2,7 +2,7 @@
 title: "a Song a Game"
 date: 2019-1-11
 description: "A melody of melancholy madness"
-categories: []
+categories: ['poems']
 featuredImage: "img/paper/mineradio.png"
 imageDescription: ""
 dropCap: true

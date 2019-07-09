@@ -9,6 +9,11 @@
   </url>
   
   <url>
+    <loc>http://palaver.jerad.xyz/post/alreadyone/</loc>
+    <lastmod>2019-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://palaver.jerad.xyz/post/turntspun/</loc>
     <lastmod>2019-07-07T00:00:00+00:00</lastmod>
   </url>
@@ -29,6 +34,11 @@
   </url>
   
   <url>
+    <loc>http://palaver.jerad.xyz/post/firstrule/</loc>
+    <lastmod>2019-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://palaver.jerad.xyz/post/rightinself/</loc>
     <lastmod>2019-06-26T00:00:00+00:00</lastmod>
   </url>
@@ -45,6 +55,11 @@
   
   <url>
     <loc>http://palaver.jerad.xyz/post/poisonleaf/</loc>
+    <lastmod>2019-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/asoflate/</loc>
     <lastmod>2019-06-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -116,6 +131,10 @@
   </url>
   
   <url>
+    <loc>http://palaver.jerad.xyz/post/alleviate/</loc>
+  </url>
+  
+  <url>
     <loc>http://palaver.jerad.xyz/post/silkwormscraddle/</loc>
   </url>
   
@@ -126,6 +145,11 @@
   
   <url>
     <loc>http://palaver.jerad.xyz/post/asongagame/</loc>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/categories/poems/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

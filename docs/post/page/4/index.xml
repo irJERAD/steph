@@ -9,6 +9,27 @@
         <atom:link href="http://palaver.jerad.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Last Will and Testament</title>
+      <link>http://palaver.jerad.xyz/post/mywill/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/mywill/</guid>
+      <description>Whatever it is they want, give it towards something better</description>
+    </item><item>
+      <title>Connected Evolution</title>
+      <link>http://palaver.jerad.xyz/post/connectedeve/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/connectedeve/</guid>
+      <description>Connected with the cure</description>
+    </item><item>
+      <title>Tale from the Farce-side</title>
+      <link>http://palaver.jerad.xyz/post/farcesidetale/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/farcesidetale/</guid>
+      <description>The math does not add up</description>
+    </item><item>
       <title>De Ja Notes</title>
       <link>http://palaver.jerad.xyz/post/dejanotes/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
@@ -16,19 +37,12 @@
       <guid>http://palaver.jerad.xyz/post/dejanotes/</guid>
       <description>Strange occurances</description>
     </item><item>
-      <title>Silk Worms Craddle</title>
-      <link>http://palaver.jerad.xyz/post/silkwormscraddle/</link>
+      <title>Alleviate</title>
+      <link>http://palaver.jerad.xyz/post/alleviate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/post/silkwormscraddle/</guid>
-      <description></description>
-    </item><item>
-      <title>a Song a Game</title>
-      <link>http://palaver.jerad.xyz/post/asongagame/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/asongagame/</guid>
-      <description>A melody of melancholy madness</description>
+      <guid>http://palaver.jerad.xyz/post/alleviate/</guid>
+      <description>Lift this opiate to the masses</description>
     </item>
   </channel>
 </rss>

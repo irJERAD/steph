@@ -8,7 +8,7 @@ imageDescription: "micro-dosing to alleviate pressure"
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: true
+draft: false
 ---
 
 Furious transformation,  
