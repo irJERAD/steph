@@ -5,6 +5,8 @@ author = "Jerad Acosta"
 canonifyurls = true
 paginate = 5
 theme = "aether"
+googleanalytics = "UA-91420291-1"
+disqusShortname = "irJERAD"
 
 publishDir = "docs"
 
