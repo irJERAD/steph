@@ -9,32 +9,32 @@
         <atom:link href="http://palaver.jerad.xyz/categories/aithena/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Her Work and Devotion 6</title>
-      <link>http://palaver.jerad.xyz/work4day6/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Her Work and Devotion 5</title>
+      <link>http://palaver.jerad.xyz/work/work4day5/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/work4day6/</guid>
+      <guid>http://palaver.jerad.xyz/work/work4day5/</guid>
+      <description>The things she does and I still ask questions</description>
+    </item><item>
+      <title>Her Work and Devotion 6</title>
+      <link>http://palaver.jerad.xyz/work/work4day6/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/work/work4day6/</guid>
       <description>The things she does and I still ask questions</description>
     </item><item>
       <title>Her Work and Devotion 7</title>
-      <link>http://palaver.jerad.xyz/work4day7/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      <link>http://palaver.jerad.xyz/work/work4day7/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/work4day7/</guid>
+      <guid>http://palaver.jerad.xyz/work/work4day7/</guid>
       <description>The things she does and I still ask questions</description>
     </item><item>
       <title>Her Work and Devotion 8</title>
-      <link>http://palaver.jerad.xyz/work4day8/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      <link>http://palaver.jerad.xyz/work/work4day8/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/work4day8/</guid>
-      <description>The things she does and I still ask questions</description>
-    </item><item>
-      <title>Her Work and Devotion 9</title>
-      <link>http://palaver.jerad.xyz/work4day9/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/work4day9/</guid>
+      <guid>http://palaver.jerad.xyz/work/work4day8/</guid>
       <description>The things she does and I still ask questions</description>
     </item>
   </channel>

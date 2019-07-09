@@ -4,6 +4,7 @@ date = "2014-04-09"
 displayInMenu = true
 displayInList = false
 dropCap = false
+draft = true
 +++
 
 Hugo is the **world’s fastest framework for building websites**. It is written in Go.

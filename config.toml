@@ -14,3 +14,17 @@ publishDir = "docs"
 brand = "Storytelling"
 description = "Creatively Shared Storytelling"
 bgimg = "img/paper/opendoorhills.png"
+
+# [params.posts]
+#     folderName = "post"
+#     pageSize = "6"
+#     featuredPost = "true"
+#     paginationPages = 2
+#     showFirstLast = false
+
+# [params.posts]
+#     folderName = "work"
+#     pageSize = "2"
+#     featuredPost = "true"
+#     paginationPages = 4
+#     showFirstLast = true

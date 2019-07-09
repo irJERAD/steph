@@ -11,4 +11,8 @@ displayInList: true
 draft: false
 ---
 
-see if this works
+
+
+![](http://Palaver.Jerad.xyz/steph/work4day1.jpg)
+![](http://Palaver.Jerad.xyz/steph/work4day2.jpg)
+![](http://Palaver.Jerad.xyz/steph/work4day3.jpg)

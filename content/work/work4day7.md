@@ -1,9 +1,9 @@
 ---
-title: "Her Work and Devotion 3"
-date: 2018-07-10
+title: "Her Work and Devotion 7"
+date: 2018-07-04
 description: "The things she does and I still ask questions"
 categories: ['Aithena']
-featuredImage: "steph/work4day3.jpg"
+featuredImage: "steph/work4day7.jpg"
 featuredImageDescription: ""
 dropCap: true
 displayInMenu: false
