@@ -1,7 +1,7 @@
 ---
 title: "Beacon of Hope"
 date: 2019-05-24
-description: ""
+description: "Beacon of Hope"
 categories: []
 featuredImage: ""
 featuredImageDescription: ""
