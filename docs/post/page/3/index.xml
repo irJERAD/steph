@@ -4,11 +4,18 @@
     <link>http://palaver.jerad.xyz/post/</link>
     <description>Recent content in Posts on Palaver</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 09 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://palaver.jerad.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Rightous In Self</title>
+      <link>http://palaver.jerad.xyz/post/rightinself/</link>
+      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/rightinself/</guid>
+      <description>Let go of inhibition to sample what may be possible, then decide how much effort your willing to put into your faith.</description>
+    </item><item>
       <title>Self Propagate</title>
       <link>http://palaver.jerad.xyz/post/selfpropagate/</link>
       <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
@@ -36,13 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/asoflate/</guid>
       <description>detangled narratives</description>
-    </item><item>
-      <title>Living to Die</title>
-      <link>http://palaver.jerad.xyz/post/livingtodie/</link>
-      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/livingtodie/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

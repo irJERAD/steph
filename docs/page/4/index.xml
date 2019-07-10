@@ -9,6 +9,13 @@
         <atom:link href="http://palaver.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Living to Die</title>
+      <link>http://palaver.jerad.xyz/post/livingtodie/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/livingtodie/</guid>
+      <description></description>
+    </item><item>
       <title>Sera Sera</title>
       <link>http://palaver.jerad.xyz/post/serasera/</link>
       <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
@@ -24,25 +31,18 @@
       <description></description>
     </item><item>
       <title>Her Work and Devotion</title>
-      <link>http://palaver.jerad.xyz/work/work4day1/</link>
+      <link>http://palaver.jerad.xyz/post/work4dayz/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/work/work4day1/</guid>
+      <guid>http://palaver.jerad.xyz/post/work4dayz/</guid>
       <description>The things she does and I still ask questions</description>
     </item><item>
-      <title>Her Work and Devotion 10</title>
-      <link>http://palaver.jerad.xyz/work/work4day10/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Disposal</title>
+      <link>http://palaver.jerad.xyz/post/disposal/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/work/work4day10/</guid>
-      <description>The things she does and I still ask questions</description>
-    </item><item>
-      <title>Her Work and Devotion 11</title>
-      <link>http://palaver.jerad.xyz/work/work4day11/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/work/work4day11/</guid>
-      <description>The things she does and I still ask questions</description>
+      <guid>http://palaver.jerad.xyz/post/disposal/</guid>
+      <description>Lose your stuff and reload</description>
     </item>
   </channel>
 </rss>

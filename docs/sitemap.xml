@@ -3,6 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://palaver.jerad.xyz/categories/</loc>
+    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/holdon/</loc>
+    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/categories/love/</loc>
+    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/</loc>
+    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://palaver.jerad.xyz/post/hellohandbook/</loc>
     <lastmod>2019-07-09T00:00:00+00:00</lastmod>
   </url>
@@ -10,12 +33,6 @@
   <url>
     <loc>http://palaver.jerad.xyz/post/beautyinlifeanddeath/</loc>
     <lastmod>2019-07-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/post/</loc>
-    <lastmod>2019-07-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -84,20 +101,8 @@
   </url>
   
   <url>
-    <loc>http://palaver.jerad.xyz/categories/</loc>
-    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://palaver.jerad.xyz/post/serasera/</loc>
     <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/categories/love/</loc>
-    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -112,68 +117,12 @@
   </url>
   
   <url>
-    <loc>http://palaver.jerad.xyz/work/work4day1/</loc>
+    <loc>http://palaver.jerad.xyz/post/work4dayz/</loc>
     <lastmod>2018-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/work/work4day10/</loc>
-    <lastmod>2018-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/work/work4day11/</loc>
-    <lastmod>2018-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/work/work4day12/</loc>
-    <lastmod>2018-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/work/work4day13/</loc>
-    <lastmod>2018-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/work/work4day14/</loc>
-    <lastmod>2018-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/work/work4day9/</loc>
-    <lastmod>2018-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/work/</loc>
-    <lastmod>2018-07-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/work/work4day2/</loc>
-    <lastmod>2018-07-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/work/work4day3/</loc>
-    <lastmod>2018-07-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/work/work4day4/</loc>
-    <lastmod>2018-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://palaver.jerad.xyz/post/disposal/</loc>
-    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/work/work4day5/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -188,23 +137,8 @@
   </url>
   
   <url>
-    <loc>http://palaver.jerad.xyz/work/work4day6/</loc>
-    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://palaver.jerad.xyz/post/farcesidetale/</loc>
     <lastmod>2018-07-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/work/work4day7/</loc>
-    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/work/work4day8/</loc>
-    <lastmod>2018-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>

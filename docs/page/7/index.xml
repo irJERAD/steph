@@ -9,6 +9,13 @@
         <atom:link href="http://palaver.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Last Will and Testament</title>
+      <link>http://palaver.jerad.xyz/post/mywill/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/mywill/</guid>
+      <description>Whatever it is they want, give it towards something better</description>
+    </item><item>
       <title>Connected Evolution</title>
       <link>http://palaver.jerad.xyz/post/connectedeve/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
@@ -35,13 +42,6 @@
       <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>http://palaver.jerad.xyz/work/work4day7/</guid>
-      <description>The things she does and I still ask questions</description>
-    </item><item>
-      <title>Her Work and Devotion 8</title>
-      <link>http://palaver.jerad.xyz/work/work4day8/</link>
-      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/work/work4day8/</guid>
       <description>The things she does and I still ask questions</description>
     </item>
   </channel>
