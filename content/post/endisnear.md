@@ -27,4 +27,4 @@ Stripped Panels
 Its You!
 who built Me?
 Made in meta for
-A path ot6f understandably                                                                  g
+A path to understand
