@@ -9,6 +9,13 @@
         <atom:link href="http://palaver.jerad.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Thought I already one</title>
+      <link>http://palaver.jerad.xyz/post/asoflate/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/asoflate/</guid>
+      <description>detangled narratives</description>
+    </item><item>
       <title>Living to Die</title>
       <link>http://palaver.jerad.xyz/post/livingtodie/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
@@ -36,13 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/work4dayz/</guid>
       <description>The things she does and I still ask questions</description>
-    </item><item>
-      <title>Disposal</title>
-      <link>http://palaver.jerad.xyz/post/disposal/</link>
-      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/disposal/</guid>
-      <description>Lose your stuff and reload</description>
     </item>
   </channel>
 </rss>
