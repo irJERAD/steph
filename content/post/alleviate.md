@@ -13,7 +13,7 @@ draft: false
 
 Furious transformation,  
 scanned through, tuned in  
-attenuate crisper [later with bio]  
+attenuate CRISPR
 
 Furious transformation,  
 scanned through, tuned in  

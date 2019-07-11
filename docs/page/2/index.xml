@@ -9,6 +9,13 @@
         <atom:link href="http://palaver.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>When Outvoices</title>
+      <link>http://palaver.jerad.xyz/post/whenoutvoiced/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/whenoutvoiced/</guid>
+      <description>Exercise to realise your way to survive their lies</description>
+    </item><item>
       <title>Thought I already one</title>
       <link>http://palaver.jerad.xyz/post/alreadyone/</link>
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
@@ -36,13 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/mindsharemanifesto/</guid>
       <description>A call to propogate what we have all been feeling, an awakening.</description>
-    </item><item>
-      <title>Tossing Out Unwrapped Halloween Candy</title>
-      <link>http://palaver.jerad.xyz/post/unwappedcandy/</link>
-      <pubDate>Wed, 26 Jun 2019 02:42:00 -0800</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/unwappedcandy/</guid>
-      <description>How it feels after three decades of being gifted so much from life and everyone in it, to feeling somethings amiss just because everyone doesn&#39;t love me.</description>
     </item>
   </channel>
 </rss>

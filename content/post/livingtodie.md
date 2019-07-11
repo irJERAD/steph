@@ -14,11 +14,12 @@ draft: false
 Paranoia is a social cancer; it starts with the ones trying to protect and grows into itself.
 
 
-Training terrorist when we allow ourselves to be motivated by terror.
+We are training terrorist when we allow ourselves to be motivated by terror.
 
-
-We all live to die in our ways
-Only the travesty of mistakenly dying for another's.
+Do:  
+Live to die in our ways  
+Not:
+The Miss Taken Tragedy of mistakenly dying for another's.
 
 
 Responsibility aux when wielding powerful tools
