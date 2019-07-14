@@ -9,6 +9,13 @@
         <atom:link href="http://palaver.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>The End is Near</title>
+      <link>http://palaver.jerad.xyz/post/endisnear/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/endisnear/</guid>
+      <description></description>
+    </item><item>
       <title>Hello Handbook</title>
       <link>http://palaver.jerad.xyz/post/hellohandbook/</link>
       <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
@@ -36,13 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/whenoutvoiced/</guid>
       <description>Exercise to realise your way to survive their lies</description>
-    </item><item>
-      <title>Thought I already one</title>
-      <link>http://palaver.jerad.xyz/post/alreadyone/</link>
-      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/alreadyone/</guid>
-      <description>I swear, read the header file.</description>
     </item>
   </channel>
 </rss>
