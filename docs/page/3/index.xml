@@ -9,6 +9,20 @@
         <atom:link href="http://palaver.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Turnt and Spun</title>
+      <link>http://palaver.jerad.xyz/post/turntspun/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/turntspun/</guid>
+      <description>The web that brought it back to pieces</description>
+    </item><item>
+      <title>MindShare Manifesto</title>
+      <link>http://palaver.jerad.xyz/post/mindsharemanifesto/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/mindsharemanifesto/</guid>
+      <description>A call to propogate what we have all been feeling, an awakening.</description>
+    </item><item>
       <title>Tossing Out Unwrapped Halloween Candy</title>
       <link>http://palaver.jerad.xyz/post/unwappedcandy/</link>
       <pubDate>Wed, 26 Jun 2019 02:42:00 -0800</pubDate>
@@ -29,20 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/selfpropagate/</guid>
       <description>Let go of inhibition to sample what may be possible, then decide how much effort your willing to put into your faith.</description>
-    </item><item>
-      <title>One Foot</title>
-      <link>http://palaver.jerad.xyz/post/onefoot/</link>
-      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/onefoot/</guid>
-      <description>tales from the other side</description>
-    </item><item>
-      <title>Poison Leaf</title>
-      <link>http://palaver.jerad.xyz/post/poisonleaf/</link>
-      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/poisonleaf/</guid>
-      <description>Reactionary tale</description>
     </item>
   </channel>
 </rss>

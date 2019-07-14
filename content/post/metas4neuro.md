@@ -8,7 +8,7 @@ imageDescription: "Color me Brain"
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: false
+draft: true
 ---
 
 Alpha / Beta waves for efficiency. </br>

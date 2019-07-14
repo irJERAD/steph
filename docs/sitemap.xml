@@ -3,6 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://palaver.jerad.xyz/post/collectiveconsciouscure/</loc>
+    <lastmod>2019-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/</loc>
+    <lastmod>2019-07-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/headerfile/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/wisdomonrice/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://palaver.jerad.xyz/categories/</loc>
     <lastmod>2019-07-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -15,12 +36,6 @@
   
   <url>
     <loc>http://palaver.jerad.xyz/categories/love/</loc>
-    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/post/</loc>
     <lastmod>2019-07-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -58,11 +73,6 @@
   <url>
     <loc>http://palaver.jerad.xyz/post/turntspun/</loc>
     <lastmod>2019-07-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/post/metas4neuro/</loc>
-    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
