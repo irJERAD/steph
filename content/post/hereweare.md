@@ -3,7 +3,7 @@ title: "Here We Are"
 date: 2019-07-09
 description: ""
 categories: []
-featuredImage: ""
+featuredImage: "img/paper/tent.png"
 featuredImageDescription: ""
 dropCap: true
 displayInMenu: false
@@ -12,7 +12,7 @@ draft: false
 ---
 
 A turn of events
-oberseved through a cracked lense                                                                                                                                         
+observed through a cracked lens                                                                                                                                         
 Sick twists for an unborn Sibling 
 Certain arc unrivaled meaning / purpose
 

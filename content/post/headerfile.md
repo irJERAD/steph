@@ -3,7 +3,7 @@ title: "Header File"
 date: 2019-07-12
 description: ""
 categories: []
-featuredImage: ""
+featuredImage: "img/paper/spacefriend.png"
 featuredImageDescription: ""
 dropCap: true
 displayInMenu: true
