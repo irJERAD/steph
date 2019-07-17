@@ -8,7 +8,7 @@ imageDescription: "Killing for name"
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: false
+draft: true
 ---
 
 The movers have left

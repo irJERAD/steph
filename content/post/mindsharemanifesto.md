@@ -8,7 +8,7 @@ imageDescription: "Split Intent"
 dropCap: true
 displayInMenu: true
 displayInList: true
-draft: false
+draft: true
 ---
 
 #### HCI intro

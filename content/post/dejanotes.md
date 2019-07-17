@@ -8,7 +8,7 @@ imageDescription: "Split Intent"
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: false
+draft: true
 ---
 
 **May 27 or 29** (Peru Earthquake at 2:41am): **8.0M**  

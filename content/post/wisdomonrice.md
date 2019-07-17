@@ -8,7 +8,7 @@ featuredImageDescription: "flowing energy in place"
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: false
+draft: true
 ---
 
 With the quality of people I have to receive advice from it is not wonder the smallest of passages may be so dense in value they merit I study them for themselves. <br>

@@ -8,7 +8,7 @@ imageDescription: "Split Intent"
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: false
+draft: true
 ---
 
 Largest change of wealth and power from one generation to the next since the baby boomers.  

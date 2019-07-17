@@ -8,7 +8,7 @@ featuredImageDescription: "fill my cup with passion for truth"
 dropCap: true
 displayInMenu: true
 displayInList: true
-draft: false
+draft: true
 ---
 
 I left USA with a single goal: get her there safely.

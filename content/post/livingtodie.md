@@ -8,7 +8,7 @@ imageDescription: "img/paper/satalife.png"
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: false
+draft: true
 ---
 <pre>
 Paranoia is a social cancer; it starts with the ones trying to protect and grows into itself.

@@ -8,7 +8,7 @@ imageDescription: ""
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: false
+draft: true
 ---
 
 I critique everything that comes out of my head. The rhetoric gives me a snubby sense of certainty in my conscious flow. All the while, I am training this over zealous thought censor crippling flow and deminishing potential.  

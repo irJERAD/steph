@@ -8,7 +8,7 @@ featuredImageDescription: "someone I met 1989 Spring Valley"
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: false
+draft: true
 ---
 
 When shifting paradigms it may behoove the individual, dreamer and woke, to have a short list of 

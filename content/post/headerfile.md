@@ -8,7 +8,7 @@ featuredImageDescription: ""
 dropCap: true
 displayInMenu: true
 displayInList: true
-draft: false
+draft: true
 ---
 
 I certainty wasn't dying when this all got started: see my UCSF medical report in June 2017. Where I was sent for 3 vials of blood for testing as well as stool samples everyday for 3 days.  

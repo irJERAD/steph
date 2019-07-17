@@ -8,7 +8,7 @@ featuredImageDescription: "#hashlife"
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: false
+draft: true
 ---
 
 Rising tide raises all ships.  

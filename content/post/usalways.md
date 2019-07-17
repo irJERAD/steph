@@ -8,7 +8,7 @@ imageDescription: ""
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: false
+draft: true
 ---
 
 - It was always about us

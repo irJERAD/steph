@@ -8,7 +8,7 @@ imageDescription: "one foot on the other side"
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: false
+draft: true
 ---
 
 <pre>

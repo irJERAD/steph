@@ -7,7 +7,7 @@ featuredImage: "img/paper/puzzlepiece.png"
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: false
+draft: true
 ---
 
 As long as I can recall I've been a beneficiary of life's more generaous ways.  

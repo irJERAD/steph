@@ -8,7 +8,7 @@ imageDescription: ""
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: false
+draft: true
 ---
 <pre>
 - Who What When Where Why?

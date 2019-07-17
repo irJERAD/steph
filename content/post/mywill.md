@@ -8,7 +8,7 @@ imageDescription: "Killing for a Castle"
 dropCap: true
 displayInMenu: true
 displayInList: true
-draft: false
+draft: true
 ---
 
 From the outset I want to make clear that any and all assets of significant material value are to be given to organizations functioning inline with my personal beliefs.

@@ -8,7 +8,7 @@ featuredImageDescription: "Mine Self RadioBlue"
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: false
+draft: true
 ---
 
 Mind over matter is a powerful mantra. <br>
