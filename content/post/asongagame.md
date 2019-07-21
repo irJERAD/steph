@@ -16,7 +16,7 @@ draft: true
 	- Paralyzed Aneurysm Pro-paranoia
 	- whole a-hole mole
 	- Spyglass; Spotlit brass tacks
-- Sensical Lyric-le  
+- nonSensical Lyric-le  
 	- This is why  
 	- Can I tell you one thing and one thing only?  
 - Form  
@@ -31,7 +31,7 @@ draft: true
 		- Join further spaces [permeate (from) within / ?? ]  
 	- Avoidance  
 		- Impending Climactic Resolute  
-		- Froze in Terror, out nul  
+		- Froze in Terror, out null  
 	- Anger  
 		Flash Rage Pain Yell War Battle Fight Physical Shout  
 		- Snapped up with Anger, Flushed out again  

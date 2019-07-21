@@ -36,14 +36,14 @@ She is a believer; hoping, wishing <br>
 For all the “Places will go” <br> 
 are as perfect as if it were <br> 
 her dreams... <br> 
-Dreamer yet overacheiver <br> 
+Dreamer yet overachiever <br> 
 <br>
 Where is all <br> 
 started in our <br> 
 La Jolla community <br> 
 home condo <br> 
 I will have you eventually <br> 
-[I have through adventy] <br> 
+[I have through adversity] <br> 
 <br>
 Be yourselves <br> 
 Be yourself <br> 
@@ -52,7 +52,7 @@ Life’s Uncertainties <br>
 Hold On, hold on to me <br> 
                 (Panda = Jerad)  
 Just right in the middle <br> 
-                (grave vois)  
+                (grave void)  
 
 <br>
 Life is <br> 

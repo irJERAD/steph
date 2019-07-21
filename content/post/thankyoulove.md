@@ -13,7 +13,7 @@ draft: false
 
 Our entire relationship has existed in the drawing energies of a monsoon. <br>
 
-Drifting, blissfuly together. Dreaming of many possible destinations. <br>
+Drifting, blissfully together. Dreaming of many possible destinations. <br>
 
 Ebbing along tides eroding with winds. Finding distance in our doubts. <br>
 
