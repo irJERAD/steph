@@ -2,7 +2,7 @@
 title: "Collective Conscious Cure"
 date: 2019-07-14
 description: "Entangled Nervous Systems Coach You to Health"
-categories: []
+categories: ['Collective Cognition']
 featuredImage: "img/paper/mineblueself.png"
 featuredImageDescription: "Mine Self RadioBlue"
 dropCap: true
