@@ -3,7 +3,7 @@ title: "Call Me Nancy"
 date: 2019-07-14
 description: ""
 categories: []
-featuredImage: ""
+featuredImage: "img/paper/beam.png"
 featuredImageDescription: ""
 dropCap: true
 displayInMenu: false

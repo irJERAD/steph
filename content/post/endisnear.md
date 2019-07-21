@@ -8,7 +8,7 @@ featuredImageDescription: ""
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: true
+draft: false
 ---
 Patrick H Williams
 Neal Patrick Harris

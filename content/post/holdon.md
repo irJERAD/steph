@@ -8,68 +8,69 @@ featuredImageDescription: ""
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: true
+draft: false
 ---
 
+*credit for this one goes to [Stephanie Acosta](https://www.facebook.com/stephanie.chong.750)*
 
-Watching the sunrise  
-Watching the sunset  
+Watching the sunrise <br> 
+Watching the sunset <br> 
 
-By my side, three turtle we named:  	
-1. Athena Acosta  
-2. Penelope Karolina  
-3. Matthew Charles  
-Whichever ones comes  
-first, oh daddy <3  
+By my side, three turtle we named: <br> 	
+1. Athena Acosta <br> 
+2. Penelope Karolina <br> 
+3. Matthew Charles <br> 
+Whichever ones comes <br> 
+first, oh daddy <3 <br> 
 
-Rewind  
-Watching the sunrise  
-Watching the sunset  
-
-by my side  
-my Tahitian goddess mama <3<3  
-
-Ch She is  
-She is a believer; hoping, wishing  
-
-For all the “Places will go”  
-are as perfect as if it were  
-her dreams...  
-Dreamer yet overacheiver  
-
-Where is all  
-started in our  
-La Jolla community  
-home condo  
-I will have you eventually  
-[I have through adventy]  
-
-Be yourselves  
-Be yourself  
-
-Life’s Uncertainties  
-Hold On, hold on to me  
+Rewind <br> 
+Watching the sunrise <br> 
+Watching the sunset <br> 
+<br>
+by my side <br> 
+my Tahitian goddess mama <3<3 <br> 
+<br>
+Ch She is <br> 
+She is a believer; hoping, wishing <br> 
+<br>
+For all the “Places will go” <br> 
+are as perfect as if it were <br> 
+her dreams... <br> 
+Dreamer yet overacheiver <br> 
+<br>
+Where is all <br> 
+started in our <br> 
+La Jolla community <br> 
+home condo <br> 
+I will have you eventually <br> 
+[I have through adventy] <br> 
+<br>
+Be yourselves <br> 
+Be yourself <br> 
+<br>
+Life’s Uncertainties <br> 
+Hold On, hold on to me <br> 
                 (Panda = Jerad)  
-Just right in the middle  
+Just right in the middle <br> 
                 (grave vois)  
 
+<br>
+Life is <br> 
+But a dreamt <br> 
+to wanna <br> 
+succeed <br> 
+gotta <br> 
+persuade <br> 
+others… <br> 
+<br>
+To succeed <br>  
+you have to persuade others <br> 
+[to support you] <br> 
 
-Life is  
-But a dreamt  
-to wanna  
-succeed  
-gotta  
-persuade  
-others…  
-
-To succeed   
-you have to persuade others  
-[to support you]  
-
-Hold on,  
-Hold on to me  
-Gotta find  
-what sparks  
-the light in you [to]  
-that you can,  
-illuminate the world.  
+Hold on, <br> 
+Hold on to me <br> 
+Gotta find <br> 
+what sparks <br> 
+the light in you [to] <br> 
+that you can, <br> 
+illuminate the world. <br> 

@@ -14,13 +14,13 @@
   </url>
   
   <url>
-    <loc>http://palaver.jerad.xyz/post/</loc>
+    <loc>http://palaver.jerad.xyz/categories/love/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://palaver.jerad.xyz/categories/love/</loc>
+    <loc>http://palaver.jerad.xyz/post/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -28,6 +28,21 @@
   <url>
     <loc>http://palaver.jerad.xyz/post/callmenancy/</loc>
     <lastmod>2019-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/ecolemahana/ecolemahana/</loc>
+    <lastmod>2019-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/holdon/</loc>
+    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/endisnear/</loc>
+    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>

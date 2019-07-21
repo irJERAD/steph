@@ -11,31 +11,31 @@ displayInList: true
 draft: true
 ---
 
-Oh look what we've done,
-this school bus filled with everyone.  
-
-We really need to unravel this madness to understand the architect behind our stories sadness.  
-
-Apocali have been thwarted. Seasons canceled.  
-Looking at How, How, How:  
-
-It has been felt - This past awaking.  
-
-We had so much excitement.  An audience of participants.  
-Parts became partners.  Subjects our topics.
-Adjacent angles, integral power-ups.  
-Mothers lovers, and others lost.  
-
-Untangled mess, still undressed;  
-Mostly why I never here - ever required there.  
-
-Once Libra's assigned Gemini weight
-get a cash out
-take their cow
-no longer want a duck
-shipped that chick
-ego depleted by its final reason
-for needed lease on  
-future's mortality  
+Oh look what we've done, <br>
+this school bus filled with everyone. <br>
+<br>
+We really need to unravel this madness to understand the architect behind our stories sadness. <br>
+<br>
+Apocali have been thwarted. Seasons canceled. <br>
+Looking at How, How, How: <br>
+<br>
+It has been felt - This past awaking. <br>
+<br>
+We had so much excitement.  An audience of participants. <br>
+Parts became partners.  Subjects our topics. <br>
+Adjacent angles, integral power-ups. <br>
+Mothers lovers, and others lost. <br>
+<br>
+Untangled mess, still undressed; <br>
+Mostly why I never here - ever required there. <br>
+<br>
+Once Libra's assigned Gemini weight <br>
+get a cash out <br>
+take their cow <br>
+no longer want a duck <br>
+shipped that chick <br>
+ego depleted by its final reason <br>
+for needed lease on <br> 
+future's mortality <br> 
 
 
