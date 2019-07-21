@@ -4,45 +4,31 @@
     <link>http://palaver.jerad.xyz/post/</link>
     <description>Recent content in Posts on Palaver</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://palaver.jerad.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Collective Conscious Cure</title>
-      <link>http://palaver.jerad.xyz/post/collectiveconsciouscure/</link>
+      <title>Chin Chin, here&#39;s To the rest of your life</title>
+      <link>http://palaver.jerad.xyz/post/thankyoulove/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/thankyoulove/</guid>
+      <description>some stuff that feels really good to say aloud</description>
+    </item><item>
+      <title>Call Me Nancy</title>
+      <link>http://palaver.jerad.xyz/post/callmenancy/</link>
       <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/post/collectiveconsciouscure/</guid>
-      <description>Entangled Nervous Systems Coach You to Health</description>
-    </item><item>
-      <title>Ecole Mahana</title>
-      <link>http://palaver.jerad.xyz/post/ecolemahana/ecolemahana/</link>
-      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/ecolemahana/ecolemahana/</guid>
+      <guid>http://palaver.jerad.xyz/post/callmenancy/</guid>
       <description></description>
     </item><item>
-      <title>Header File</title>
-      <link>http://palaver.jerad.xyz/post/headerfile/</link>
-      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Alleviate</title>
+      <link>http://palaver.jerad.xyz/post/alleviate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/post/headerfile/</guid>
-      <description></description>
-    </item><item>
-      <title>Wisdom on a Grain of Rice</title>
-      <link>http://palaver.jerad.xyz/post/wisdomonrice/</link>
-      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/wisdomonrice/</guid>
-      <description>Lessons handed down from another generation</description>
-    </item><item>
-      <title>Hold On</title>
-      <link>http://palaver.jerad.xyz/post/holdon/</link>
-      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/holdon/</guid>
-      <description>Watching the Sunrise</description>
+      <guid>http://palaver.jerad.xyz/post/alleviate/</guid>
+      <description>Lift this opiate to the masses</description>
     </item>
   </channel>
 </rss>

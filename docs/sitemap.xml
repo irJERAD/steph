@@ -3,18 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://palaver.jerad.xyz/categories/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/thankyoulove/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/categories/love/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/callmenancy/</loc>
+    <lastmod>2019-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/myparasight/</loc>
+    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://palaver.jerad.xyz/</loc>
     <lastmod>2018-04-27T09:46:15-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://palaver.jerad.xyz/myparasight/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/categories/</loc>
-    <priority>0</priority>
+    <loc>http://palaver.jerad.xyz/post/alleviate/</loc>
   </url>
   
   <url>

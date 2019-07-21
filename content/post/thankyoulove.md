@@ -3,7 +3,7 @@ title: "Chin Chin, here's To the rest of your life"
 date: 2019-07-18
 description: "some stuff that feels really good to say aloud"
 categories: ['love']
-featuredImage: "paper/heartshapedbox.png"
+featuredImage: "img/paper/heartshapedbox.png"
 featuredImageDescription: ""
 dropCap: true
 displayInMenu: false
@@ -41,5 +41,5 @@ I am grateful to find a place emotionally, personally, a state of bliss in respe
 You were rarely right when we disagreed on big things. But something I really got wrong, was how great of friends we were; best friends.
 Never alone, I’ll still always keep you with me. <br>
 
-I love you Steph. I know why. I so want you to be happy and you will always remind yourself how much you have put towards this moment. 
+I feel more love for you than ever before. I know why. I so want you to be happy and you will always remind yourself how much you have put towards this moment. 
 No more worries, its be happy time <br>
