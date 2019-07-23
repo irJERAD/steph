@@ -15,6 +15,7 @@ draft: false
 ![jerad sleeping](/img/us/sleep.jpg)
 One of Steph's favorite pastimes **taking pictures of Jerad sleeping**.
 
+<br>
 
 Something I should have been doing more of:
 ![public display of affection](/img/us/pda.jpg)
@@ -30,6 +31,7 @@ There is always something for us to laugh about; mainly, ourselves.
 Love at First Site!
 ![cool like us](/img/us/cool.jpg)
 Our first time in New Zealand sparks were flying everywhere!!!
+
 <br>
 
 Sailing to Victory
@@ -44,12 +46,12 @@ Taking rafts underground with worms that glow in the dark.
 
 <br>
 
-Nothing but the best for us
+Nothing but the best for us:
 ![champions](/img/us/cup.jpg)
 First place is our place!
 
 <br>
 
-You can always make me feel good
+You can always make me feel good..
 ![when it rains](/img/us/rain.jpg)
-When it rains, we smile
+When it rains, we smile.
