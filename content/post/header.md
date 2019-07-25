@@ -17,6 +17,13 @@ I have been told to seek psychiatric care for the voices in my head. <br>
 
 I have spoked with everyone close to me about what I hear in my head. No one acknowledges their existence; most tell me that I am experiencing a psychotic episode. <br>
 
+
+I have not given permission to anyone to use my lotto tickets from Hacienda Heights / Rolland Heights or Montebello Hills / Monterey Park. <br>
+
+I have not given permission to anyone to use a heart transplant on my behalf. <br>
+I have not cheated with anyone for the game 
+
+
 It is becoming more apparent that I am supposed to believe I am insane and that most are already in on some translation of this secret.
 Rhetorical justification is *reaching __critical Fugazi__*  
 Reality mending pseudo rational has included:
