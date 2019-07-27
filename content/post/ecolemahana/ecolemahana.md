@@ -1,7 +1,7 @@
 ---
 title: "Ecole Mahana"
 date: 2019-07-14
-description: ""
+description: "Mes frères, ma famille, ma foi, les gardiens de ma maison"
 categories: []
 featuredImage: "img/tahiti/mahanasunset.jpg"
 featuredImageDescription: ""

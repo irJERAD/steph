@@ -1,21 +1,16 @@
 +++
 title = "About Hugo"
-date = "2014-04-09"
+date = "2019-05-21"
 displayInMenu = true
 displayInList = false
 dropCap = false
-draft = true
+draft = false
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+A place to pour out my hearts voice. <br>
 
-It makes use of a variety of open source projects including:
+Pages with details to our hearts desire. <br>
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Contents from troves of treasures we've admired to our hearts content. <br>
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
+Metaphors from when we met 'til our why where and what for has suceeded from the ill poisons of envy, lust, and greed of those who would break our union and dedication to each other. <br>

@@ -8,7 +8,7 @@ featuredImageDescription: ""
 dropCap: true
 displayInMenu: true
 displayInList: true
-draft: false
+draft: true
 ---
 
 

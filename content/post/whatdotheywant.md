@@ -1,6 +1,6 @@
 ---
 title: "what do they want?"
-date: {{ .Date }}
+date: 2019-07-23
 description: ""
 categories: []
 featuredImage: ""
