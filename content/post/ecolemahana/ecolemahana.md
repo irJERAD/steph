@@ -23,10 +23,45 @@ The ceremony showed me how tight their community was there. My grandfather was a
 
 
 ![hunting necklace](/img/tahiti/huntingnecklace.jpg) <br> 
+After the ceremony Landri and I walked up the street greeting as many people as we could make eye contact in true tahitian fashion. We sought refuge from the sun at a nearby friends house. There we sampled some homebrewed meed from a local fruit called fafaa. It was yellow, tasted like a banana pineapple saki. Smooth, strong and refreshing on a warm day. Perfect for facilitating conversation between new pals who lacked the linguistic expertise to be understood but radiated a warm passion to understand. <br>
+
+A guest at the house was visiting from the Marquesas Islands. He had just been on a hunt living in the jungle for months. He shared his stories of making his own refuge, pooring monoi oil on your body to hide your sent after not showering for weeks at a time. <br>
+
+The neclace you see me wearing is his. From what I could understand these are very important pieces for hunter
 
 ![building a spear fish](/img/tahiti/prepspear.jpg) <br>
 
 ![temana](/img/tahiti/temana.jpg) <br>
+
+![standing in the waterfall](/img/tahiti/waterfall.jpg) <br>
+
+![by the waterfall](/img/tahiti/waterswim.jpg) <br>
+
+## École Mahana
+
+![sleeping at the beach](/img/tahiti/beachsleep.gif) <br>
+
+![me and temana](/img/tahiti/temaname.jpg) <br>
+
+![Having anise with the crew](/img/tahiti/wilsonanise.jpg) <br>
+
+![Having anise with the crew](/img/tahiti/wilsonjosua.jpg) <br>
+
+![Having anise with the crew](/img/tahiti/wilsonanise.jpg) <br>
+
+![Having anise with the crew](/img/tahiti/wilsonmorea.jpg) <br>
+
+![Having anise with the crew](/img/tahiti/wkndnight.jpg) <br>
+
+![Having anise with the crew](/img/tahiti/wkndsunset.jpg) <br>
+
+![mahana at night](/img/tahiti/mahananight.jpg) <br>
+
+![knockout with the crew](/img/tahiti/mahanapunch.jpg) <br>
+
+![sunset from mahana](/img/tahiti/mahanasunset.jpg) <br>
+
+![morea behind me](/img/tahiti/islandsight.jpg) <br>
 
 * Ecole Mahana <br>
     * Rehearsing and assuming a cultural flair to perfection <br>
