@@ -4,11 +4,18 @@
     <link>http://palaver.jerad.xyz/post/</link>
     <description>Recent content in Posts on Palaver</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 23 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://palaver.jerad.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Ecole Mahana</title>
+      <link>http://palaver.jerad.xyz/post/ecolemahana/ecolemahana/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/ecolemahana/ecolemahana/</guid>
+      <description>Mes frères, ma famille, ma foi, les gardiens de ma maison</description>
+    </item><item>
       <title>Hold On</title>
       <link>http://palaver.jerad.xyz/post/holdon/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
@@ -36,13 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/whenoutvoiced/</guid>
       <description>Exercise to realise your way to survive their lies</description>
-    </item><item>
-      <title>Fourth Shodowing Me</title>
-      <link>http://palaver.jerad.xyz/post/fourthshadow/</link>
-      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/fourthshadow/</guid>
-      <description>Shattered, and were are just about to wrap it up</description>
     </item>
   </channel>
 </rss>
