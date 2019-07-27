@@ -2,13 +2,13 @@
 title: "Silk Worms Cradle"
 date: "June 2019"
 description: ""
-categories: []
+categories: ['mineRadio']
 featuredImage: "img/paper/spacefriend.png"
 imageDescription: "familiar face from outer-space"
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: true
+draft: false
 ---
 
 I know what I saw that night. <br>

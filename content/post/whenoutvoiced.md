@@ -2,13 +2,13 @@
 title: "When Outvoices"
 date: 2019-07-09
 description: "Exercise to realise your way to survive their lies"
-categories: []
+categories: ['mineRadio']
 featuredImage: "img/paper/bewildabeastmode.png"
 featuredImageDescription: "#hashlife"
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: true
+draft: false
 ---
 
 Rising tide raises all ships.  
@@ -24,7 +24,7 @@ Find a Casual Outperformer
 This soluble preparation
 
 Receipt Recipe Receive
-Kept Directive perceive
+Kept Directive perceptive
 
 Techniques for Postponing the Apocalypse:  
 - Clear Inbox: Clean, organize, delete, reduce email clutter  

@@ -2,7 +2,7 @@
 title: "The End is Near"
 date: 2019-07-10
 description: ""
-categories: []
+categories: ['mineRadio']
 featuredImage: "img/paper/satalife.png"
 featuredImageDescription: ""
 dropCap: true

@@ -2,7 +2,7 @@
 title: "Call Me Nancy"
 date: 2019-07-14
 description: ""
-categories: []
+categories: ['mineRadio']
 featuredImage: "img/paper/beam.png"
 featuredImageDescription: ""
 dropCap: true

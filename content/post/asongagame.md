@@ -2,13 +2,13 @@
 title: "a Song a Game"
 date: 2019-1-11
 description: "A melody of melancholy madness"
-categories: ['poems']
+categories: ['mineRadio']
 featuredImage: "img/paper/mineradio.png"
 imageDescription: ""
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: true
+draft: false
 ---
 
 - hate is hate finds hate in all  

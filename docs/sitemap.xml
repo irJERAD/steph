@@ -46,6 +46,12 @@
   </url>
   
   <url>
+    <loc>http://palaver.jerad.xyz/categories/mineradio/</loc>
+    <lastmod>2019-07-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://palaver.jerad.xyz/post/holdon/</loc>
     <lastmod>2019-07-10T00:00:00+00:00</lastmod>
   </url>
@@ -56,8 +62,43 @@
   </url>
   
   <url>
+    <loc>http://palaver.jerad.xyz/post/hereweare/</loc>
+    <lastmod>2019-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/whenoutvoiced/</loc>
+    <lastmod>2019-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/fourthshadow/</loc>
+    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://palaver.jerad.xyz/post/mindsharemanifesto/</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/firstrule/</loc>
+    <lastmod>2019-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/onefoot/</loc>
+    <lastmod>2019-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/poisonleaf/</loc>
+    <lastmod>2019-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/asoflate/</loc>
+    <lastmod>2019-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -66,8 +107,18 @@
   </url>
   
   <url>
+    <loc>http://palaver.jerad.xyz/post/serasera/</loc>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://palaver.jerad.xyz/myparasight/</loc>
     <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/usalways/</loc>
+    <lastmod>2019-01-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -82,6 +133,11 @@
   </url>
   
   <url>
+    <loc>http://palaver.jerad.xyz/post/disposal/</loc>
+    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://palaver.jerad.xyz/</loc>
     <lastmod>2018-04-27T09:46:15-04:00</lastmod>
   </url>
@@ -91,8 +147,16 @@
   </url>
   
   <url>
+    <loc>http://palaver.jerad.xyz/post/silkwormscraddle/</loc>
+  </url>
+  
+  <url>
     <loc>http://palaver.jerad.xyz/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/asongagame/</loc>
   </url>
   
 </urlset>

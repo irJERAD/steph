@@ -2,13 +2,13 @@
 title: "Fourth Shodowing Me"
 date: 2019-07-08
 description: "Shattered, and were are just about to wrap it up"
-categories: []
+categories: ['mineRadio']
 featuredImage: "img/paper/puzzlepiece.png"
 featuredImageDescription: ""
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: true
+draft: false
 ---
 
 Oh look what we've done, <br>

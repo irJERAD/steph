@@ -2,7 +2,7 @@
 title: "Living to Die"
 date: "2019-06-20"
 description: ""
-categories: []
+categories: ['mineRadio']
 featuredImage: "img/paper/satalife.png"
 imageDescription: "img/paper/satalife.png"
 dropCap: true

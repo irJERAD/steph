@@ -2,7 +2,7 @@
 title: "How Did This Not Happen?"
 date: 2019-07-20
 description: "Is it possible something so beautiful and expected did no come to pass?"
-categories: [love]
+categories: ['love']
 featuredImage: "img/paper/always3love.png"
 featuredImageDescription: "Always Love Always Love Always Love"
 dropCap: true

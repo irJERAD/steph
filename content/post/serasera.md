@@ -2,13 +2,13 @@
 title: "Sera Sera"
 date: 2019-02-12
 description: "Let it be, this love of ours"
-categories: ["love"]
+categories: ['love']
 featuredImage: "img/paper/loveisnotlove.png"
 imageDescription: ""
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: true
+draft: false
 ---
 <pre>
 - Who What When Where Why?

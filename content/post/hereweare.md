@@ -2,13 +2,13 @@
 title: "Here We Are"
 date: 2019-07-09
 description: ""
-categories: []
+categories: ['mineRadio']
 featuredImage: "img/paper/tent.png"
 featuredImageDescription: ""
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: true
+draft: false
 ---
 
 A turn of events

@@ -1,0 +1,48 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts - Palaver</title>
+    <link>http://palaver.jerad.xyz/post/</link>
+    <description>Recent content in Posts on Palaver</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 23 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://palaver.jerad.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MindShare Manifesto</title>
+      <link>http://palaver.jerad.xyz/post/mindsharemanifesto/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/mindsharemanifesto/</guid>
+      <description>A call to propogate what we have all been feeling, an awakening.</description>
+    </item><item>
+      <title>Ja Rule</title>
+      <link>http://palaver.jerad.xyz/post/firstrule/</link>
+      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/firstrule/</guid>
+      <description>How we interpret our rhetoric</description>
+    </item><item>
+      <title>One Foot</title>
+      <link>http://palaver.jerad.xyz/post/onefoot/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/onefoot/</guid>
+      <description>tales from the other side</description>
+    </item><item>
+      <title>Poison Leaf</title>
+      <link>http://palaver.jerad.xyz/post/poisonleaf/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/poisonleaf/</guid>
+      <description>Reactionary tale</description>
+    </item><item>
+      <title>Thought I already one</title>
+      <link>http://palaver.jerad.xyz/post/asoflate/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/asoflate/</guid>
+      <description>detangled narratives</description>
+    </item>
+  </channel>
+</rss>

@@ -2,13 +2,13 @@
 title: "Poison Leaf"
 date: 2019-06-22
 description: "Reactionary tale"
-categories: []
+categories: ['mineRadio']
 featuredImage: "img/paper/door.png"
 imageDescription: "one foot on the other side"
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: true
+draft: false
 ---
 
 <pre>

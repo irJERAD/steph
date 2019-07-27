@@ -2,13 +2,13 @@
 title: "Disposal"
 date: "2018-07-06"
 description: "Lose your stuff and reload"
-categories: []
+categories: ['mineRadio']
 featuredImage: "img/paper/bananafan.png"
 imageDescription: "Killing for name"
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: true
+draft: false
 ---
 
 The movers have left

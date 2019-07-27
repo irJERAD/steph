@@ -2,13 +2,13 @@
 title: "Ja Rule"
 date: "2019-06-26"
 description: "How we interpret our rhetoric"
-categories: []
+categories: ['mineRadio']
 featuredImage: "img/paper/whalewash.png"
 imageDescription: ""
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: true
+draft: false
 ---
 
 First rule is we DOM.  

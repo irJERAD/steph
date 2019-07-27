@@ -1,0 +1,48 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mineRadio - Palaver</title>
+    <link>http://palaver.jerad.xyz/categories/mineradio/</link>
+    <description>Recent content in mineRadio on Palaver</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://palaver.jerad.xyz/categories/mineradio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Call Me Nancy</title>
+      <link>http://palaver.jerad.xyz/post/callmenancy/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/callmenancy/</guid>
+      <description></description>
+    </item><item>
+      <title>The End is Near</title>
+      <link>http://palaver.jerad.xyz/post/endisnear/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/endisnear/</guid>
+      <description></description>
+    </item><item>
+      <title>Here We Are</title>
+      <link>http://palaver.jerad.xyz/post/hereweare/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/hereweare/</guid>
+      <description></description>
+    </item><item>
+      <title>When Outvoices</title>
+      <link>http://palaver.jerad.xyz/post/whenoutvoiced/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/whenoutvoiced/</guid>
+      <description>Exercise to realise your way to survive their lies</description>
+    </item><item>
+      <title>Fourth Shodowing Me</title>
+      <link>http://palaver.jerad.xyz/post/fourthshadow/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/fourthshadow/</guid>
+      <description>Shattered, and were are just about to wrap it up</description>
+    </item>
+  </channel>
+</rss>

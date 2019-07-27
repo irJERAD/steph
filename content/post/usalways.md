@@ -2,13 +2,13 @@
 title: "Us Always: Meglow"
 date: 2019-01-19
 description: ""
-categories: ["love"]
+categories: ['love']
 featuredImage: "img/paper/heartshapedbox.png"
 imageDescription: ""
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: true
+draft: false
 ---
 
 - It was always about us
