@@ -11,4 +11,4 @@ displayInList: true
 draft: false
 ---
 
-An ![R Notebook on Earthquake Analysis](http://palaver.jerad.xyz/data/earthquakeNB.html)
+An [R Notebook on Earthquake Analysis](http://palaver.jerad.xyz/data/earthquakeNB.html)

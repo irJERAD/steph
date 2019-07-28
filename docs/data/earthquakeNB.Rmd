@@ -1,0 +1,88 @@
+---
+title: "Earthquake Notebook"
+output:
+  html_document:
+    self_contained: true
+    theme: united
+    highlight: tango
+    df_print: paged
+    toc: true
+    toc_float: true
+---
+
+
+# Earthquake Analysis
+
+## Setup
+
+### Libraries
+
+```{r libraries, message=FALSE}
+library(tidyverse)
+library(RCurl)
+library(plotly)
+library(data.table)
+library(DT)
+```
+
+### Datasets
+ *cache data in notebook to have access to most recent when not connect to internet*
+```{r global earthquake data, cache=T}
+dl <- getURL('https://www.engineeringbigdata.com/wp-content/uploads/earthquake_all.csv')
+gEQdata <- read_csv(file = dl)
+```
+
+### Explore Data
+
+```{r summary}
+summary(gEQdata, na.rn=T)
+```
+### Statistics {.tabset}
+```{r}
+sum <- summary(gEQdata$mag, na.rm=T)
+sum
+```
+
+
+#### Magnitude
+
+**Maximum:** `r sum["Max."]` **Minimum:** `r sum["Min."]`
+
+**Median:** `r sum["Median"]` **Mean:** `r sum["Mean"]` 
+
+### Reduce Dataset
+
+According to [UPSeis](http://www.geo.mtu.edu/UPSeis/magnitude.html) an Earthquake with a magnitude of greater than 6 is significant
+
+```{r}
+SigQuake <- gEQdata[gEQdata$mag > 6,]
+Sigsum <- summary(SigQuake$mag, na.rm=T)
+Sigsum
+```
+
+#### Earthquake Magnitude Classes
+```{r}
+magClasses <- data.table(Class = 
+                            c("Great","Major","Strong","Moderate",
+                              "Light","Minor"),
+                        Magnitude = 
+                            c("8 or more","7 - 7.9","6 - 6.9","5 - 5.9",
+                              "4 - 4.9","3 - 3.9"),
+                        Estimated_Each_Year =
+                            c("one every 5 to 10 years","20","100",
+                              "500","30,000","900,000"),
+                        Estimated_Each_Month =
+                            c("0","1.5","8.3","41.6","2,500","75,000"),
+                        This_Month =
+                            c(count(gEQdata[gEQdata$mag>=8,]),count(gEQdata[gEQdata$mag>=7,]),
+                              count(gEQdata[gEQdata$mag>=6,]),count(gEQdata[gEQdata$mag>=5.5,]),
+                              count(gEQdata[gEQdata$mag>=2.5,]),count(gEQdata)))
+names(magClasses)[3] <- "Estimated Each Year"
+names(magClasses)[4] <- "Estimated Each Month"
+names(magClasses)[5] <- "This Month"
+datatable(magClasses, rownames = F)
+```
+ The numbers on this table show us that the month from December 26m 2017 until January 25, 2018 has **fewer Minor class earthquakes than normal**. <br>
+There are **more Great class**, <br>
+**4 times as many Major Class**, <br>
+and **over 10% more Strong class Earthquakes**. <br>
