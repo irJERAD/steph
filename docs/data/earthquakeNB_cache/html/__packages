@@ -16,3 +16,6 @@ stringr
 forcats
 bitops
 RCurl
+plotly
+data.table
+DT
