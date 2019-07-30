@@ -12,9 +12,9 @@ draft: false
 ---
 
 
-Three, Three, 3,
-the second, 
-always in threes.
+Three, Three, 3;
+remember the second,
+always three.
 
 Before we can have piece,
 Fertile hope,
@@ -22,10 +22,13 @@ Germinates Belief;
 Sprout Faith.
 
 
-Look where you've come from.
-Is it forgetton when left?
-Know your journey
 Find the path
+Know your journey..
 
+See where you've come from.
+Had I forgetton when you left?
+
+Know your journey..
+Find the path
 
 Home is always where you left it
