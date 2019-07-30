@@ -8,17 +8,17 @@ featuredImageDescription: "Radial Hexigons and we're gone"
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: true
+draft: false
 ---
 
-Hexigonal imprints
-on limbs printed 
-from radios mined
+Hexigonal imprints <br>
+on limbs printed <br>
+from radios mined <br>
 
-from up above 
-within this crust
-we busted our soul hope
+from up above <br>
+within this crust <br>
+we busted our soul hope <br>
 
-In search of what we know not
-cleansed our fellow[s] geared
-for foul weather years
+In search of what we know not <br>
+cleansed our fellow[s] geared <br>
+for foul weather years <br>
