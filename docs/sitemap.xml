@@ -169,6 +169,15 @@
   </url>
   
   <url>
+    <loc>http://palaver.jerad.xyz/post/believe/</loc>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/categories/hope/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://palaver.jerad.xyz/post/silkwormscraddle/</loc>
   </url>
   
