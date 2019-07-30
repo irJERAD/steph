@@ -2,7 +2,7 @@
 title: "Alkaloid Dreaming"
 date: 2019-07-30
 description: "Alkaloid dreaming interacting vocal viral steaming"
-categories: []
+categories: ['MineRadio']
 featuredImage: ""
 featuredImageDescription: ""
 dropCap: true
@@ -11,20 +11,49 @@ displayInList: true
 draft: true
 ---
 
+Spy Kids, 
+An account of our time in raved in our family place on this Radio of Mine nuff said nZed
+
 I dream of Alkaloid erupted steam.
 
-Nitrogen
 
-In addition to carbon, hydrogen and nitrogen, alkaloids may also contain oxygen, sulfur and, more rarely, other elements such as chlorine, bromine, and phosphorus.
-
-A Fungus to fight the fungus:
-Alkaloids are produced by a large variety of organisms including bacteria, fungi, plants, and animals
-
-They can be purified from crude extracts of these organisms by acid-base extraction, or solvent extractions followed by silica-gel column chromatography
-
-Acid-base extraction, contraction 
-complemental interaction 
-of my immediate contamination
+As my mind erupts <br>
+Disassociation of my cognitive association. <br>
+Walking webs to capture dreams <br>
+Woven entropy Dino helix <br>
+[Centripetal / Central] Weave <br>
 
 
-Amines interact with mescaline serotonin and dopamine 
+Take a breath and rest <br>
+Rest, Take a breadth <br>
+instinct fires <br>
+clean a stink <br>
+bleach <br>
+
+
+Rising Tide: <br>
+Rising tides also break out in hives <br>
+Pumping for acceleration on a surfboard and the feeling of the ghost <br>
+massage / fish breadth. <br>
+
+Complimentary System: <br>
+Using radio waves to break small protein antennas which inflame autoimmune systems leaving organs over-strain. <br>
+
+Dinosaur: <br>
+Walking a spiral staircase to a Pre-Jurassic medicinal <br>
+
+Nitrogen <br>
+
+In addition to carbon, hydrogen and nitrogen, alkaloids may also contain oxygen, sulfur and, more rarely, other elements such as chlorine, bromine, and phosphorus. <br>
+
+A Fungus to fight the fungus: <br>
+Alkaloids are produced by a large variety of organisms including bacteria, fungi, plants, and animals <br>
+
+They can be purified from crude extracts of these organisms by acid-base extraction, or solvent extractions followed by silica-gel column chromatography <br>
+
+Acid-base extraction, contraction <br>
+complemental interaction <br>
+of my immediate contamination <br>
+
+
+Amines interact with mescaline serotonin and dopamine similar to over the counter sex pills <br>
