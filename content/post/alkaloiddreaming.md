@@ -15,6 +15,7 @@ Spy Kids,
 An account of our time in raved in our family place on this Radio of Mine nuff said nZed
 
 I dream of Alkaloid erupted steam.
+California state of mind within the poppy lay a piece to our 
 
 
 As my mind erupts <br>
@@ -31,29 +32,32 @@ clean a stink <br>
 bleach <br>
 
 
-Rising Tide: <br>
+Acid-base extraction, contraction <br>
+complementary interaction <br>
+of my immediate contamination <br>
+
+
+## Subjects:
+
+### Rising Tide: <br>
 Rising tides also break out in hives <br>
 Pumping for acceleration on a surfboard and the feeling of the ghost <br>
 massage / fish breadth. <br>
 
-Complimentary System: <br>
+### Complimentary System: <br>
 Using radio waves to break small protein antennas which inflame autoimmune systems leaving organs over-strain. <br>
 
-Dinosaur: <br>
+### Dinosaur: <br>
 Walking a spiral staircase to a Pre-Jurassic medicinal <br>
 
-Nitrogen <br>
-
+### Nitrogen <br>
 In addition to carbon, hydrogen and nitrogen, alkaloids may also contain oxygen, sulfur and, more rarely, other elements such as chlorine, bromine, and phosphorus. <br>
 
-A Fungus to fight the fungus: <br>
+### A Fungus to fight the fungus: <br>
 Alkaloids are produced by a large variety of organisms including bacteria, fungi, plants, and animals <br>
 
 They can be purified from crude extracts of these organisms by acid-base extraction, or solvent extractions followed by silica-gel column chromatography <br>
 
-Acid-base extraction, contraction <br>
-complemental interaction <br>
-of my immediate contamination <br>
 
-
+### Steroidal Cut for Sweet Fake nut
 Amines interact with mescaline serotonin and dopamine similar to over the counter sex pills <br>
