@@ -11,11 +11,11 @@ displayInList: true
 draft: false
 ---
 
-Spy Kids, 
-An account of our time in raved in our family place on this Radio of Mine nuff said nZed
+**Spy Kids,** <br>
+An account of our time in raved in our family place on this Radio of Mine nuff said nZed <br>
 
-I dream of Alkaloid erupted steam.
-California state of mind within the poppy lay a piece to our 
+I dream of Alkaloid erupted steam. <br>
+California state of mind within the poppy lay a piece to our contamination contagion of a cerebral inflammation. <br>
 
 
 As my mind erupts <br>
@@ -61,3 +61,11 @@ They can be purified from crude extracts of these organisms by acid-base extract
 
 ### Steroidal Cut for Sweet Fake nut
 Amines interact with mescaline serotonin and dopamine similar to over the counter sex pills <br>
+
+
+### Alkaloid Recipe For MineRadio Success
+Cinchona treatment for malaria <br>
+[Cinchona species with their alkaloid concentrations. Within five years the extracted alkaloids had become standard treatment for malaria.](https://www.britannica.com/plant/Cinchona)  
+
+**Cinchona Quinine for Heart Rhythmic disorder**
+[Four species of Cinchona were cultivated for many years, primarily in Java and also in India and Ceylon (now Sri Lanka) as sources of quinine and quinidine, which is used mainly for cardiac rhythmic disorders.](https://www.britannica.com/plant/Cinchona)  
