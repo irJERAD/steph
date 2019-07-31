@@ -1,12 +1,12 @@
 # aether theme
-baseurl = "http://palaver.jerad.xyz"
-title = "Palaver"
-author = "Jerad Acosta"
-canonifyurls = true
-paginate = 5
-theme = "aether"
-googleanalytics = "UA-144921519-1"
-disqusShortname = "irJERAD"
+# baseurl = "http://palaver.jerad.xyz"
+# title = "Palaver"
+# author = "Jerad Acosta"
+# canonifyurls = true
+# paginate = 5
+# theme = "aether"
+# googleanalytics = "UA-144921519-1"
+# disqusShortname = "irJERAD"
 
 publishDir = "docs"
 
