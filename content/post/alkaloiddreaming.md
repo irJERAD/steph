@@ -59,11 +59,13 @@ Alkaloids are produced by a large variety of organisms including bacteria, fungi
 They can be purified from crude extracts of these organisms by acid-base extraction, or solvent extractions followed by silica-gel column chromatography <br>
 
 
-### Steroidal Cut for Sweet Fake nut
+### Steroidal Cut for Sweet Fake nut <br>
 Amines interact with mescaline serotonin and dopamine similar to over the counter sex pills <br>
 
+### Ephedrine for fever and cold medicine <br>
+Ephedrine, alkaloid used as a decongestant drug. It is obtainable from plants of the genus Ephedra, particularly the Chinese species E. sinica, and it has been used in China for more than 5,000 years to treat asthma and hay fever.
 
-### Alkaloid Recipe For MineRadio Success
+### Alkaloid Recipe For MineRadio Success <br>
 Cinchona treatment for malaria <br>
 [Cinchona species with their alkaloid concentrations. Within five years the extracted alkaloids had become standard treatment for malaria.](https://www.britannica.com/plant/Cinchona)  
 

@@ -161,8 +161,15 @@ strong {
     line-height: 1.6;
     margin: 0;
 }
+.list-header-content {
+    margin: 5em 0;
+    line-height: 1.6em;
+}
 .card-container {
     max-width: 49rem;
+}
+.card-container > a:first-of-type {
+    margin-top: 5em;
 }
 .card {
     display: block;

@@ -3,6 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://palaver.jerad.xyz/post/hexigonalimprints/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://palaver.jerad.xyz/post/alkaloiddreaming/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
   </url>
@@ -14,12 +25,6 @@
   
   <url>
     <loc>http://palaver.jerad.xyz/categories/</loc>
-    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/post/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

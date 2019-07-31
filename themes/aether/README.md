@@ -2,7 +2,7 @@
 Aether is a Hugo theme for blogs that emphasizes motion, depth, and material as design elements.  Aether presents your content in a clean interface that highlights good photography and writing.
 
 ## Features
- - It's **Fast**! PageSpeed scores consistently between 94-99
+ - It's **Fast**! PageSpeed scores consistently between 94-100
  - Fully **Responsive Design** allowing your site to look good on any size screen
  - Supports next-gen image format WebP with custom shortcodes
  - **Accessibility** is a priority, making your site easily navigated by screen readers
@@ -25,7 +25,7 @@ git clone https://github.com/josephhutch/aether.git themes/aether
 ### Website Configuration
 Customize the look and feel of aether through the config.toml file. See how to fill in the config file below.
 
-```toml
+```
 baseURL = "https://yourwebsitenamegoeshere.com/"
 languageCode = "The language code for the language the website is written in"
 title = "The website title that is used in each page title, displayed in the browser tab and search results"
@@ -38,6 +38,7 @@ brand = "The name that is displayed in the top left of the website, consider it 
 description = "The website's description"
 homeimg = "URL to the image used for the home button at the bottom of each post - optional"
 bgimg = "URL to the image used for the page background - optional"
+rssinmenu = whether you would like a RSS feed link to appear in the navigation menu (true, false) - optional
 ```
 
 The `title` parameter is used for each page title, the title that search engines display in search results. If you would like the title shown in the top left of the page to be different from the page title, use the `brand` parameter. For instance, the title parameter for my site is `Joe Hutchinson` but the brand parameter is set to `joehutch`.
@@ -63,7 +64,7 @@ Aether supports a large array of favicon formats. Simply add your favicons with 
  - site.webmanifest
 
 ### Creating content
-Make a new blog post by executing `hugo new post/postnamehere.md` in your shell. At the top of the new markdown file, is what's called the front matter. The front matter is the page's metadata that determines how Hugo and aether generate the HTML for your post. Below you can find what the front matter that aether uses and what each of the parameters mean.
+Make a new blog post by executing `hugo new post/postnamehere/index.md` in your shell. At the top of the new markdown file, is what's called the front matter. The front matter is the page's metadata that determines how Hugo and aether generate the HTML for your post. Below you can find what the front matter that aether uses and what each of the parameters mean.
 
 ```yaml
 ---
@@ -71,11 +72,14 @@ title: "The title of your post"
 date: date the post was generated (automatically generated)
 description: "Description of the post (displayed in the post's card)"
 categories: ["Add comma s categories here", "another category"]
-featuredImage: "URL to the page's featured image, used as the card image and the image at the top of the article"
-featuredImageDescription: "Description for the featured image, used as the alt text"
 displayInMenu: whether you would like the post to show up in the navigation menu (true, false)
 displayInList: whether you would like the post to be listed on the home page and category pages (true, false)
 draft: if the page is a draft (true, false)
+resources:
+- name: featuredImage
+  src: "Filename of the page's featured image, used as the card image and the image at the top of the article"
+  params:
+    description: "Description for the featured image, used as the alt text"
 ---
 ```
 
@@ -103,15 +107,15 @@ Shortcodes extend markdown to make writing easier and more powerful.
 `image` is how you add WebP images to your posts with a fallback in case WebP is not supported. Image just needs the src and alt parameters. WebP is a next-gen image format that was created to make the web fast. To use the image shortcode simply store a WebP image with the same name in the same directory as your normal image.
 
 ```html
-<!--- Will display a WebP image on supported browsers if img/awesome.webp exists -->
-{{<image src="img/awesome.jpg" alt="An awesome image that will use webp when possible. Much faster!" >}}
+<!--- Will display a WebP image on supported browsers if awesome.webp exists -->
+{{<image src="awesome.jpg" alt="An awesome image that will use webp when possible. Much faster!" >}}
 ```
 
 `smallimg` allows you to add images to your posts without stretching them to be as wide as the content area.  Smallimg takes the parameters src, alt, smartfloat (optional), and width (optional). The smartfloat parameter can be set to right or left, and it floats the image to the right or left on big enough screens.
 
 ```html
-<!--- smallimg will also display a WebP image on supported browsers if img/smile.webp exists -->
-{{<smallimg src="/img/smile.png" alt="A big beautiful smile" smartfloat="left" width="100px">}}
+<!--- smallimg will also display a WebP image on supported browsers if smile.webp exists -->
+{{<smallimg src="smile.png" alt="A big beautiful smile" smartfloat="left" width="100px">}}
 ```
 
 ### Further Customization
