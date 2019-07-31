@@ -16,6 +16,13 @@
       <guid>http://palaver.jerad.xyz/post/hexigonalimprints/</guid>
       <description>Satalight Inscription, Reminds me to take my prescription</description>
     </item><item>
+      <title>Wish You Were Here</title>
+      <link>http://palaver.jerad.xyz/post/wishyouwerehere/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/wishyouwerehere/</guid>
+      <description>Space is an unneeded sacrifice</description>
+    </item><item>
       <title>Alkaloid Dreaming</title>
       <link>http://palaver.jerad.xyz/post/alkaloiddreaming/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
@@ -36,13 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/earthquakeanalysis/</guid>
       <description>Exploring views on earthquake data from around the world</description>
-    </item><item>
-      <title>Always Love, Always Us</title>
-      <link>http://palaver.jerad.xyz/post/alwayslovealwaysus/</link>
-      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/alwayslovealwaysus/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
