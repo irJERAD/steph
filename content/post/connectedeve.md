@@ -8,7 +8,7 @@ imageDescription: "One and One equals Whole"
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: true
+draft: false
 ---
 
 It has been called voodoo, witch craft, magic, cursed or supernatural; connecting an individual with someone or thing else has been done for millennia.  
