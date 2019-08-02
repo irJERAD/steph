@@ -1,6 +1,6 @@
 ---
 title: "Psycho Acoustic unFair"
-date: 2019-07-31
+date: 2019-08-02
 description: "The sound of science putting free will in the back seat"
 categories: ['MineRadio']
 featuredImage: ""
