@@ -1,7 +1,7 @@
 ---
-title: "It is a Beautiful way to Die"
+title: "It Is A Beautiful Way To Die"
 date: 2019-07-09
-description: ""
+description: "free that is.."
 categories: []
 featuredImage: "img/paper/cuppedflow.png"
 featuredImageDescription: "fill my cup with passion for truth"

@@ -4,29 +4,29 @@
   
   <url>
     <loc>http://palaver.jerad.xyz/categories/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://palaver.jerad.xyz/post/hexigonalimprints/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/categories/love/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+    <loc>http://palaver.jerad.xyz/categories/mineradio/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://palaver.jerad.xyz/post/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://palaver.jerad.xyz/post/wishyouwerehere/</loc>
+    <loc>http://palaver.jerad.xyz/post/psychoacoustic/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/hexigonalimprints/</loc>
     <lastmod>2019-07-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -41,13 +41,12 @@
   </url>
   
   <url>
-    <loc>http://palaver.jerad.xyz/categories/hope/</loc>
+    <loc>http://palaver.jerad.xyz/post/citylights/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://palaver.jerad.xyz/categories/mineradio/</loc>
+    <loc>http://palaver.jerad.xyz/categories/hope/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -70,13 +69,30 @@
   </url>
   
   <url>
-    <loc>http://palaver.jerad.xyz/post/alwayslovealwaysus/</loc>
+    <loc>http://palaver.jerad.xyz/post/header/</loc>
     <lastmod>2019-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/categories/game/</loc>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/obeyfeelhurt/</loc>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://palaver.jerad.xyz/post/didnothappen/</loc>
     <lastmod>2019-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/categories/love/</loc>
+    <lastmod>2019-07-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -181,6 +197,16 @@
   </url>
   
   <url>
+    <loc>http://palaver.jerad.xyz/post/connectedeve/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/dejanotes/</loc>
+    <lastmod>2018-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://palaver.jerad.xyz/</loc>
     <lastmod>2018-04-27T09:46:15-04:00</lastmod>
   </url>
@@ -201,10 +227,6 @@
   <url>
     <loc>http://palaver.jerad.xyz/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/post/asongagame/</loc>
   </url>
   
 </urlset>

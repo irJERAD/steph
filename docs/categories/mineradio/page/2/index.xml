@@ -1,14 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mineRadio - Palaver</title>
+    <title>MineRadio - Palaver</title>
     <link>http://palaver.jerad.xyz/categories/mineradio/</link>
-    <description>Recent content in mineRadio on Palaver</description>
+    <description>Recent content in MineRadio on Palaver</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://palaver.jerad.xyz/categories/mineradio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Here We Are</title>
+      <link>http://palaver.jerad.xyz/post/hereweare/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/hereweare/</guid>
+      <description></description>
+    </item><item>
+      <title>When Outvoices</title>
+      <link>http://palaver.jerad.xyz/post/whenoutvoiced/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/whenoutvoiced/</guid>
+      <description>Exercise to realise your way to survive their lies</description>
+    </item><item>
       <title>Fourth Shodowing Me</title>
       <link>http://palaver.jerad.xyz/post/fourthshadow/</link>
       <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
@@ -29,20 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/firstrule/</guid>
       <description>How we interpret our rhetoric</description>
-    </item><item>
-      <title>One Foot</title>
-      <link>http://palaver.jerad.xyz/post/onefoot/</link>
-      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/onefoot/</guid>
-      <description>tales from the other side</description>
-    </item><item>
-      <title>Poison Leaf</title>
-      <link>http://palaver.jerad.xyz/post/poisonleaf/</link>
-      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/poisonleaf/</guid>
-      <description>Reactionary tale</description>
     </item>
   </channel>
 </rss>

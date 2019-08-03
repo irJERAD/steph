@@ -1,20 +1,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mineRadio - Palaver</title>
+    <title>MineRadio - Palaver</title>
     <link>http://palaver.jerad.xyz/categories/mineradio/</link>
-    <description>Recent content in mineRadio on Palaver</description>
+    <description>Recent content in MineRadio on Palaver</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://palaver.jerad.xyz/categories/mineradio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Psycho Acoustic unFair</title>
+      <link>http://palaver.jerad.xyz/post/psychoacoustic/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/psychoacoustic/</guid>
+      <description>The sound of science putting free will in the back seat</description>
+    </item><item>
       <title>Alkaloid Dreaming</title>
       <link>http://palaver.jerad.xyz/post/alkaloiddreaming/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>http://palaver.jerad.xyz/post/alkaloiddreaming/</guid>
       <description>Alkaloid dreaming interacting vocal viral steaming</description>
+    </item><item>
+      <title>City Lights</title>
+      <link>http://palaver.jerad.xyz/post/citylights/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/citylights/</guid>
+      <description>Under guis of night our tricks take flight</description>
     </item><item>
       <title>Call Me Nancy</title>
       <link>http://palaver.jerad.xyz/post/callmenancy/</link>
@@ -29,20 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/endisnear/</guid>
       <description></description>
-    </item><item>
-      <title>Here We Are</title>
-      <link>http://palaver.jerad.xyz/post/hereweare/</link>
-      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/hereweare/</guid>
-      <description></description>
-    </item><item>
-      <title>When Outvoices</title>
-      <link>http://palaver.jerad.xyz/post/whenoutvoiced/</link>
-      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/whenoutvoiced/</guid>
-      <description>Exercise to realise your way to survive their lies</description>
     </item>
   </channel>
 </rss>

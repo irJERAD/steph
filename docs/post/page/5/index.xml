@@ -4,11 +4,25 @@
     <link>http://palaver.jerad.xyz/post/</link>
     <description>Recent content in Posts on Palaver</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://palaver.jerad.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Poison Leaf</title>
+      <link>http://palaver.jerad.xyz/post/poisonleaf/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/poisonleaf/</guid>
+      <description>Reactionary tale</description>
+    </item><item>
+      <title>Thought I already one</title>
+      <link>http://palaver.jerad.xyz/post/asoflate/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/asoflate/</guid>
+      <description>detangled narratives</description>
+    </item><item>
       <title>Sera Sera</title>
       <link>http://palaver.jerad.xyz/post/serasera/</link>
       <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
@@ -29,20 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/work4dayz/</guid>
       <description>The things she does and I still ask questions</description>
-    </item><item>
-      <title>Disposal</title>
-      <link>http://palaver.jerad.xyz/post/disposal/</link>
-      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/disposal/</guid>
-      <description>Lose your stuff and reload</description>
-    </item><item>
-      <title>Alleviate</title>
-      <link>http://palaver.jerad.xyz/post/alleviate/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/alleviate/</guid>
-      <description>Lift this opiate to the masses</description>
     </item>
   </channel>
 </rss>

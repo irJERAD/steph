@@ -4,11 +4,25 @@
     <link>http://palaver.jerad.xyz/post/</link>
     <description>Recent content in Posts on Palaver</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://palaver.jerad.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>When Outvoices</title>
+      <link>http://palaver.jerad.xyz/post/whenoutvoiced/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/whenoutvoiced/</guid>
+      <description>Exercise to realise your way to survive their lies</description>
+    </item><item>
+      <title>Fourth Shodowing Me</title>
+      <link>http://palaver.jerad.xyz/post/fourthshadow/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/fourthshadow/</guid>
+      <description>Shattered, and were are just about to wrap it up</description>
+    </item><item>
       <title>MindShare Manifesto</title>
       <link>http://palaver.jerad.xyz/post/mindsharemanifesto/</link>
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
@@ -29,20 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/onefoot/</guid>
       <description>tales from the other side</description>
-    </item><item>
-      <title>Poison Leaf</title>
-      <link>http://palaver.jerad.xyz/post/poisonleaf/</link>
-      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/poisonleaf/</guid>
-      <description>Reactionary tale</description>
-    </item><item>
-      <title>Thought I already one</title>
-      <link>http://palaver.jerad.xyz/post/asoflate/</link>
-      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/asoflate/</guid>
-      <description>detangled narratives</description>
     </item>
   </channel>
 </rss>
