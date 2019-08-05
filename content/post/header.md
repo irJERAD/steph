@@ -3,6 +3,7 @@ title: "header file"
 date: 2019-07-23
 description: ""
 categories: []
+comments: true
 featuredImage: ""
 featuredImageDescription: ""
 dropCap: true

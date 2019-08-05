@@ -6,7 +6,7 @@ canonifyurls = true
 paginate = 5
 theme = "aether"
 googleanalytics = "UA-144921519-1"
-disqusShortname = "irJERAD"
+disqusShortname = "irpalaver"
 
 publishDir = "docs"
 

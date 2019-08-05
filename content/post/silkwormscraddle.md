@@ -3,6 +3,7 @@ title: "Silk Worms Cradle"
 date: "June 2019"
 description: ""
 categories: ['mineRadio']
+comments: true
 featuredImage: "img/paper/spacefriend.png"
 imageDescription: "familiar face from outer-space"
 dropCap: true

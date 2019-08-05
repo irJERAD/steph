@@ -3,6 +3,7 @@ title: "Tossing Out Unwrapped Halloween Candy"
 date: 2019-06-26T02:42:00-08:00
 description: "How it feels after three decades of being gifted so much from life and everyone in it, to feeling somethings amiss just because everyone doesn't love me."
 categories: []
+comments: true
 featuredImage: "img/paper/puzzlepiece.png"
 dropCap: true
 displayInMenu: false

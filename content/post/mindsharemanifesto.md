@@ -3,6 +3,7 @@ title: "MindShare Manifesto"
 date: "2019-06-27"
 description: "A call to propogate what we have all been feeling, an awakening."
 categories: ['mineRadio']
+comments: true
 featuredImage: "img/paper/bananafan.png"
 imageDescription: "Split Intent"
 dropCap: true

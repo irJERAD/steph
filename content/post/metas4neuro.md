@@ -3,6 +3,7 @@ title: "Metas 4 Neuro"
 date: "2019-06-27"
 description: "Models Frameworks Idioms Happenstances Goofystances Phrases and all sorts of Way is gunna make seeing mine brain insane - to remember"
 categories: []
+comments: true
 featuredImage: "img/paper/minechameleon.png"
 imageDescription: "Color me Brain"
 dropCap: true

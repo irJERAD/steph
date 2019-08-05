@@ -3,6 +3,7 @@ title: "One Foot"
 date: 2019-06-22
 description: "tales from the other side"
 categories: ['mineRadio']
+comments: true
 featuredImage: "img/paper/door.png"
 imageDescription: "one foot on the other side"
 dropCap: true

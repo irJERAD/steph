@@ -3,6 +3,7 @@ title: "Self Propagate"
 date: "2019-06-26"
 description: "Let go of inhibition to sample what may be possible, then decide how much effort your willing to put into your faith."
 categories: []
+comments: true
 featuredImage: "img/paper/whalewash.png"
 imageDescription: ""
 dropCap: true

@@ -3,6 +3,7 @@ title: "Wisdom on a Grain of Rice"
 date: 2019-07-12
 description: "Lessons handed down from another generation"
 categories: []
+comments: true
 featuredImage: "img/paper/cuppedflow.png"
 featuredImageDescription: "flowing energy in place"
 dropCap: true

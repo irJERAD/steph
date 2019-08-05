@@ -3,6 +3,7 @@ title: "It Is A Beautiful Way To Die"
 date: 2019-07-09
 description: "free that is.."
 categories: []
+comments: true
 featuredImage: "img/paper/cuppedflow.png"
 featuredImageDescription: "fill my cup with passion for truth"
 dropCap: true

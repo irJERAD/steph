@@ -3,6 +3,7 @@ title: "Here We Are"
 date: 2019-07-09
 description: ""
 categories: ['mineRadio']
+comments: true
 featuredImage: "img/paper/tent.png"
 featuredImageDescription: ""
 dropCap: true

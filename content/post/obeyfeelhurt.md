@@ -3,6 +3,7 @@ title: "Obey Feel Hurt"
 date: 2019-07-21
 description: ""
 categories: ['Game']
+comments: true
 featuredImage: "img/paper/mineblueself.png"
 featuredImageDescription: ""
 dropCap: true

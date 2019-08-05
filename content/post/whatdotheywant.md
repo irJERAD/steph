@@ -3,6 +3,7 @@ title: "what do they want?"
 date: 2019-07-23
 description: ""
 categories: []
+comments: true
 featuredImage: ""
 featuredImageDescription: ""
 dropCap: true

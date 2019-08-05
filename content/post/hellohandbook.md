@@ -3,6 +3,7 @@ title: "Hello Handbook"
 date: 2019-07-09
 description: "Post awakening suggestions"
 categories: []
+comments: true
 featuredImage: "img/paper/spacefriend.png"
 featuredImageDescription: "someone I met 1989 Spring Valley"
 dropCap: true

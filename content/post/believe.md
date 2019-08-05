@@ -3,6 +3,7 @@ title: "Believe"
 date: 2019-07-30
 description: "Belief in each other is the second step"
 categories: ['Hope']
+comments: true
 featuredImage: "/img/paper/always3love.png"
 featuredImageDescription: "Hope Faith Love"
 dropCap: true

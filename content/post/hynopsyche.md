@@ -3,6 +3,7 @@ title: "Hypno Science"
 date: 2019-06-23
 description: "NLP and other hypnotech"
 categories: []
+comments: true
 featuredImage: "img/paper/mineown.png"
 imageDescription: ""
 dropCap: true

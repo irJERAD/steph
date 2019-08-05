@@ -3,6 +3,7 @@ title: "Thought I already one"
 date: 2019-07-07
 description: "I swear, read the header file."
 categories: []
+comments: true
 featuredImage: "img/paper/puzzlepiece.png"
 ImageDescription: ""
 dropCap: true

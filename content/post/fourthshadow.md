@@ -3,6 +3,7 @@ title: "Fourth Shodowing Me"
 date: 2019-07-08
 description: "Shattered, and were are just about to wrap it up"
 categories: ['mineRadio']
+comments: true
 featuredImage: "img/paper/puzzlepiece.png"
 featuredImageDescription: ""
 dropCap: true

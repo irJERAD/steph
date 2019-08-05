@@ -3,6 +3,7 @@ title: "Ja Rule"
 date: "2019-06-26"
 description: "How we interpret our rhetoric"
 categories: ['mineRadio']
+comments: true
 featuredImage: "img/paper/whalewash.png"
 imageDescription: ""
 dropCap: true

@@ -3,6 +3,7 @@ title: "Turnt and Spun"
 date: "2019-07-07"
 description: "The web that brought it back to pieces"
 categories: []
+comments: true
 featuredImage: "img/paper/dreamtahititattoo.png"
 imageDescription: ""
 dropCap: true

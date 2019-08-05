@@ -3,6 +3,7 @@ title: "Hexigonal Imprints"
 date: 2019-07-31
 description: "Satalight Inscription, Reminds me to take my prescription"
 categories: []
+comments: true
 featuredImage: "/img/drawings/cactusprint.jpg"
 featuredImageDescription: "Radial Hexigons and we're gone"
 dropCap: true

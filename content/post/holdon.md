@@ -3,6 +3,7 @@ title: "Hold On"
 date: 2019-07-10
 description: "Watching the Sunrise"
 categories: ['Love']
+comments: true
 featuredImage: "img/paper/51stdate3.png"
 featuredImageDescription: ""
 dropCap: true

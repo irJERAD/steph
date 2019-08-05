@@ -3,6 +3,7 @@ title: "a Song a Game"
 date: 2019-1-11
 description: "A melody of melancholy madness"
 categories: ['mineRadio']
+comments: true
 featuredImage: "img/paper/mineradio.png"
 imageDescription: ""
 dropCap: true
@@ -10,6 +11,42 @@ displayInMenu: false
 displayInList: true
 draft: true
 ---
+
+Hate,  it is hate 
+which finds hate in all
+Always hate that is only in hate
+
+Paralyzed aneurysm 
+are per pro-paranoia 
+Whole a-hole mole
+spooked the ghost
+that chose a host
+too close, 
+
+all for, my
+Nonsensical lyrical
+THIS IS WHY?
+You wanted a why,
+preached as me 
+saying I could fly
+
+Take the stand
+saying here is HE
+I am his MAN.
+Yet, was I?
+
+Why Did I die?
+what's that I hear?
+high jacked cochlear 
+to steer my circadian
+arachnid fear
+with cicada in my ear
+
+
+through my head
+blown up rhythm
+
+
 
 - hate is hate finds hate in all  
 - Theme  

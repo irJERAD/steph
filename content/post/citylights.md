@@ -3,6 +3,7 @@ title: "City Lights"
 date: 2019-07-30
 description: "Under guis of night our tricks take flight"
 categories: ['MineRadio']
+comments: true
 featuredImage: "/img/paper/satalife.png"
 featuredImageDescription: ""
 dropCap: true

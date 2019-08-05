@@ -3,6 +3,7 @@ title: "My ParaSight"
 date: 2019-02-10
 description: "It Drains Me to my soul occupation"
 categories: []
+comments: true
 featuredImage: "img/paper/hooked.png"
 featuredImageDescription: ""
 dropCap: true

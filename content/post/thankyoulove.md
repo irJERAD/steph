@@ -3,6 +3,7 @@ title: "Chin Chin, here's To the rest of your life"
 date: 2019-07-18
 description: "some stuff that feels really good to say aloud"
 categories: ['love']
+comments: true
 featuredImage: "img/paper/heartshapedbox.png"
 featuredImageDescription: ""
 dropCap: true

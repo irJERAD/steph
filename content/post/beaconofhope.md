@@ -3,6 +3,7 @@ title: "Beacon of Hope"
 date: 2019-05-24
 description: "Beacon of Hope"
 categories: ['mineRadio']
+comments: true
 featuredImage: ""
 featuredImageDescription: ""
 dropCap: true

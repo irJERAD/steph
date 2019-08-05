@@ -3,6 +3,7 @@ title: "How Many People are Asking Why?"
 date: "2018-07-05"
 description: "How many have to lie?"
 categories: []
+comments: true
 featuredImage: "img/paper/whaleawash.png"
 imageDescription: "Pontius your Pilate"
 dropCap: true

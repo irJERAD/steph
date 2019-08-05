@@ -3,6 +3,7 @@ title: "Wish You Were Here"
 date: 2019-07-31
 description: "Space is an unneeded sacrifice"
 categories: ['love']
+comments: true
 featuredImage: ""
 featuredImageDescription: ""
 dropCap: true

@@ -3,6 +3,7 @@ title: "Connected Evolution"
 date: "2018-07-05"
 description: "Connected with the cure"
 categories: []
+comments: true
 featuredImage: "img/paper/bananafan.png"
 imageDescription: "One and One equals Whole"
 dropCap: true

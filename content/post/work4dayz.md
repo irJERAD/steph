@@ -3,6 +3,7 @@ title: "Her Work and Devotion"
 date: 2018-07-10
 description: "The things she does and I still ask questions"
 categories: ['Aithena']
+comments: true
 featuredImage: "img/steph/work4day1.jpg"
 featuredImageDescription: ""
 dropCap: true

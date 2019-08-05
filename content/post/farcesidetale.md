@@ -3,6 +3,7 @@ title: "Tale from the Farce-side"
 date: "2018-07-05"
 description: "The math does not add up"
 categories: []
+comments: true
 featuredImage: "img/paper/bananafan.png"
 imageDescription: "Split Intent"
 dropCap: true

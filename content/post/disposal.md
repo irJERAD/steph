@@ -3,6 +3,7 @@ title: "Disposal"
 date: "2018-07-06"
 description: "Lose your stuff and reload"
 categories: ['mineRadio']
+comments: true
 featuredImage: "img/paper/bananafan.png"
 imageDescription: "Killing for name"
 dropCap: true

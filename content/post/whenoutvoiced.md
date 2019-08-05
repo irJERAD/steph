@@ -3,6 +3,7 @@ title: "When Outvoices"
 date: 2019-07-09
 description: "Exercise to realise your way to survive their lies"
 categories: ['mineRadio']
+comments: true
 featuredImage: "img/paper/bewildabeastmode.png"
 featuredImageDescription: "#hashlife"
 dropCap: true

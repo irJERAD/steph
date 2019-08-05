@@ -3,6 +3,7 @@ title: "From where to here?"
 date: 2019-07-12
 description: ""
 categories: []
+comments: true
 featuredImage: "img/paper/spacefriend.png"
 featuredImageDescription: ""
 dropCap: true

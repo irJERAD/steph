@@ -9,12 +9,6 @@
   </url>
   
   <url>
-    <loc>http://palaver.jerad.xyz/categories/mineradio/</loc>
-    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://palaver.jerad.xyz/post/</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -23,6 +17,12 @@
   <url>
     <loc>http://palaver.jerad.xyz/post/psychoacoustic/</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/categories/mineradio/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
