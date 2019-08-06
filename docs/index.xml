@@ -9,6 +9,13 @@
         <atom:link href="http://palaver.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Turtle :: Dove</title>
+      <link>http://palaver.jerad.xyz/post/turtledove/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/turtledove/</guid>
+      <description>We are two: Turtle and Dove My Wife and I</description>
+    </item><item>
       <title>Psycho Acoustic unFair</title>
       <link>http://palaver.jerad.xyz/post/psychoacoustic/</link>
       <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
@@ -36,13 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/believe/</guid>
       <description>Belief in each other is the second step</description>
-    </item><item>
-      <title>City Lights</title>
-      <link>http://palaver.jerad.xyz/post/citylights/</link>
-      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/citylights/</guid>
-      <description>Under guis of night our tricks take flight</description>
     </item>
   </channel>
 </rss>

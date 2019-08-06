@@ -4,11 +4,18 @@
     <link>http://palaver.jerad.xyz/categories/</link>
     <description>Recent content in Categories on Palaver</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://palaver.jerad.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>love</title>
+      <link>http://palaver.jerad.xyz/categories/love/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/categories/love/</guid>
+      <description></description>
+    </item><item>
       <title>mineRadio</title>
       <link>http://palaver.jerad.xyz/categories/mineradio/</link>
       <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
@@ -35,13 +42,6 @@
       <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>http://palaver.jerad.xyz/categories/rstats/</guid>
-      <description></description>
-    </item><item>
-      <title>Game</title>
-      <link>http://palaver.jerad.xyz/categories/game/</link>
-      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/categories/game/</guid>
       <description></description>
     </item>
   </channel>
