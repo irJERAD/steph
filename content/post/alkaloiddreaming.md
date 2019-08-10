@@ -4,7 +4,7 @@ date: 2019-07-30
 description: "Alkaloid dreaming interacting vocal viral steaming"
 categories: ['MineRadio']
 comments: true
-featuredImage: ""
+featuredImage: "img/paper/cuppedflow.png"
 featuredImageDescription: ""
 dropCap: true
 displayInMenu: false
