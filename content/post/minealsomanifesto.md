@@ -4,8 +4,8 @@ date: 2019-08-16
 description: ""
 categories: ['MineRadio']
 comments: true
-featuredImage: ""
-featuredImageDescription: ""
+featuredImage: "/img/paper/shipsmog.png"
+featuredImageDescription: "platform is going up"
 dropCap: true
 displayInMenu: true
 displayInList: true
