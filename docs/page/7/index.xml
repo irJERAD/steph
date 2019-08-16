@@ -9,6 +9,13 @@
         <atom:link href="http://palaver.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Connected Evolution</title>
+      <link>http://palaver.jerad.xyz/post/connectedeve/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/connectedeve/</guid>
+      <description>Connected with the cure</description>
+    </item><item>
       <title>De Ja Notes</title>
       <link>http://palaver.jerad.xyz/post/dejanotes/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>

@@ -9,6 +9,13 @@
         <atom:link href="http://palaver.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>MindShare Manifesto</title>
+      <link>http://palaver.jerad.xyz/post/mindsharemanifesto/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/mindsharemanifesto/</guid>
+      <description>A call to propogate what we have all been feeling, an awakening.</description>
+    </item><item>
       <title>Ja Rule</title>
       <link>http://palaver.jerad.xyz/post/firstrule/</link>
       <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
@@ -36,13 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/asoflate/</guid>
       <description>detangled narratives</description>
-    </item><item>
-      <title>Sera Sera</title>
-      <link>http://palaver.jerad.xyz/post/serasera/</link>
-      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/serasera/</guid>
-      <description>Let it be, this love of ours</description>
     </item>
   </channel>
 </rss>

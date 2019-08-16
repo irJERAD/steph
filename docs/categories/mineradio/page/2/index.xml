@@ -1,14 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MineRadio - Palaver</title>
+    <title>mineRadio - Palaver</title>
     <link>http://palaver.jerad.xyz/categories/mineradio/</link>
-    <description>Recent content in MineRadio on Palaver</description>
+    <description>Recent content in mineRadio on Palaver</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://palaver.jerad.xyz/categories/mineradio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>The End is Near</title>
+      <link>http://palaver.jerad.xyz/post/endisnear/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/endisnear/</guid>
+      <description></description>
+    </item><item>
       <title>Here We Are</title>
       <link>http://palaver.jerad.xyz/post/hereweare/</link>
       <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
@@ -36,13 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/mindsharemanifesto/</guid>
       <description>A call to propogate what we have all been feeling, an awakening.</description>
-    </item><item>
-      <title>Ja Rule</title>
-      <link>http://palaver.jerad.xyz/post/firstrule/</link>
-      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/firstrule/</guid>
-      <description>How we interpret our rhetoric</description>
     </item>
   </channel>
 </rss>

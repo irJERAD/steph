@@ -12,6 +12,8 @@ displayInList: true
 draft: true
 ---
 
+Ideas, Concept, Minds, Perspective
+
 ## Goal: Brand  
 everything feeds up to and can leverage off the platform
 
@@ -19,7 +21,7 @@ everything feeds up to and can leverage off the platform
 ## Goal: Dream Scaping  
 - Create recorded sets of visual, auditory, and somatosensory entertainment  
 - Practice playing live sets
-- experiment 
+- Experiment in creative exercises of interacting with artistic displays  
 
 ### Parts  
 - Hardware
@@ -30,4 +32,9 @@ everything feeds up to and can leverage off the platform
 ### Fixes  
 - Finger Pointing: Calling out names of people
 - Story: what happened, how it happened, maybe why  
-    - 
+
+
+## Goal: Collective Conscious Cure  
+- Connected Nervous Systems: Human-to-Human  
+- Connected Nervous Systems: Human-to-Machine  
+

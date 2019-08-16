@@ -1,14 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MineRadio - Palaver</title>
+    <title>mineRadio - Palaver</title>
     <link>http://palaver.jerad.xyz/categories/mineradio/</link>
-    <description>Recent content in MineRadio on Palaver</description>
+    <description>Recent content in mineRadio on Palaver</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://palaver.jerad.xyz/categories/mineradio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Alleviate</title>
+      <link>http://palaver.jerad.xyz/post/alleviate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/alleviate/</guid>
+      <description>Lift this opiate to the masses</description>
+    </item><item>
       <title>Silk Worms Cradle</title>
       <link>http://palaver.jerad.xyz/post/silkwormscraddle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

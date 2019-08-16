@@ -9,6 +9,13 @@
         <atom:link href="http://palaver.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Hold On</title>
+      <link>http://palaver.jerad.xyz/post/holdon/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/holdon/</guid>
+      <description>Watching the Sunrise</description>
+    </item><item>
       <title>The End is Near</title>
       <link>http://palaver.jerad.xyz/post/endisnear/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
@@ -36,13 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/fourthshadow/</guid>
       <description>Shattered, and were are just about to wrap it up</description>
-    </item><item>
-      <title>MindShare Manifesto</title>
-      <link>http://palaver.jerad.xyz/post/mindsharemanifesto/</link>
-      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/mindsharemanifesto/</guid>
-      <description>A call to propogate what we have all been feeling, an awakening.</description>
     </item>
   </channel>
 </rss>

@@ -2,14 +2,14 @@
 title: "Collective Conscious Cure"
 date: 2019-07-14
 description: "Entangled Nervous Systems Coach You to Health"
-categories: ['Collective Cognition']
+categories: ['Collective Cognition','MineRadio']
 comments: true
 featuredImage: "img/paper/mineblueself.png"
 featuredImageDescription: "Mine Self RadioBlue"
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: true
+draft: false
 ---
 
 Mind over matter is a powerful mantra. <br>
@@ -25,7 +25,7 @@ Flares are sent up to the central nervous system for the triaging and prioritiza
 
 * Collective Unconscious <br>
     * The Network <br>
-    * Human-to-Human Interface Extending Consciousness via [MindShare manifesto]({{< ref "post/connectedeve.md" >}}) <br>
+    * Human-to-Human Interface Extending Consciousness via [MindShare manifesto]({{< ref "/post/connectedeve.md" >}}) <br>
         * Adding peripheral nervous system as well as cerebral cortex <br>
     * Biological consequence
         * Prescribe a partner based on the signals your body needs to receive
