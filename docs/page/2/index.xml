@@ -9,6 +9,13 @@
         <atom:link href="http://palaver.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Believe</title>
+      <link>http://palaver.jerad.xyz/post/believe/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/believe/</guid>
+      <description>Belief in each other is the second step</description>
+    </item><item>
       <title>City Lights</title>
       <link>http://palaver.jerad.xyz/post/citylights/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
@@ -36,13 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/obeyfeelhurt/</guid>
       <description></description>
-    </item><item>
-      <title>How Did This Not Happen?</title>
-      <link>http://palaver.jerad.xyz/post/didnothappen/</link>
-      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/didnothappen/</guid>
-      <description>Is it possible something so beautiful and expected did no come to pass?</description>
     </item>
   </channel>
 </rss>
