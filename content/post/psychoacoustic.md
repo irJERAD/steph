@@ -4,8 +4,8 @@ date: 2019-08-02
 description: "The sound of science putting free will in the back seat"
 categories: ['MineRadio']
 comments: true
-featuredImage: ""
-featuredImageDescription: "img/paper/mineradio.png"
+featuredImage: "/img/paper/mineradio.png"
+featuredImageDescription: ""
 dropCap: true
 displayInMenu: false
 displayInList: true
@@ -35,7 +35,10 @@ another tool, planned <br>
 
 _Communing with the executors of our destruction. Dining with the bullet_
 
-Mites target object of affection <br>
+Mite this target object of affection <br> 
+Be Mine, is subject to rejection <br> 
+Enough to get this last breadth in <br> 
+Saturated fast among what is mixed with <br> 
 
 
 ## Psycho Acoustic in Military
