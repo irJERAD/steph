@@ -4,7 +4,7 @@ date: 2019-08-20
 description: "A Meta for expanded mindsets read over TV dinner trays”
 categories: ['MineRadio']
 comments: true
-featuredImage: "img/paper/cuppedflow.png"
+featuredImage: "/img/paper/cuppedflow.png"
 featuredImageDescription: "rest atop a cup, balanced”
 dropCap: true
 displayInMenu: false
