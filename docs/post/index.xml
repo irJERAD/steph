@@ -4,11 +4,18 @@
     <link>http://palaver.jerad.xyz/post/</link>
     <description>Recent content in Posts on Palaver</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 09 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://palaver.jerad.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Her Hips Be Square</title>
+      <link>http://palaver.jerad.xyz/post/herhipsbesquare/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/herhipsbesquare/</guid>
+      <description></description>
+    </item><item>
       <title>Ground Yourself</title>
       <link>http://palaver.jerad.xyz/post/groundyourself/</link>
       <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
@@ -36,13 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/hexigonalimprints/</guid>
       <description>Satalight Inscription, Reminds me to take my prescription</description>
-    </item><item>
-      <title>Alkaloid Dreaming</title>
-      <link>http://palaver.jerad.xyz/post/alkaloiddreaming/</link>
-      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/alkaloiddreaming/</guid>
-      <description>Alkaloid dreaming interacting vocal viral steaming</description>
     </item>
   </channel>
 </rss>

@@ -4,11 +4,18 @@
     <link>http://palaver.jerad.xyz/categories/love/</link>
     <description>Recent content in love on Palaver</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://palaver.jerad.xyz/categories/love/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Her Hips Be Square</title>
+      <link>http://palaver.jerad.xyz/post/herhipsbesquare/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/herhipsbesquare/</guid>
+      <description></description>
+    </item><item>
       <title>Turtle :: Dove</title>
       <link>http://palaver.jerad.xyz/post/turtledove/</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
@@ -36,13 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/holdon/</guid>
       <description>Watching the Sunrise</description>
-    </item><item>
-      <title>Sera Sera</title>
-      <link>http://palaver.jerad.xyz/post/serasera/</link>
-      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/serasera/</guid>
-      <description>Let it be, this love of ours</description>
     </item>
   </channel>
 </rss>

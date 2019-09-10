@@ -2,7 +2,7 @@
 title: "Absolute Absolution"
 date: "2019-09-09"
 description: "In wake of my wake I make a stake not to take"
-categories: []
+categories: ['personal']
 featuredImage: "img/paper/bananafan.png"
 imageDescription: "Killing for a Castle"
 dropCap: true

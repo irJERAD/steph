@@ -14,3 +14,6 @@ Pages with details to our hearts desire. <br>
 Contents from troves of treasures we've admired to our hearts content. <br>
 
 Metaphors from when we met 'til our why where and what for has suceeded from the ill poisons of envy, lust, and greed of those who would break our union and dedication to each other. <br>
+
+Instagram: @irjerad  
+facebook: https://www.facebook.com/jeradacosta

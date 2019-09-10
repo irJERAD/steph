@@ -4,11 +4,18 @@
     <link>http://palaver.jerad.xyz/post/</link>
     <description>Recent content in Posts on Palaver</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 09 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://palaver.jerad.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Connected Evolution</title>
+      <link>http://palaver.jerad.xyz/post/connectedeve/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/connectedeve/</guid>
+      <description>Connected with the cure</description>
+    </item><item>
       <title>De Ja Notes</title>
       <link>http://palaver.jerad.xyz/post/dejanotes/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
