@@ -9,6 +9,27 @@
         <atom:link href="http://palaver.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>How can I say, I love you</title>
+      <link>http://palaver.jerad.xyz/jk2/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/jk2/</guid>
+      <description>Only so many ways to excuse mine radio</description>
+    </item><item>
+      <title>Absolute Absolution</title>
+      <link>http://palaver.jerad.xyz/pages/absoluteabsolution/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/pages/absoluteabsolution/</guid>
+      <description>In wake of my wake I make a stake not to take</description>
+    </item><item>
+      <title>Unchanged Drivers Bank Rigid Roads</title>
+      <link>http://palaver.jerad.xyz/thegame/colorofpaint/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/thegame/colorofpaint/</guid>
+      <description>In the game one can spend generations of wealth, finding where there started just the other day.</description>
+    </item><item>
       <title>Her Hips Be Square</title>
       <link>http://palaver.jerad.xyz/post/herhipsbesquare/</link>
       <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
@@ -22,27 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/groundyourself/</guid>
       <description>find a place to grow down and out</description>
-    </item><item>
-      <title>Turtle :: Dove</title>
-      <link>http://palaver.jerad.xyz/post/turtledove/</link>
-      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/turtledove/</guid>
-      <description>We are two: Turtle and Dove My Wife and I</description>
-    </item><item>
-      <title>Psycho Acoustic unFair</title>
-      <link>http://palaver.jerad.xyz/post/psychoacoustic/</link>
-      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/psychoacoustic/</guid>
-      <description>The sound of science putting free will in the back seat</description>
-    </item><item>
-      <title>Hexigonal Imprints</title>
-      <link>http://palaver.jerad.xyz/post/hexigonalimprints/</link>
-      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/hexigonalimprints/</guid>
-      <description>Satalight Inscription, Reminds me to take my prescription</description>
     </item>
   </channel>
 </rss>

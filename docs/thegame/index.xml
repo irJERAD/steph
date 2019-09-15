@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TheGames - Palaver</title>
+    <link>http://palaver.jerad.xyz/thegame/</link>
+    <description>Recent content in TheGames on Palaver</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://palaver.jerad.xyz/thegame/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Unchanged Drivers Bank Rigid Roads</title>
+      <link>http://palaver.jerad.xyz/thegame/colorofpaint/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/thegame/colorofpaint/</guid>
+      <description>In the game one can spend generations of wealth, finding where there started just the other day.</description>
+    </item>
+  </channel>
+</rss>

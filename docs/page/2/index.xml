@@ -9,6 +9,27 @@
         <atom:link href="http://palaver.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Turtle :: Dove</title>
+      <link>http://palaver.jerad.xyz/post/turtledove/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/turtledove/</guid>
+      <description>We are two: Turtle and Dove My Wife and I</description>
+    </item><item>
+      <title>Psycho Acoustic unFair</title>
+      <link>http://palaver.jerad.xyz/post/psychoacoustic/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/psychoacoustic/</guid>
+      <description>The sound of science putting free will in the back seat</description>
+    </item><item>
+      <title>Hexigonal Imprints</title>
+      <link>http://palaver.jerad.xyz/post/hexigonalimprints/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/hexigonalimprints/</guid>
+      <description>Satalight Inscription, Reminds me to take my prescription</description>
+    </item><item>
       <title>Alkaloid Dreaming</title>
       <link>http://palaver.jerad.xyz/post/alkaloiddreaming/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
@@ -22,27 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/believe/</guid>
       <description>Belief in each other is the second step</description>
-    </item><item>
-      <title>City Lights</title>
-      <link>http://palaver.jerad.xyz/post/citylights/</link>
-      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/citylights/</guid>
-      <description>Under guis of night our tricks take flight</description>
-    </item><item>
-      <title>Earthquake A Statistical Analysis With R</title>
-      <link>http://palaver.jerad.xyz/post/earthquakeanalysis/</link>
-      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/earthquakeanalysis/</guid>
-      <description>Exploring views on earthquake data from around the world</description>
-    </item><item>
-      <title>header file</title>
-      <link>http://palaver.jerad.xyz/post/header/</link>
-      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/header/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
