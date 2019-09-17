@@ -9,7 +9,7 @@ featuredImageDescription: "two hearts join as one"
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: false
+draft: true
 ---
 
 # Happy Wedding Day to Mr and Mrs J and K K
