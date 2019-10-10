@@ -4,7 +4,7 @@ date: 2019-10-10
 description: "it is not what they have, it's what they want.."
 categories: []
 comments: true
-featuredImage: "img/paper/cuppedflow.png"
+featuredImage: "/img/paper/door.png"
 featuredImageDescription: "fill my cup with passion for truth"
 dropCap: true
 displayInMenu: true
