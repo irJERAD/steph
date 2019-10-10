@@ -9,7 +9,7 @@ featuredImageDescription: "fill my cup with passion for truth"
 dropCap: true
 displayInMenu: true
 displayInList: true
-draft: true
+draft: false
 ---
 
 Before feeding terrorist

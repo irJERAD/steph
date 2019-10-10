@@ -9,6 +9,13 @@
         <atom:link href="http://palaver.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>My ParaSight</title>
+      <link>http://palaver.jerad.xyz/myparasight/</link>
+      <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/myparasight/</guid>
+      <description>It Drains Me to my soul occupation</description>
+    </item><item>
       <title>Us Always: Meglow</title>
       <link>http://palaver.jerad.xyz/post/usalways/</link>
       <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
@@ -36,13 +43,6 @@
       
       <guid>http://palaver.jerad.xyz/post/connectedeve/</guid>
       <description>Connected with the cure</description>
-    </item><item>
-      <title>De Ja Notes</title>
-      <link>http://palaver.jerad.xyz/post/dejanotes/</link>
-      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/post/dejanotes/</guid>
-      <description>Strange occurances</description>
     </item>
   </channel>
 </rss>
