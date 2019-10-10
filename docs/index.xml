@@ -9,13 +9,6 @@
         <atom:link href="http://palaver.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>How can I say, I love you</title>
-      <link>http://palaver.jerad.xyz/jk2/</link>
-      <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://palaver.jerad.xyz/jk2/</guid>
-      <description>Only so many ways to excuse mine radio</description>
-    </item><item>
       <title>Absolute Absolution</title>
       <link>http://palaver.jerad.xyz/pages/absoluteabsolution/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
@@ -24,10 +17,10 @@
       <description>In wake of my wake I make a stake not to take</description>
     </item><item>
       <title>Unchanged Drivers Bank Rigid Roads</title>
-      <link>http://palaver.jerad.xyz/thegame/colorofpaint/</link>
+      <link>http://palaver.jerad.xyz/game/colorofpaint/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://palaver.jerad.xyz/thegame/colorofpaint/</guid>
+      <guid>http://palaver.jerad.xyz/game/colorofpaint/</guid>
       <description>In the game one can spend generations of wealth, finding where there started just the other day.</description>
     </item><item>
       <title>Her Hips Be Square</title>
@@ -43,6 +36,13 @@
       
       <guid>http://palaver.jerad.xyz/post/groundyourself/</guid>
       <description>find a place to grow down and out</description>
+    </item><item>
+      <title>Turtle :: Dove</title>
+      <link>http://palaver.jerad.xyz/post/turtledove/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/post/turtledove/</guid>
+      <description>We are two: Turtle and Dove My Wife and I</description>
     </item>
   </channel>
 </rss>

@@ -15,4 +15,4 @@ draft: true
 Before feeding terrorist
 Before my beautiful death
 
-Fail to trade an asset to them in exchange for a promise to what they do not own.   
+Fail to trade an asset to them in exchange for a promise of what they do not own.   
