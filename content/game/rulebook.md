@@ -9,5 +9,10 @@ featuredImageDescription: ""
 dropCap: true
 displayInMenu: false
 displayInList: true
-draft: true
+draft: false
 ---
+
+A bitcoin address for palaver.  
+Saving for a physical card / wallet with the first cent I get here.  
+
+14EoCr6Q6QegTwDKGoRKpXv1ZkWLyZEe6U
