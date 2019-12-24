@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dreams - Palaver</title>
+    <link>http://palaver.jerad.xyz/dreams/</link>
+    <description>Recent content in Dreams on Palaver</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://palaver.jerad.xyz/dreams/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Observer</title>
+      <link>http://palaver.jerad.xyz/dreams/theobserver/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/dreams/theobserver/</guid>
+      <description>on a journey to this place I was assigned my life&#39;s purpose, on the other side</description>
+    </item>
+  </channel>
+</rss>

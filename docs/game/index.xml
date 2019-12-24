@@ -4,11 +4,18 @@
     <link>http://palaver.jerad.xyz/game/</link>
     <description>Recent content in Games on Palaver</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://palaver.jerad.xyz/game/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Rule Book</title>
+      <link>http://palaver.jerad.xyz/game/rulebook/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://palaver.jerad.xyz/game/rulebook/</guid>
+      <description></description>
+    </item><item>
       <title>Unchanged Drivers Bank Rigid Roads</title>
       <link>http://palaver.jerad.xyz/game/colorofpaint/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>

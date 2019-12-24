@@ -67,18 +67,11 @@ if (!doNotTrack) {
           <img src="http://palaver.jerad.xyz/img/paper/hooked.png" alt="">
         </picture>
         
-        <p>&lt;!DOCTYPE html PUBLIC &ldquo;-//W3C//DTD HTML 4.01 Transitional//EN&rdquo;&gt;
-<html>
-<head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
-<title></title>
-<script language="javascript" type="text/javascript">
-                            &lt;!&ndash;
-                            function hover(iNode, over) {</p>
-
+        <!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 <pre><code>                        if (over) {
                         t = document.getElementById(iNode).alt;
-
+                        
                         if (t == '*') {
                         document.getElementById(iNode).className='handle-image';
                         } else if (t == 'V') {
@@ -90,14 +83,14 @@ if (!doNotTrack) {
                         document.getElementById(iNode).className='blank-image';
                         }
                         }
-
+                        
                         function expand(ioNode) {
                         ioWedge = &quot;i&quot; + ioNode.substr(1);
-
+                        
                         if (document.getElementById &amp;&amp; document.getElementById(ioNode) !=  null) {
-
+                        
                         document.getElementById(ioNode).className='expanded';
-
+                        
                         if (document.getElementById(ioWedge) !=  null) {
                         theme = document.getElementById(ioWedge).className;
                         if (theme == &quot;expand-image-light-theme&quot;) {
@@ -112,14 +105,14 @@ if (!doNotTrack) {
                         }
                         }
                         }
-
+                        
                         function collapse(ioNode) {
                         ioWedge = &quot;i&quot; + ioNode.substr(1);
-
+                        
                         if (document.getElementById &amp;&amp; document.getElementById(ioNode) != null) {
-
+                        
                         document.getElementById(ioNode).className='collapsed';
-
+                        
                         if (document.getElementById(ioWedge) !=  null) {   
                         theme = document.getElementById(ioWedge).className; 
                         if (theme == &quot;collapse-image-light-theme&quot;) {    
@@ -134,13 +127,13 @@ if (!doNotTrack) {
                         }
                         }
                         }
-
+                        
                         function ioSwitch(ioNode,fully) {
-
+                        
                         if (document.getElementById &amp;&amp; document.getElementById(ioNode) !=  null) {
                         nodeState = document.getElementById(ioNode).className;
                         }
-
+                        
                         if (nodeState == 'collapsed') {
                         if (fully) {
                         expandAll();
@@ -148,7 +141,7 @@ if (!doNotTrack) {
                         expand(ioNode);
                         }
                         }
-
+                        
                         else {
                         if (fully) {
                         collapseAll();
@@ -158,43 +151,43 @@ if (!doNotTrack) {
                         }
                         updateRowBackgroundColors();
                         }
-
+                        
                         function expandAll() {
-
+                        
                         if (document.getElementsByTagName) {
                         nodeList = document.getElementsByTagName('div');
-
+                        
                         for (var i = 0; i &lt; nodeList.length; i++) {
-
+                        
                         if (nodeList.item(i).className == 'expanded' || nodeList.item(i).className == 'collapsed') {
                         expand(nodeList.item(i).id);
                         }
                         }
                         }
-
+                        
                         else {
                         alert (&quot;Sorry, don't know how to make this run in your browser.&quot;);
                         }
                         }
-
+                        
                         function collapseAll() {
-
+                        
                         if (document.getElementsByTagName) {
                         nodeList = document.getElementsByTagName('div');
-
+                        
                         for (var i = 0; i &lt; nodeList.length; i++) {
-
+                        
                         if (nodeList.item(i).className == 'expanded' || nodeList.item(i).className == 'collapsed') {
                         collapse(nodeList.item(i).id);
                         }
                         }
                         }
-
+                        
                         else {
                         alert (&quot;Sorry, don't know how to make this run in your browser.&quot;);
                         }
                         }
-
+                        
                         function hasClass(ele,cls) {
                         return ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
                         }
@@ -207,12 +200,12 @@ if (!doNotTrack) {
                         ele.className=ele.className.replace(reg,' ');
                         }
                         }
-
+                        
                         function isVisible(obj)
                         {
                         if (obj == document)
                         return true;
-
+                        
                         if (!obj)
                         return false;
                         if (!obj.parentNode)
@@ -223,7 +216,7 @@ if (!doNotTrack) {
                         if (obj.style.visibility == 'hidden')
                         return false;
                         }
-
+                        
                         //Try the computed style in a standard way
                         if (window.getComputedStyle) {
                         var style = window.getComputedStyle(obj, &quot;&quot;);
@@ -232,7 +225,7 @@ if (!doNotTrack) {
                         if (style.visibility == 'hidden')
                         return false;
                         }
-
+                        
                         //Or get the computed style using IE's silly proprietary way
                         var style = obj.currentStyle
                         if (style) {
@@ -243,7 +236,7 @@ if (!doNotTrack) {
                         }
                         return isVisible(obj.parentNode);
                         }
-
+                        
                         function updateRowBackgroundColors() {
                         // do not update row colors unless alternate row colors has been specified.
                         if (!hasClass(document.body, 'altRowColors'))
@@ -265,21 +258,21 @@ if (!doNotTrack) {
                         }
                         }
                         }
-
+                        
                         function mouseMoved() {
                         fadeInHUD();
                         document.body.onmousemove = '';
                         setTimeout('fadeOutHUD();', 1000);
                         }
-
+                        
                         function fadeInHUD() {
                         document.getElementById(&quot;floating-palette&quot;).style.opacity = 0.8;
                         }
-
+                        
                         function fadeOutHUD() {
                         document.getElementById(&quot;floating-palette&quot;).style.opacity = 0;
                         }
-
+                        
                         window.onload = updateRowBackgroundColors;
                         --&gt;
             &lt;/script&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -307,7 +300,7 @@ if (!doNotTrack) {
                 background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAB1WlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS4xLjIiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp0aWZmPSJodHRwOi8vbnMuYWRvYmUuY29tL3RpZmYvMS4wLyI+CiAgICAgICAgIDx0aWZmOkNvbXByZXNzaW9uPjU8L3RpZmY6Q29tcHJlc3Npb24+CiAgICAgICAgIDx0aWZmOlBob3RvbWV0cmljSW50ZXJwcmV0YXRpb24+MjwvdGlmZjpQaG90b21ldHJpY0ludGVycHJldGF0aW9uPgogICAgICAgICA8dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KbQULngAAANRJREFUSA3tVbsOgzAMjFE7I7FU6sz/f1HHihGJGYlwlybIQ0TEw3TBkklk7DvHeVi8985SKktwYj8SgYiQ7A1toM9k3ziO8O+hHSozMXYhwJzgLxoPCBNLGF/iaAJmTvmAffhNt31RhRoRLZRYgUDvQSjLXnCmomKXEmsC+pwuN0GxpOYl0sc0mw2O3upbgpMj2cBo/P8KShmuZc9/5iu4CUpbcO0esFm4+OQWM8s5qNiARR990diJ2CxaOPLfESFWEE3QRdspLTNiOcFFSnOT0fwezJBXK1R4LdT+AAAAAElFTkSuQmCC
 ) no-repeat center;
                 }
-
+                
                 .handle-image-light-theme { width: 14px; height: 14px; margin: 0 auto;
                 background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB1WlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS4xLjIiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp0aWZmPSJodHRwOi8vbnMuYWRvYmUuY29tL3RpZmYvMS4wLyI+CiAgICAgICAgIDx0aWZmOkNvbXByZXNzaW9uPjU8L3RpZmY6Q29tcHJlc3Npb24+CiAgICAgICAgIDx0aWZmOlBob3RvbWV0cmljSW50ZXJwcmV0YXRpb24+MjwvdGlmZjpQaG90b21ldHJpY0ludGVycHJldGF0aW9uPgogICAgICAgICA8dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KbQULngAAAONJREFUKBWdkj8PgkAMxYEw4J+dOJg4ODiS+P2/iYOJkzuogwF/r1yJXCAYmzzu2r7HXdtLu65L/rE8FqUYsS0oQu7FWnPA6IT020cj8gFI/ASyFZDoAvetgJmEQazTz6D0mK/E9iFXDLEg0gknETwRr+TKwLFbZjiyDcgg38yb+JC7E/b6ExeqjscEPw6pbmuaC2PCou9C/Wm9yO47rPEMV23Yt4xjNycmp85qLLVxvHs4GkcFpsahjmpUufPjByDxEagEb5ZKaMEVkV2TfTISWqB/chqPOi1T/Q2i+SdntB8/H6qpgoQ4pFxfAAAAAElFTkSuQmCC
 ) no-repeat;
@@ -339,73 +332,73 @@ if (!doNotTrack) {
                 body {
                 -webkit-text-size-adjust:none;
                 }
-
+		
         th {
         vertical-align: bottom;
-
+		
         }
-
+		
         td {
         vertical-align: top;
         }
-
+		
         td,th {
-
+		
         empty-cells: show;
         }
-
+		
         .no-border {
         border-bottom: 0px;
         border-left: 0px;
         }
-
-
-
-
+		
+		
+		
+		
         table {
-
+		
         font-family: Helvetica, sans-serif;
         font-size: 12px;
-        font-family: &quot;Optima&quot;, sans-serif;  font-size: 24px;            
-
+        font-family: &quot;Optima&quot;, sans-serif;  font-size: 24px;			
+		
         }
 
-
-
+		
+		
         .wholeDocument {
         color:rgb(24,24,24) ;  font-family: &quot;Optima&quot;, sans-serif;  font-size: 24px;background-color:rgb(230,163,160) ;  
 
         }
-
-
+	
+		
         td.subcell {
         border: none;
         }
-
+		
         td.content {
         padding-left: 4px;
         padding-bottom: 2px;
         padding-top: 1px;
         padding-right: 3px;
         }
-
+		
         .full {
         height: 100%;
         }
-
+		
         .heighthack {
         height: 8px;
         }
-
+		
         div.titlepadding { 
         padding-right:3px;
         padding-left:6px;
         padding-bottom:3px;
         padding-top: 2px;
         }
-
-
-
+		
+		
+		
         div.column {   
         padding-right: 3px;
         padding-left: 4px;
@@ -413,13 +406,13 @@ if (!doNotTrack) {
         padding-bottom: 2px;
         margin-right: 1px;
         }
-
+		
         .labelpadding {
         padding-right: 3px;
         padding-top: 1px;
         padding-left: 2px;
         }
-
+		
         .indicator {
         white-space: nowrap;
         text-align:right;
@@ -428,25 +421,25 @@ if (!doNotTrack) {
         padding-top: 1px;
         padding-left: 0px;
         }
-
+		
 
         .wholedocgutter {
-
+                    
         }
-
+		
         div.row {
         }
-
+		
         div.headerRow {
         }
-
+		
         .expanded {
         display: block;
         }
         .collapsed {
         display: none;
         }
-
+		
         div.palette-hit-zone {
             position: fixed;
             bottom: 0px;
@@ -469,7 +462,7 @@ if (!doNotTrack) {
             left: 50%;
             margin-left: -44px;
         }
-
+        
         div.palette-cell {
             opacity:1;
             margin-top: 6px;
@@ -478,7 +471,7 @@ if (!doNotTrack) {
             height: 32px;
             width: 32px;
         }
-
+        
         div.cell-divider {
             position: absolute;
             margin-top: 6px;
@@ -491,17 +484,17 @@ if (!doNotTrack) {
             border-right:rgb(207, 207, 207) 2px solid;
         }
 
-
-
+		
+		
         .status-column-width {
             width: 27px;
         }
-
+        
         div.status {
             padding: 2px 3px 1px 0px;
         }
 
-
+        
         .note { 
         padding-left: 5px;
         padding-right: 3px; 
@@ -509,23 +502,23 @@ if (!doNotTrack) {
         color:rgb(100,123,131) ;  font-style: italic;font-size: 12px;font-style: italic;font-size: 12px;
         }
         .note-bg { 
-
+		
         }
-
+		
         /* Total table width is 979
         Adjusted table width is 1037 */
-
+		
         .wholething {
             width: auto;
         }
-
-
+		
+		
         table.row {
-
+			
             width: 979px;
         }
-
-
+		
+		
 .col_width1 { 
     width: 636px;  /* Actual width is 636 */
 }
@@ -535,40 +528,40 @@ if (!doNotTrack) {
 }
 
 .col1 { 
-
+    
 }
 
 .col2 { 
-
+    
 }
 
 .colbackground1 { 
-
+    
 }
 
 .colbackground2 { 
-
+    
 }
 
 .columntitle { 
     font-family: 'Helvetica Neue', Helvetica, sans-serif; font-weight: bold; text-align: left; 
 }
 
-
-
+        
+        
         /* Level Styles */
-
-
+		
+		
 .level1 { 
     font-size: 36px;
 }
 
 .levelcolor1 { 
-
+    
 }
 
 .levelguttercolor1 { 
-
+    
 }
 
 .ns-Heading-1 { 
@@ -652,312 +645,8 @@ if (!doNotTrack) {
 .ns-gutter-Highlight-3 { 
     }
 </code></pre>
-
-<p></style>
-</head>
-<body class="wholeDocument"><table cellspacing="0" cellpadding="0" class="top-right-border"><tr><td class="wholething no-border">
-<!--Column Titles--><table cellspacing="0" border="0" cellpadding="0" class="headerRow heighthack"><tr>
-<td class=" col_width1"><div class="columntitle titlepadding">Topic<br>
-</div></td>
-<td class=" col_width2"><div class="columntitle titlepadding">Review<br>
-</div></td>
-</tr></table>
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="rfcJK14Jf_E4"><tr id="fcJK14Jf_E4">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor1"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rtfcJK14Jf_E4" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level1 levelguttercolor1" style="width: 0px;"></td>
-<td class=" subcell wholedocgutter indicator level1 levelguttercolor1" style="width: 13px;"><div onmousedown="ioSwitch('pfcJK14Jf_E4', event.shiftKey)" id="ifcJK14Jf_E4" style="margin: 2px 3px 0 3px;" border="0" alt="V" class="collapse-image-light-theme" title="collapse"></div></td>
-<td class=" subcell wholedocgutter labelpadding level1 levelguttercolor1" style=" width: 1px; "></td>
-<td class=" content level1 subcell">Charlete<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor1"><div class="full column level1" style=""></div></div></td>
-</tr></table>
-<div id="pfcJK14Jf_E4" class="expanded">
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="rnD2tjTP3qBv"><tr id="nD2tjTP3qBv">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor2"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rtnD2tjTP3qBv" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level2 levelguttercolor2" style="width: 16px;"></td>
-<td class=" subcell wholedocgutter indicator level2 levelguttercolor2" style="width: 13px;"><div border="0" style="margin: 2px 3px 0 3px;" alt="*" class="handle-image-light-theme"></div></td>
-<td class=" subcell wholedocgutter labelpadding level2 levelguttercolor2" style=" width: 1px; "></td>
-<td class=" content level2 subcell">Crawling out<br>from a cavity.<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></td>
-</tr></table>
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="raFSKckiuIoM"><tr id="aFSKckiuIoM">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor2"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rtaFSKckiuIoM" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level2 levelguttercolor2" style="width: 16px;"></td>
-<td class=" subcell wholedocgutter indicator level2 levelguttercolor2" style="width: 13px;"><div border="0" style="margin: 2px 3px 0 3px;" alt="*" class="handle-image-light-theme"></div></td>
-<td class=" subcell wholedocgutter labelpadding level2 levelguttercolor2" style=" width: 1px; "></td>
-<td class=" content level2 subcell">Clawing down <br>an esophagus.<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></td>
-</tr></table>
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="reKsslFXdlGN"><tr id="eKsslFXdlGN">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor2"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rteKsslFXdlGN" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level2 levelguttercolor2" style="width: 16px;"></td>
-<td class=" subcell wholedocgutter indicator level2 levelguttercolor2" style="width: 13px;"><div border="0" style="margin: 2px 3px 0 3px;" alt="*" class="handle-image-light-theme"></div></td>
-<td class=" subcell wholedocgutter labelpadding level2 levelguttercolor2" style=" width: 1px; "></td>
-<td class=" content level2 subcell">Attempt to vomit blocked <br>by a churning, Soft <br>cement dried stomach caulk.<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></td>
-</tr></table>
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="rhX_pHl0YayV"><tr id="hX_pHl0YayV">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor2"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rthX_pHl0YayV" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level2 levelguttercolor2" style="width: 16px;"></td>
-<td class=" subcell wholedocgutter indicator level2 levelguttercolor2" style="width: 13px;"><div onmousedown="ioSwitch('phX_pHl0YayV', event.shiftKey)" id="ihX_pHl0YayV" style="margin: 2px 3px 0 3px;" border="0" alt="V" class="collapse-image-light-theme" title="collapse"></div></td>
-<td class=" subcell wholedocgutter labelpadding level2 levelguttercolor2" style=" width: 1px; "></td>
-<td class=" content level2 subcell">Jabs needle-nose legs <br>In frustrated steps,<br>Hallucinating Imbalance<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></td>
-</tr></table>
-<div id="phX_pHl0YayV" class="expanded">
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="rgqm6zhygdsr"><tr id="gqm6zhygdsr">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor3"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rtgqm6zhygdsr" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level3 levelguttercolor3" style="width: 32px;"></td>
-<td class=" subcell wholedocgutter indicator level3 levelguttercolor3" style="width: 13px;"><div border="0" style="margin: 2px 3px 0 3px;" alt="*" class="handle-image-light-theme"></div></td>
-<td class=" subcell wholedocgutter labelpadding level3 levelguttercolor3" style=" width: 1px; "></td>
-<td class=" content level3 subcell">Setting a new balance in-step hallucination.<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor3"><div class="full column level3" style=""></div></div></td>
-</tr></table>
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="raJbHIaT6uY1"><tr id="aJbHIaT6uY1">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor3"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rtaJbHIaT6uY1" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level3 levelguttercolor3" style="width: 32px;"></td>
-<td class=" subcell wholedocgutter indicator level3 levelguttercolor3" style="width: 13px;"><div onmousedown="ioSwitch('paJbHIaT6uY1', event.shiftKey)" id="iaJbHIaT6uY1" style="margin: 2px 3px 0 3px;" border="0" alt="V" class="collapse-image-light-theme" title="collapse"></div></td>
-<td class=" subcell wholedocgutter labelpadding level3 levelguttercolor3" style=" width: 1px; "></td>
-<td class=" content level3 subcell">Needle-nose legs <br>Puncture with frustrated steps,<br>Hallucinating imbalance<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor3"><div class="full column level3" style=""></div></div></td>
-</tr></table>
-<div id="paJbHIaT6uY1" class="expanded"><table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="rbn7CM-4MOcU"><tr id="bn7CM-4MOcU">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor4"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rtbn7CM-4MOcU" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level4 levelguttercolor4" style="width: 48px;"></td>
-<td class=" subcell wholedocgutter indicator level4 levelguttercolor4" style="width: 13px;"><div border="0" style="margin: 2px 3px 0 3px;" alt="*" class="handle-image-light-theme"></div></td>
-<td class=" subcell wholedocgutter labelpadding level4 levelguttercolor4" style=" width: 1px; "></td>
-<td class=" content level4 subcell">Intoxicated with delirious balance<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></td>
-</tr></table></div>
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="rjvEwbjwxqXk"><tr id="jvEwbjwxqXk">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor3"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rtjvEwbjwxqXk" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level3 levelguttercolor3" style="width: 32px;"></td>
-<td class=" subcell wholedocgutter indicator level3 levelguttercolor3" style="width: 13px;"><div onmousedown="ioSwitch('pjvEwbjwxqXk', event.shiftKey)" id="ijvEwbjwxqXk" style="margin: 2px 3px 0 3px;" border="0" alt="&gt;" class="expand-image-light-theme" title="expand"></div></td>
-<td class=" subcell wholedocgutter labelpadding level3 levelguttercolor3" style=" width: 1px; "></td>
-<td class=" content level3 subcell">Needle-nose legs <br>Puncture with frustrated steps,<br>Vision of delirious balance<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor3"><div class="full column level3" style=""></div></div></td>
-</tr></table>
-<div id="pjvEwbjwxqXk" class="collapsed"><table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="rfVIMEuy_VyR"><tr id="fVIMEuy_VyR">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor4"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rtfVIMEuy_VyR" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level4 levelguttercolor4" style="width: 48px;"></td>
-<td class=" subcell wholedocgutter indicator level4 levelguttercolor4" style="width: 13px;"><div border="0" style="margin: 2px 3px 0 3px;" alt="*" class="handle-image-light-theme"></div></td>
-<td class=" subcell wholedocgutter labelpadding level4 levelguttercolor4" style=" width: 1px; "></td>
-<td class=" content level4 subcell">Vision of symmetry<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></td>
-</tr></table></div>
-</div>
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="rnOreOCU7Hhi"><tr id="nOreOCU7Hhi">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor2"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rtnOreOCU7Hhi" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level2 levelguttercolor2" style="width: 16px;"></td>
-<td class=" subcell wholedocgutter indicator level2 levelguttercolor2" style="width: 13px;"><div border="0" style="margin: 2px 3px 0 3px;" alt="*" class="handle-image-light-theme"></div></td>
-<td class=" subcell wholedocgutter labelpadding level2 levelguttercolor2" style=" width: 1px; "></td>
-<td class=" content level2 subcell">Paranoia drowning in subterfuge<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></td>
-</tr></table>
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="rgZrewMvOPIy"><tr id="gZrewMvOPIy">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor2"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rtgZrewMvOPIy" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level2 levelguttercolor2" style="width: 16px;"></td>
-<td class=" subcell wholedocgutter indicator level2 levelguttercolor2" style="width: 13px;"><div border="0" style="margin: 2px 3px 0 3px;" alt="*" class="handle-image-light-theme"></div></td>
-<td class=" subcell wholedocgutter labelpadding level2 levelguttercolor2" style=" width: 1px; "></td>
-<td class=" content level2 subcell">Modulations in sound,<br>masquerading as balled<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></td>
-</tr></table>
-</div>
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="rpJSeiH6zohM"><tr id="pJSeiH6zohM">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor1"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rtpJSeiH6zohM" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level1 levelguttercolor1" style="width: 0px;"></td>
-<td class=" subcell wholedocgutter indicator level1 levelguttercolor1" style="width: 13px;"><div border="0" style="margin: 2px 3px 0 3px;" alt="*" class="handle-image-light-theme"></div></td>
-<td class=" subcell wholedocgutter labelpadding level1 levelguttercolor1" style=" width: 1px; "></td>
-<td class=" content level1 subcell"></td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor1"><div class="full column level1" style=""></div></div></td>
-</tr></table>
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="redeZWAVzpML"><tr id="edeZWAVzpML">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor1"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rtedeZWAVzpML" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level1 levelguttercolor1" style="width: 0px;"></td>
-<td class=" subcell wholedocgutter indicator level1 levelguttercolor1" style="width: 13px;"><div onmousedown="ioSwitch('pedeZWAVzpML', event.shiftKey)" id="iedeZWAVzpML" style="margin: 2px 3px 0 3px;" border="0" alt="V" class="collapse-image-light-theme" title="collapse"></div></td>
-<td class=" subcell wholedocgutter labelpadding level1 levelguttercolor1" style=" width: 1px; "></td>
-<td class=" content level1 subcell">Post apocalyptic precog of<br>Politically corrected straw articles<br>From a twice printed paper<br>Rolled thrice, until I<br>awaken with her<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor1"><div class="full column level1" style=""></div></div></td>
-</tr></table>
-<div id="pedeZWAVzpML" class="expanded"><table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="rb_vJMLEpWuq"><tr id="b_vJMLEpWuq">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor2"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rtb_vJMLEpWuq" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level2 levelguttercolor2" style="width: 16px;"></td>
-<td class=" subcell wholedocgutter indicator level2 levelguttercolor2" style="width: 13px;"><div border="0" style="margin: 2px 3px 0 3px;" alt="*" class="handle-image-light-theme"></div></td>
-<td class=" subcell wholedocgutter labelpadding level2 levelguttercolor2" style=" width: 1px; "></td>
-<td class=" content level2 subcell">Designed by your own mind,<br>To take who you are away from who you leave behind<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></td>
-</tr></table></div>
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="rnwBUB1CxrwE"><tr id="nwBUB1CxrwE">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor1"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rtnwBUB1CxrwE" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level1 levelguttercolor1" style="width: 0px;"></td>
-<td class=" subcell wholedocgutter indicator level1 levelguttercolor1" style="width: 13px;"><div border="0" style="margin: 2px 3px 0 3px;" alt="*" class="handle-image-light-theme"></div></td>
-<td class=" subcell wholedocgutter labelpadding level1 levelguttercolor1" style=" width: 1px; "></td>
-<td class=" content level1 subcell"></td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor1"><div class="full column level1" style=""></div></div></td>
-</tr></table>
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="rhs8RfccJ3Ol"><tr id="hs8RfccJ3Ol">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor1"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rths8RfccJ3Ol" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level1 levelguttercolor1" style="width: 0px;"></td>
-<td class=" subcell wholedocgutter indicator level1 levelguttercolor1" style="width: 13px;"><div onmousedown="ioSwitch('phs8RfccJ3Ol', event.shiftKey)" id="ihs8RfccJ3Ol" style="margin: 2px 3px 0 3px;" border="0" alt="V" class="collapse-image-light-theme" title="collapse"></div></td>
-<td class=" subcell wholedocgutter labelpadding level1 levelguttercolor1" style=" width: 1px; "></td>
-<td class=" content level1 subcell">Mind’s Identity<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor1"><div class="full column level1" style=""></div></div></td>
-</tr></table>
-<div id="phs8RfccJ3Ol" class="expanded">
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="ribwl7YijC-k"><tr id="ibwl7YijC-k">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor2"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rtibwl7YijC-k" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level2 levelguttercolor2" style="width: 16px;"></td>
-<td class=" subcell wholedocgutter indicator level2 levelguttercolor2" style="width: 13px;"><div border="0" style="margin: 2px 3px 0 3px;" alt="*" class="handle-image-light-theme"></div></td>
-<td class=" subcell wholedocgutter labelpadding level2 levelguttercolor2" style=" width: 1px; "></td>
-<td class=" content level2 subcell">A Design by your own mind,<br>The Painting of who you are<br>Theft to those new<br>knew not <br>Who was there, <br>where you were<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></td>
-</tr></table>
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="rd-PLjdonpOM"><tr id="d-PLjdonpOM">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor2"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rtd-PLjdonpOM" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level2 levelguttercolor2" style="width: 16px;"></td>
-<td class=" subcell wholedocgutter indicator level2 levelguttercolor2" style="width: 13px;"><div border="0" style="margin: 2px 3px 0 3px;" alt="*" class="handle-image-light-theme"></div></td>
-<td class=" subcell wholedocgutter labelpadding level2 levelguttercolor2" style=" width: 1px; "></td>
-<td class=" content level2 subcell">Designed by your mind<br>For you, in mind<br>For if you keep in mind<br>Design your mind by<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></td>
-</tr></table>
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="rjfRIzdmja-T"><tr id="jfRIzdmja-T">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor2"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rtjfRIzdmja-T" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level2 levelguttercolor2" style="width: 16px;"></td>
-<td class=" subcell wholedocgutter indicator level2 levelguttercolor2" style="width: 13px;"><div border="0" style="margin: 2px 3px 0 3px;" alt="*" class="handle-image-light-theme"></div></td>
-<td class=" subcell wholedocgutter labelpadding level2 levelguttercolor2" style=" width: 1px; "></td>
-<td class=" content level2 subcell">Design, by your mind.<br>With you in mind.<br>If you keep in mind<br>Design your mind by<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></td>
-</tr></table>
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="rjzTT_Golb4H"><tr id="jzTT_Golb4H">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor2"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rtjzTT_Golb4H" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level2 levelguttercolor2" style="width: 16px;"></td>
-<td class=" subcell wholedocgutter indicator level2 levelguttercolor2" style="width: 13px;"><div border="0" style="margin: 2px 3px 0 3px;" alt="*" class="handle-image-light-theme"></div></td>
-<td class=" subcell wholedocgutter labelpadding level2 levelguttercolor2" style=" width: 1px; "></td>
-<td class=" content level2 subcell"></td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></td>
-</tr></table>
-</div>
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="rhuoI_w-X9rd"><tr id="huoI_w-X9rd">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor1"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rthuoI_w-X9rd" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level1 levelguttercolor1" style="width: 0px;"></td>
-<td class=" subcell wholedocgutter indicator level1 levelguttercolor1" style="width: 13px;"><div onmousedown="ioSwitch('phuoI_w-X9rd', event.shiftKey)" id="ihuoI_w-X9rd" style="margin: 2px 3px 0 3px;" border="0" alt="&gt;" class="expand-image-light-theme" title="expand"></div></td>
-<td class=" subcell wholedocgutter labelpadding level1 levelguttercolor1" style=" width: 1px; "></td>
-<td class=" content level1 subcell">Dimensions of Awareness<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor1"><div class="full column level1" style=""></div></div></td>
-</tr></table>
-<div id="phuoI_w-X9rd" class="collapsed"><table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="ri_zRr8Xm45I"><tr id="i_zRr8Xm45I">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor2"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rti_zRr8Xm45I" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level2 levelguttercolor2" style="width: 16px;"></td>
-<td class=" subcell wholedocgutter indicator level2 levelguttercolor2" style="width: 13px;"><div border="0" style="margin: 2px 3px 0 3px;" alt="*" class="handle-image-light-theme"></div></td>
-<td class=" subcell wholedocgutter labelpadding level2 levelguttercolor2" style=" width: 1px; "></td>
-<td class=" content level2 subcell">Observation of a deterministic function<br>Undermines Determinations prior to [and / or] something<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></td>
-</tr></table></div>
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="rjLnrLAR4i85"><tr id="jLnrLAR4i85">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor1"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rtjLnrLAR4i85" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level1 levelguttercolor1" style="width: 0px;"></td>
-<td class=" subcell wholedocgutter indicator level1 levelguttercolor1" style="width: 13px;"><div onmousedown="ioSwitch('pjLnrLAR4i85', event.shiftKey)" id="ijLnrLAR4i85" style="margin: 2px 3px 0 3px;" border="0" alt="V" class="collapse-image-light-theme" title="collapse"></div></td>
-<td class=" subcell wholedocgutter labelpadding level1 levelguttercolor1" style=" width: 1px; "></td>
-<td class=" content level1 subcell">Voice<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor1"><div class="full column level1" style=""></div></div></td>
-</tr></table>
-<div id="pjLnrLAR4i85" class="expanded"><table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="rpJMtvviQ0m3"><tr id="pJMtvviQ0m3">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor2"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rtpJMtvviQ0m3" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level2 levelguttercolor2" style="width: 16px;"></td>
-<td class=" subcell wholedocgutter indicator level2 levelguttercolor2" style="width: 13px;"><div border="0" style="margin: 2px 3px 0 3px;" alt="*" class="handle-image-light-theme"></div></td>
-<td class=" subcell wholedocgutter labelpadding level2 levelguttercolor2" style=" width: 1px; "></td>
-<td class=" content level2 subcell">A voice is heard,<br>Two Observed.<br>Found the Seek<br>Read in Third<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></td>
-</tr></table></div>
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="rkj3cjUaZE7W"><tr id="kj3cjUaZE7W">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor1"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rtkj3cjUaZE7W" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level1 levelguttercolor1" style="width: 0px;"></td>
-<td class=" subcell wholedocgutter indicator level1 levelguttercolor1" style="width: 13px;"><div onmousedown="ioSwitch('pkj3cjUaZE7W', event.shiftKey)" id="ikj3cjUaZE7W" style="margin: 2px 3px 0 3px;" border="0" alt="V" class="collapse-image-light-theme" title="collapse"></div></td>
-<td class=" subcell wholedocgutter labelpadding level1 levelguttercolor1" style=" width: 1px; "></td>
-<td class=" content level1 subcell">Roked<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor1"><div class="full column level1" style=""></div></div></td>
-</tr></table>
-<div id="pkj3cjUaZE7W" class="expanded">
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="rk49qJSBnoTL"><tr id="k49qJSBnoTL">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor2"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rtk49qJSBnoTL" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level2 levelguttercolor2" style="width: 16px;"></td>
-<td class=" subcell wholedocgutter indicator level2 levelguttercolor2" style="width: 13px;"><div border="0" style="margin: 2px 3px 0 3px;" alt="*" class="handle-image-light-theme"></div></td>
-<td class=" subcell wholedocgutter labelpadding level2 levelguttercolor2" style=" width: 1px; "></td>
-<td class=" content level2 subcell">Broken limbs exchanged in Lou<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></td>
-</tr></table>
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="re4kHFC75nT2"><tr id="e4kHFC75nT2">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor2"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rte4kHFC75nT2" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level2 levelguttercolor2" style="width: 16px;"></td>
-<td class=" subcell wholedocgutter indicator level2 levelguttercolor2" style="width: 13px;"><div border="0" style="margin: 2px 3px 0 3px;" alt="*" class="handle-image-light-theme"></div></td>
-<td class=" subcell wholedocgutter labelpadding level2 levelguttercolor2" style=" width: 1px; "></td>
-<td class=" content level2 subcell">Fastened techni-chloroform<br>
-</td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></td>
-</tr></table>
-<table cellspacing="0" border="0" cellpadding="0" class="row heighthack" id="rhnMfGehWhHO"><tr id="hnMfGehWhHO">
-<td class=" col1 colbackground1 col_width1" style=""><div class=" full levelcolor2"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" id="rthnMfGehWhHO" class=" col_width1 col1"><tr>
-<td class=" subcell wholedocgutter level2 levelguttercolor2" style="width: 16px;"></td>
-<td class=" subcell wholedocgutter indicator level2 levelguttercolor2" style="width: 13px;"><div border="0" style="margin: 2px 3px 0 3px;" alt="*" class="handle-image-light-theme"></div></td>
-<td class=" subcell wholedocgutter labelpadding level2 levelguttercolor2" style=" width: 1px; "></td>
-<td class=" content level2 subcell"></td>
-</tr></table></div></td>
-<td class=" col2 colbackground2 col_width2" style=""><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></td>
-</tr></table>
-</div>
-</td></tr></table></body>
-</html></p>
+<p><!-- raw HTML omitted --></p>
+<!-- raw HTML omitted -->
 
       </article>
       <div id="disqus_thread"></div>
@@ -988,7 +677,7 @@ if (!doNotTrack) {
     
   <article class="card-body">
     <h2 class="card-title"></h2>
-    <p class="card-text">Earthquake Notebook /*! jQuery v1.11.3 | (c) 2005, 2015 jQuery Foundation, Inc. | jquery.org/license */ !function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error("jQuery requires a window with a document");return b(a)}:b(a)}("undefined"!=typeof window?window:this,function(a,b){var c=[],d=c.slice,e=c.concat,f=c.push,g=c.indexOf,h={},i=h.toString,j=h.hasOwnProperty,k={},l="1.11.3",m=function(a,b){return new m.fn.init(a,b)},n=/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,o=/^-ms-/,p=/-([\da-z])/gi,q=function(a,b){return b.toUpperCase()};m.fn=m.prototype={jquery:l,constructor:m,selector:"",length:0,toArray:function(){return d.call(this)},get:function(a){return null!=a?0a?this[a+this.length]:this[a]:d.call(this)},pushStack:function(a){var b=m.merge(this.constructor(),a);return b.prevObject=this,b.context=this.context,b},each:function(a,b){return m.each(this,a,b)},map:function(a){return this.pushStack(m.map(this,function(b,c){return a.call(b,c,b)}))},slice:function(){return this.pushStack(d.apply(this,arguments))},first:function(){return this.eq(0)},last:function(){return this.eq(-1)},eq:function(a){var b=this.length,c=+a+(0a?b:0);return this.pushStack(c=0&&bc?[this[c]]:[])},end:function(){return this.prevObject||this.constructor(null)},push:f,sort:c.sort,splice:c.splice},m.extend=m.fn.extend=function(){var a,b,c,d,e,f,g=arguments[0]||{},h=1,i=arguments.length,j=!1;for("boolean"==typeof g&&(j=g,g=arguments[h]||{},h++),"object"==typeof g||m.isFunction(g)||(g={}),h===i&&(g=this,h--);ih;h++)if(null!=(e=arguments[h]))for(d in e)a=g[d],c=e[d],g!==c&&(j&&c&&(m.isPlainObject(c)||(b=m.isArray(c)))?(b?(b=!1,f=a&&m.isArray(a)?a:[]):f=a&&m.isPlainObject(a)?a:{},g[d]=m.extend(j,f,c)):void 0!==c&&(g[d]=c));return g},m.extend({expando:"jQuery"+(l+Math.random()).replace(/\D/g,""),isReady:!0,error:function(a){throw new Error(a)},noop:function(){},isFunction:function(a){return"function"===m.type(a)},isArray:Array.isArray||function(a){return"array"===m.type(a)},isWindow:function(a){return null!=a&&a==a.window},isNumeric:function(a){return!m.isArray(a)&&a-parseFloat(a)+1=0},isEmptyObject:function(a){var b;for(b in a)return!1;return!0},isPlainObject:function(a){var b;if(!a||"object"!==m.type(a)||a.nodeType||m.isWindow(a))return!1;try{if(a.constructor&&!j.call(a,"constructor")&&!j.call(a.constructor.prototype,"isPrototypeOf"))return!1}catch(c){return!1}if(k.ownLast)for(b in a)return j.call(a,b);for(b in a);return void 0===b||j.call(a,b)},type:function(a){return null==a?a+"":"object"==typeof a||"function"==typeof a?h[i.call(a)]||"object":typeof a},globalEval:function(b){b&&m.</p>
+    <p class="card-text">Earthquake Notebook/*! jQuery v1.11.3 | (c) 2005, 2015 jQuery Foundation, Inc. | jquery.org/license */!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error("jQuery requires a window with a document");return b(a)}:b(a)}("undefined"!=typeof window?window:this,function(a,b){var c=[],d=c.slice,e=c.concat,f=c.push,g=c.indexOf,h={},i=h.toString,j=h.hasOwnProperty,k={},l="1.11.3",m=function(a,b){return new m.fn.init(a,b)},n=/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,o=/^-ms-/,p=/-([\da-z])/gi,q=function(a,b){return b.toUpperCase()};m.fn=m.prototype={jquery:l,constructor:m,selector:"",length:0,toArray:function(){return d.call(this)},get:function(a){return null!=a?0a?this[a+this.length]:this[a]:d.call(this)},pushStack:function(a){var b=m.merge(this.constructor(),a);return b.prevObject=this,b.context=this.context,b},each:function(a,b){return m.each(this,a,b)},map:function(a){return this.pushStack(m.map(this,function(b,c){return a.call(b,c,b)}))},slice:function(){return this.pushStack(d.apply(this,arguments))},first:function(){return this.eq(0)},last:function(){return this.eq(-1)},eq:function(a){var b=this.length,c=+a+(0a?b:0);return this.pushStack(c=0&&bc?[this[c]]:[])},end:function(){return this.prevObject||this.constructor(null)},push:f,sort:c.sort,splice:c.splice},m.extend=m.fn.extend=function(){var a,b,c,d,e,f,g=arguments[0]||{},h=1,i=arguments.length,j=!1;for("boolean"==typeof g&&(j=g,g=arguments[h]||{},h++),"object"==typeof g||m.isFunction(g)||(g={}),h===i&&(g=this,h--);ih;h++)if(null!=(e=arguments[h]))for(d in e)a=g[d],c=e[d],g!==c&&(j&&c&&(m.isPlainObject(c)||(b=m.isArray(c)))?(b?(b=!1,f=a&&m.isArray(a)?a:[]):f=a&&m.isPlainObject(a)?a:{},g[d]=m.extend(j,f,c)):void 0!==c&&(g[d]=c));return g},m.extend({expando:"jQuery"+(l+Math.random()).replace(/\D/g,""),isReady:!0,error:function(a){throw new Error(a)},noop:function(){},isFunction:function(a){return"function"===m.type(a)},isArray:Array.isArray||function(a){return"array"===m.type(a)},isWindow:function(a){return null!=a&&a==a.window},isNumeric:function(a){return!m.isArray(a)&&a-parseFloat(a)+1=0},isEmptyObject:function(a){var b;for(b in a)return!1;return!0},isPlainObject:function(a){var b;if(!a||"object"!==m.type(a)||a.nodeType||m.isWindow(a))return!1;try{if(a.constructor&&!j.call(a,"constructor")&&!j.call(a.constructor.prototype,"isPrototypeOf"))return!1}catch(c){return!1}if(k.ownLast)for(b in a)return j.call(a,b);for(b in a);return void 0===b||j.call(a,b)},type:function(a){return null==a?a+"":"object"==typeof a||"function"==typeof a?h[i.call(a)]||"object":typeof a},globalEval:function(b){b&&m.</p>
     <div class="card-subtext muted-text">
       <p>Posted <time datetime="0001-01-01 11:00">Jan 1, 0001</time></p>
       

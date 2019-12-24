@@ -1,6 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/dreams/</loc>
+    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/dreams/theobserver/</loc>
+    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+  </url>
   
   <url>
     <loc>http://palaver.jerad.xyz/failthehostage/</loc>
@@ -13,43 +23,43 @@
   </url>
   
   <url>
+    <loc>http://palaver.jerad.xyz/categories/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/game/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/game/rulebook/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/categories/the-game/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://palaver.jerad.xyz/pages/absoluteabsolution/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://palaver.jerad.xyz/categories/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/game/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://palaver.jerad.xyz/pages/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/game/colorofpaint/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://palaver.jerad.xyz/categories/personal/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://palaver.jerad.xyz/categories/the-game/</loc>
+    <loc>http://palaver.jerad.xyz/game/colorofpaint/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -60,19 +70,16 @@
   <url>
     <loc>http://palaver.jerad.xyz/categories/hope/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://palaver.jerad.xyz/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://palaver.jerad.xyz/categories/love/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://palaver.jerad.xyz/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -86,14 +93,13 @@
   </url>
   
   <url>
-    <loc>http://palaver.jerad.xyz/post/psychoacoustic/</loc>
+    <loc>http://palaver.jerad.xyz/categories/mineradio/</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://palaver.jerad.xyz/categories/mineradio/</loc>
+    <loc>http://palaver.jerad.xyz/post/psychoacoustic/</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -119,7 +125,6 @@
   <url>
     <loc>http://palaver.jerad.xyz/categories/data/</loc>
     <lastmod>2019-07-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -130,7 +135,6 @@
   <url>
     <loc>http://palaver.jerad.xyz/categories/rstats/</loc>
     <lastmod>2019-07-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -141,7 +145,6 @@
   <url>
     <loc>http://palaver.jerad.xyz/categories/game/</loc>
     <lastmod>2019-07-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -167,7 +170,6 @@
   <url>
     <loc>http://palaver.jerad.xyz/categories/collective-cognition/</loc>
     <lastmod>2019-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -253,7 +255,6 @@
   <url>
     <loc>http://palaver.jerad.xyz/categories/aithena/</loc>
     <lastmod>2018-07-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -287,6 +288,11 @@
   </url>
   
   <url>
+    <loc>http://palaver.jerad.xyz/post/ginpaper/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://palaver.jerad.xyz/post/alleviate/</loc>
   </url>
   
@@ -296,7 +302,6 @@
   
   <url>
     <loc>http://palaver.jerad.xyz/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
